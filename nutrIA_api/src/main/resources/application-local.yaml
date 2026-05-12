@@ -17,3 +17,10 @@ spring:
   sql:
     init:
       mode: never
+
+nutria:
+  security:
+    jwt:
+      secret: ${JWT_SECRET:861313TrDaqIu349SDHonzcxc82fTm1U4Smrt5KCrMV}
+      expiration-ms: ${JWT_EXPIRATION_MS:900000}
+      refresh-expiration-ms: ${JWT_REFRESH_EXPIRATION_MS:604800000}
