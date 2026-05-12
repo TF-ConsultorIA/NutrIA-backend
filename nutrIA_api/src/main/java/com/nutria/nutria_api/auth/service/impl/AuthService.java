@@ -22,16 +22,21 @@ public class AuthService implements IAuthService {
     private final RefreshTokenService refreshTokenService;
     private final JwtService jwtService;
     private final UserRepository userRepository;
-    private final UserDetailsService userDetailsService;
+    private final CustomUserDetailsService userDetailsService;
 
     @Value("${nutria.security.jwt.expiration-ms}")
     private long expirationMs;
 
     @Override
     public AuthResponse login(LoginRequest loginRequest) {
-        authenticationManager.authenticate(
-                new UsernamePasswordAuthenticationToken(loginRequest.email(), loginRequest.password()));
-
+        try {
+            authenticationManager.authenticate(
+                    new UsernamePasswordAuthenticationToken(loginRequest.email(), loginRequest.password())
+            );
+        } catch (Exception e) {
+            e.printStackTrace();
+            throw e;
+        }
         UserDetails userDetails = userDetailsService.loadUserByUsername(loginRequest.email());
         User user = userRepository.findByEmail(loginRequest.email()).orElseThrow();
         String role = user.getRole().name();

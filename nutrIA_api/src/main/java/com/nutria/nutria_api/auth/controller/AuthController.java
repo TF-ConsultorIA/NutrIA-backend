@@ -30,7 +30,7 @@ public class AuthController {
             @ApiResponse(responseCode = "400", description = "Datos invalidos o email ya registrado")
     })
     @PostMapping("/register")
-    public ResponseEntity<RegisterUserResponse> register(RegisterUserRequest userRequest) {
+    public ResponseEntity<RegisterUserResponse> register(@RequestBody RegisterUserRequest userRequest) {
         return ResponseEntity.status(HttpStatus.CREATED).body(userService.register(userRequest));
     }
 
