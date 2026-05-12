@@ -33,6 +33,9 @@ public class RefreshTokenService {
         return refreshTokenRepository.save(rt);
     }
 
+    /**
+     * Validate: Valida que el refresh token no haya sido revocado,
+     */
     @Transactional
     public RefreshToken validate(String token) {
         RefreshToken rt = refreshTokenRepository.findByToken(token)
