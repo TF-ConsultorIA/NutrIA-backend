@@ -24,13 +24,21 @@ public class User {
     private String last_names;
 
     @Column(nullable = false)
+    private String password;
+
+    @Column(nullable = false)
     private LocalDate birth_date;
 
+    @Enumerated(EnumType.STRING)
     @Column(nullable = false)
-    private Boolean active;
+    private Gender gender;
+
+    @Enumerated(EnumType.STRING)
+    @Column(nullable = false)
+    private Role role;
 
     @Column(nullable = false)
-    private String password;
+    private Boolean active = Boolean.TRUE;
 
     @Column(name = "created_at", nullable = false)
     private LocalDate createdAt;

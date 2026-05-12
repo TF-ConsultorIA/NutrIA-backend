@@ -1,4 +1,4 @@
-package com.nutria.nutria_api.auth.service;
+package com.nutria.nutria_api.auth.service.impl;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
@@ -10,6 +10,8 @@ import org.springframework.stereotype.Service;
 
 import javax.crypto.SecretKey;
 import java.util.Date;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.function.Function;
 
 @Service
@@ -21,8 +23,11 @@ public class JwtService {
     @Value("${nutria.security.jwt.expiration-ms}")
     private long expirationMs;
 
-    public String GenerateToken(UserDetails user) {
+    public String GenerateToken(UserDetails user, String role) {
+        Map<String, Object> claims = new HashMap<>();
+        claims.put("role", role);
         return Jwts.builder()
+                .claims(claims)
                 .subject(user.getUsername())
                 .issuedAt(new Date())
                 .expiration(new Date(System.currentTimeMillis() + expirationMs))
