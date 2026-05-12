@@ -1,7 +1,7 @@
 package com.nutria.nutria_api.auth.secutiry;
 
 import com.nutria.nutria_api.auth.service.impl.JwtService;
-import com.nutria.nutria_api.auth.service.impl.UserDetailsService;
+import com.nutria.nutria_api.auth.service.impl.CustomUserDetailsService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
@@ -21,7 +21,7 @@ import java.io.IOException;
 public class JwtAuthenticationFilter extends OncePerRequestFilter {
 
     private final JwtService jwtService;
-    private final UserDetailsService userDetailsService;
+    private final CustomUserDetailsService userDetailsService;
 
     @Override
     protected void doFilterInternal(HttpServletRequest request,
@@ -48,7 +48,7 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
                 }
             }
         } catch (Exception ex) {
-            // Token invalido o expirado
+            System.out.println("No se pudo establecer la autenticación en el contexto de seguridad: " + ex.getMessage());
         }
 
         filterChain.doFilter(request, response);

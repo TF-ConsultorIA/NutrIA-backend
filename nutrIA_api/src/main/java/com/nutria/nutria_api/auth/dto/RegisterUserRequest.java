@@ -5,6 +5,8 @@ import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Size;
 
+import java.time.LocalDate;
+
 public record RegisterUserRequest(
         @NotBlank(message = "El email es obligatorio para el registro")
         @Email(message = "Formato de email invalido")
@@ -24,5 +26,9 @@ public record RegisterUserRequest(
 
         @NotBlank(message = "El genero es obligatorio")
         @Pattern(regexp = "(M|F|NE)", message = "El genero debe ser M, F o NE")
-        String gender
+        String gender,
+
+        @NotBlank(message = "El tipo de usuario debe ser especificado")
+        @Pattern(regexp = "(YOUNGER|FAMILY)", message = "Tipo invlido")
+        String userType
         ) {}
