@@ -46,8 +46,8 @@ public class UserService implements IUserService {
                 .email(userRequest.email())
                 .password(passwordEncoder.encode(userRequest.password()))
                 .name(userRequest.name())
-                .last_names(userRequest.lastNames())
-                .birth_date(LocalDate.parse((userRequest.birthDate()), DateTimeFormatter.ofPattern("yyyy-MM-dd")))
+                .lastNames(userRequest.lastNames())
+                .birthDate(LocalDate.parse((userRequest.birthDate()), DateTimeFormatter.ofPattern("yyyy-MM-dd")))
                 .gender(Gender.valueOf(userRequest.gender()))
                 .role(Role.valueOf(userRequest.userType()))
                 .build();
@@ -75,8 +75,8 @@ public class UserService implements IUserService {
         );
 
         user.setName(userRequest.name());
-        user.setLast_names(userRequest.lastNames());
-        user.setBirth_date(LocalDate.parse(userRequest.birthDate(), DateTimeFormatter.ofPattern("yyyy-MM-dd")));
+        user.setLastNames(userRequest.lastNames());
+        user.setBirthDate(LocalDate.parse(userRequest.birthDate(), DateTimeFormatter.ofPattern("yyyy-MM-dd")));
         user.setGender(Gender.valueOf(userRequest.gender()));
 
         return userMapper.toRegisterUserResponse(userRepository.save(user));

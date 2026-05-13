@@ -21,13 +21,13 @@ public class User {
     private String name;
 
     @Column(nullable = false)
-    private String last_names;
+    private String lastNames;
 
     @Column(nullable = false)
     private String password;
 
     @Column(nullable = false)
-    private LocalDate birth_date;
+    private LocalDate birthDate;
 
     @Enumerated(EnumType.STRING)
     @Column(nullable = false)
@@ -44,6 +44,12 @@ public class User {
     @Column(name = "created_at", nullable = false)
     private LocalDate createdAt;
 
+    @Column(name = "updated_at")
+    private LocalDate updatedAt;
+
     @PrePersist
     protected void onCreate() { this.createdAt = LocalDate.now(); }
+
+    @PreUpdate
+    protected void onUpdate() { this.createdAt = LocalDate.now(); }
 }
