@@ -4,6 +4,7 @@ import com.nutria.nutria_api.auth.dto.RegisterUserRequest;
 import com.nutria.nutria_api.auth.dto.UpdateUserRequest;
 import com.nutria.nutria_api.auth.dto.UserResponse;
 import com.nutria.nutria_api.auth.exception.EmailAlreadyExistsException;
+import com.nutria.nutria_api.auth.exception.NotStudentEmailException;
 import com.nutria.nutria_api.auth.exception.UsernameNotFoundException;
 import com.nutria.nutria_api.auth.mapper.UserMapper;
 import com.nutria.nutria_api.auth.model.Gender;
@@ -28,9 +29,17 @@ public class UserService implements IUserService {
 
     @Override
     @Transactional
+    // US-01 : Registro de usuario
     public UserResponse register(RegisterUserRequest userRequest) {
+        // RN-01 : Unicidad de cuenta por correo
         if(userRepository.existsByEmail(userRequest.email())) {
             throw new EmailAlreadyExistsException(userRequest.email());
+        }
+
+        // RN-26 : Registro de correo estudiantil
+        if (Role.valueOf(userRequest.userType()) == Role.YOUNGER &&
+                !userRequest.email().matches("^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.edu(\\.[a-zA-Z]{2})?$")) {
+            throw new NotStudentEmailException();
         }
 
         User user = User.builder()
@@ -59,6 +68,7 @@ public class UserService implements IUserService {
 
     @Override
     @Transactional
+    // US-03 : Actualización de información personal
     public UserResponse updateByEmail(String email, UpdateUserRequest userRequest) {
         User user = userRepository.findByEmail(email).orElseThrow(
                 () -> new UsernameNotFoundException(email)
@@ -77,5 +87,4 @@ public class UserService implements IUserService {
     public void delete(Long id){
         userRepository.deleteById(id);
     }
-
 }

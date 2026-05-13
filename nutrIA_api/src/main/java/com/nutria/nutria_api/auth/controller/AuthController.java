@@ -75,4 +75,26 @@ public class AuthController {
         authService.logoutAll(principal.getUsername());
         return ResponseEntity.noContent().build();
     }
+
+    @Operation(summary = "Cambiar el email del usuario")
+    @ApiResponses({
+            @ApiResponse(responseCode = "200", description = "Actualización de email exitoso"),
+            @ApiResponse(responseCode = "401", description = "No Autenticado")
+    })
+    @PutMapping("/change-email")
+    public ResponseEntity<ChangeCredentialsResponse> changeEmail(@RequestBody ChangeEmailRequest request, Authentication authorization) {
+        String email = ((UserDetails) authorization.getPrincipal()).getUsername();
+        return ResponseEntity.ok(authService.changeEmail(email, request));
+    }
+
+    @Operation(summary = "Cambiar la contraseña del usuario")
+    @ApiResponses({
+            @ApiResponse(responseCode = "200", description = "Actualización de email exitoso"),
+            @ApiResponse(responseCode = "401", description = "No Autenticado")
+    })
+    @PutMapping("/change-password")
+    public ResponseEntity<ChangeCredentialsResponse> changePassword(@RequestBody ChangePasswordRequest request, Authentication authorization) {
+        String email = ((UserDetails) authorization.getPrincipal()).getUsername();
+        return ResponseEntity.ok(authService.changePassword(email, request));
+    }
 }
