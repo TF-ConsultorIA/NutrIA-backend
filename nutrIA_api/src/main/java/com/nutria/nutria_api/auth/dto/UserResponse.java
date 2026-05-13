@@ -2,7 +2,7 @@ package com.nutria.nutria_api.auth.dto;
 
 import java.time.LocalDate;
 
-public record RegisterUserResponse(
+public record UserResponse(
         Long userId,
         String email,
         String name,

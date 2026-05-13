@@ -1,6 +1,6 @@
 package com.nutria.nutria_api.auth.mapper;
 
-import com.nutria.nutria_api.auth.dto.RegisterUserResponse;
+import com.nutria.nutria_api.auth.dto.UserResponse;
 import com.nutria.nutria_api.auth.model.User;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
@@ -14,5 +14,5 @@ public interface UserMapper {
     @Mapping(target = "lastNames", source = "last_names")
     @Mapping(target = "gender", source = "gender")
     @Mapping(target = "birthDate", source = "birth_date")
-    RegisterUserResponse toRegisterUserResponse(User user);
+    UserResponse toRegisterUserResponse(User user);
 }
