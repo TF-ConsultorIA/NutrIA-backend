@@ -17,12 +17,9 @@ public class OpenApiConfig {
     public OpenAPI pagoyaOpenAPI() {
         return new OpenAPI()
                 .info(new Info()
-                        .title("PagoYa API")
-                        .description("API de la billetera digital PagoYa")
-                        .version("v1")
-                        .contact(new Contact()
-                                .name("Equipo PagoYa by HampCode")
-                                .email("devacademyweb@gmail.com")))
+                        .title("NutrIA API")
+                        .description("API de la aplicacion de nutrición NutrIA")
+                        .version("v1"))
                 .addSecurityItem(new SecurityRequirement().addList(SCHEME))
                 .components(new Components().addSecuritySchemes(SCHEME,
                         new SecurityScheme()
