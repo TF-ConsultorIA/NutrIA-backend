@@ -28,14 +28,14 @@ public class SecurityConfig {
                 .sessionManagement(s -> s.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
                 .authorizeHttpRequests(auth -> auth
                         //Endpoints de auth publico
-                        .requestMatchers("/api/auth/**"
+                        .requestMatchers("/api/v1/auth/**"
                         ).permitAll()
                         .requestMatchers("/v3/api-docs/**",
                                 "/swagger-ui/**",
                                 "/swagger-ui.html"
                         ).permitAll()
                         // logout-all requiere autenticacion
-                        .requestMatchers("/api/auth/logout-all").authenticated()
+                        .requestMatchers("/api/v1/auth/logout-all").authenticated()
                         .anyRequest().authenticated())
                 .addFilterBefore(jwtFilter, UsernamePasswordAuthenticationFilter.class);
         return http.build();

@@ -16,7 +16,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/api/auth")
+@RequestMapping("/api/v1/auth")
 @RequiredArgsConstructor
 @Tag(name = "Auth", description = "Registro, login, refresh, logout, logout all")
 public class AuthController {
@@ -30,7 +30,7 @@ public class AuthController {
             @ApiResponse(responseCode = "400", description = "Datos invalidos o email ya registrado")
     })
     @PostMapping("/register")
-    public ResponseEntity<RegisterUserResponse> register(@RequestBody RegisterUserRequest userRequest) {
+    public ResponseEntity<UserResponse> register(@RequestBody RegisterUserRequest userRequest) {
         return ResponseEntity.status(HttpStatus.CREATED).body(userService.register(userRequest));
     }
 
