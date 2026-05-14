@@ -27,3 +27,8 @@ nutria:
       secret: ${JWT_SECRET}
       expiration-ms: ${JWT_EXPIRATION_MS}
       refresh-expiration-ms: ${JWT_REFRESH_EXPIRATION_MS}
+
+azure:
+  storage:
+    connection-string: ${AZURE_STORAGE_CONNECTION_STRING}
+    container-name: ${AZURE_STORAGE_CONTAINER_NAME:nutria-images}
