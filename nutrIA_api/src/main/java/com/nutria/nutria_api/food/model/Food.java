@@ -22,27 +22,27 @@ public class Food {
     @Column(name = "food_type", nullable = false)
     private String foodType;
 
-    @Column(nullable = false)
+    @Column()
     private Double energy;
 
-    @Column(nullable = false)
+    @Column()
     private Double proteins;
 
-    @Column(name = "total_fat", nullable = false)
+    @Column(name = "total_fat")
     private Double totalFat;
 
-    @Column(nullable = false)
+    @Column()
     private Double water;
 
-    @Column(name = "carbohydrates_total", nullable = false)
+    @Column(name = "carbohydrates_total")
     private Double carbohydratesTotal;
 
-    @Column(nullable = false)
+    @Column()
     private Double calcium;
 
-    @Column(nullable = false)
+    @Column()
     private Double iron;
 
-    @Column(nullable = false)
+    @Column()
     private Double sodium;
 }
