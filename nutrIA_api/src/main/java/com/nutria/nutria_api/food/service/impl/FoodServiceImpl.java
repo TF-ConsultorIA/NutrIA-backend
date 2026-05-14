@@ -9,6 +9,8 @@ import com.nutria.nutria_api.food.repository.FoodRepository;
 import com.nutria.nutria_api.food.service.FoodService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 
 import java.util.List;
 
@@ -20,13 +22,10 @@ public class FoodServiceImpl implements FoodService {
     private final FoodMapper foodMapper;
 
     @Override
-    public List<FoodResponseDTO> getAllFoods() {
-        return foodRepository.findAll()
-                .stream()
-                .map(foodMapper::toDTO)
-                .toList();
+    public Page<FoodResponseDTO> getAllFoods(Pageable pageable) {
+        return foodRepository.findAll(pageable)
+                .map(foodMapper::toDTO);
     }
-
     @Override
     public FoodResponseDTO getFoodById(Long id) {
         Food food = foodRepository.findById(id)
@@ -35,19 +34,15 @@ public class FoodServiceImpl implements FoodService {
     }
 
     @Override
-    public List<FoodResponseDTO> searchByName(String name) {
-        return foodRepository.findByFoodNameContainingIgnoreCase(name)
-                .stream()
-                .map(foodMapper::toDTO)
-                .toList();
+    public Page<FoodResponseDTO> searchByName(String name, Pageable pageable) {
+        return foodRepository.findByFoodNameContainingIgnoreCase(name, pageable)
+                .map(foodMapper::toDTO);
     }
 
     @Override
-    public List<FoodResponseDTO> getByType(String type) {
-        return foodRepository.findByFoodType(type)
-                .stream()
-                .map(foodMapper::toDTO)
-                .toList();
+    public Page<FoodResponseDTO> getByType(String type, Pageable pageable) {
+        return foodRepository.findByFoodType(type, pageable)
+                .map(foodMapper::toDTO);
     }
 
     @Override
