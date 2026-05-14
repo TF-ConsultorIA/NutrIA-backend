@@ -1,0 +1,1693 @@
+food_name,food_type,energy,proteins,total_fat,water,carbohydrates_total,calcium,iron,sodium
+"Kiwicha, achita o achis o amaranto",Cereales y Derivados,351.0,12.8,6.6,9.2,69.1,236.0,7.32,0.0
+Arroz pilado o pulido cocido,Cereales y Derivados,115.0,2.4,0.1,72.2,25.2,11.0,0.3,18.0
+Arroz blanco corriente,Cereales y Derivados,358.0,7.8,0.7,13.4,77.6,6.0,1.04,19.0
+Arroz con cáscara,Cereales y Derivados,332.0,5.9,2.0,11.9,75.7,40.0,0.0,19.0
+Avena envasada,Cereales y Derivados,380.0,13.7,4.7,6.1,71.3,51.0,3.5,2.0
+"Avena, hojuela cocida",Cereales y Derivados,54.0,1.3,0.5,87.1,10.9,21.0,0.5,0.0
+"Avena, hojuela cruda",Cereales y Derivados,333.0,13.3,4.0,8.8,72.2,49.0,4.1,2.0
+"Cañihua, variedad amarilla",Cereales y Derivados,381.0,15.7,7.5,10.7,62.5,87.0,10.8,0.0
+Cañihua gris,Cereales y Derivados,356.0,14.0,4.5,12.4,64.0,110.0,13.0,0.0
+"Cañihua, hojuela de",Cereales y Derivados,318.0,14.5,8.9,11.4,61.0,141.0,17.07,0.0
+Cañihua parda,Cereales y Derivados,355.0,13.8,3.5,12.2,66.2,171.0,15.0,0.0
+Cebada con cáscara,Cereales y Derivados,284.0,8.4,2.0,9.7,77.5,61.0,4.58,0.0
+"Cebada, llunka de (morón americano)",Cereales y Derivados,249.0,1.9,0.7,18.5,77.1,42.0,9.7,0.0
+"Cebada, mashka o machica",Cereales y Derivados,302.0,8.6,0.7,10.0,77.4,74.0,12.3,0.0
+"Cebada para mote, pelada",Cereales y Derivados,328.0,8.2,1.1,15.4,73.3,47.0,3.6,0.0
+"Cebada tostada, harina integral",Cereales y Derivados,274.0,8.7,3.2,5.6,80.2,0.0,9.6,0.0
+Cebada perlada o resbalada cocida,Cereales y Derivados,59.0,1.0,0.1,81.0,17.7,9.0,0.9,0.0
+Cebada perlada o resbalada cruda,Cereales y Derivados,277.0,5.3,0.6,13.3,79.8,18.0,4.0,0.0
+Cebada tostada y molida (chaquepa),Cereales y Derivados,349.0,7.7,0.8,9.9,79.7,55.0,7.1,0.0
+Chancay (bizcocho),Cereales y Derivados,355.0,8.8,6.9,19.4,64.4,47.0,1.0,0.0
+Fideo crudo fortificado con hierro,Cereales y Derivados,337.0,9.4,0.2,12.1,77.7,24.0,5.5,0.0
+Fideo tallarín crudo fortificado con hierro,Cereales y Derivados,305.0,9.5,0.1,20.4,69.6,40.0,5.5,0.0
+Fideo tallarín sancochado fortiticado con hierro,Cereales y Derivados,90.0,3.1,0.0,75.5,21.3,25.0,1.35,0.0
+Galleta de soda (salada),Cereales y Derivados,433.0,10.1,14.7,4.8,68.0,38.0,1.5,0.0
+Galleta de vainilla (dulce),Cereales y Derivados,434.0,6.0,12.7,4.8,74.9,22.0,0.6,0.0
+Maíz alazán,Cereales y Derivados,346.0,8.2,3.7,13.7,72.7,14.0,0.7,0.0
+"Maíz alazán, jora fresca de",Cereales y Derivados,289.0,5.4,2.8,28.1,62.3,23.0,0.0,0.0
+"Maíz alazán, jora seca de",Cereales y Derivados,347.0,7.0,3.6,13.8,73.8,38.0,0.5,0.0
+Maíz amarillo,Cereales y Derivados,355.0,6.7,4.8,13.5,73.6,6.0,1.92,0.0
+Maíz blanco crudo,Cereales y Derivados,343.0,5.9,4.0,12.7,76.1,5.0,1.48,0.0
+Maíz blanco tostado,Cereales y Derivados,389.0,7.2,4.6,4.6,82.1,6.0,2.6,0.0
+Maíz cancha tostada de,Cereales y Derivados,342.0,6.7,2.7,9.5,79.8,11.0,2.7,0.0
+"Maíz, chochoca de, sin moler",Cereales y Derivados,349.0,5.2,2.5,13.0,78.0,12.0,1.5,0.0
+"Maíz, grano fresco (choclo)",Cereales y Derivados,104.0,3.3,0.8,67.3,27.8,8.0,0.8,0.0
+"Maíz, germinado seco",Cereales y Derivados,314.0,6.2,3.2,22.0,67.0,22.0,0.4,0.0
+"Maíz, harina de",Cereales y Derivados,326.0,8.7,6.5,11.9,71.2,64.0,2.0,0.0
+"Maíz, maicena",Cereales y Derivados,365.0,0.3,0.1,8.3,91.3,2.0,0.0,0.0
+"Maíz, morado sin coronta",Cereales y Derivados,355.0,7.3,3.4,11.4,76.2,12.0,0.2,0.0
+"Maíz, mote de, sancochado",Cereales y Derivados,103.0,2.6,1.3,74.5,21.1,14.0,1.2,0.0
+"Maíz, pachuco de",Cereales y Derivados,349.0,7.3,3.9,13.4,73.5,89.0,3.7,0.0
+"Maíz, para mote pelado",Cereales y Derivados,349.0,5.9,2.1,12.6,78.3,47.0,3.8,0.0
+"Maíz, para mote sin pelar",Cereales y Derivados,345.0,5.7,1.5,12.8,78.7,9.0,4.4,0.0
+"Maíz, polenta cruda de",Cereales y Derivados,324.0,8.3,1.2,13.3,74.0,70.0,2.0,0.0
+"Maíz, tocosh crudo",Cereales y Derivados,205.0,2.8,3.0,53.1,41.1,5.0,0.7,0.0
+Pan de cebada (serrano),Cereales y Derivados,295.0,7.2,0.2,24.4,66.2,60.0,6.5,0.0
+Pan de labranza,Cereales y Derivados,328.0,9.6,0.3,17.3,71.8,40.0,1.6,0.0
+Pan de molde,Cereales y Derivados,317.0,6.8,2.5,20.8,69.2,13.0,0.4,0.0
+Pan bollo o bollitos de queso de Huancavelica,Cereales y Derivados,310.0,9.5,7.3,30.299999999999997,51.7,0.0,5.29,0.0
+Pan francés fortificado con hierro,Cereales y Derivados,277.0,8.4,0.2,27.0,62.9,35.0,3.14,0.0
+"Quinua, afrecho de",Cereales y Derivados,351.0,10.7,4.5,14.1,65.9,573.0,4.0,0.0
+"Quinua blanca, (Junín)",Cereales y Derivados,334.0,12.5,6.5,12.8,66.0,85.0,3.03,30.0
+Quinua blanca (Puno),Cereales y Derivados,355.0,13.3,6.1,11.1,67.1,120.0,4.31,30.0
+Quinua cocida,Cereales y Derivados,89.0,2.8,1.3,79.0,16.3,27.0,1.6,24.0
+Quinua,Cereales y Derivados,351.0,13.6,5.8,11.5,66.6,56.0,7.5,30.0
+"Quinua dulce, blanca (Junín)",Cereales y Derivados,361.0,11.1,7.7,11.1,67.4,93.0,4.3,30.0
+"Quinua dulce, blanca (Puno)",Cereales y Derivados,349.0,11.6,5.3,11.2,68.9,115.0,5.3,30.0
+"Quinua dulce, rosada (Junín)",Cereales y Derivados,360.0,12.3,7.2,11.0,67.1,80.0,4.3,30.0
+"Quinua, harina de",Cereales y Derivados,337.0,12.4,6.0,11.7,67.2,104.0,9.65,2.0
+"Quinua, hojuela de",Cereales y Derivados,376.0,13.9,7.4,13.4,63.1,114.0,5.46,0.0
+Quinua rosada (Puno),Cereales y Derivados,356.0,12.5,6.4,10.2,67.6,124.0,5.2,30.0
+"Quinua, sémola de",Cereales y Derivados,362.0,19.5,10.7,12.6,53.8,76.0,3.6,0.0
+Sorgo,Cereales y Derivados,309.0,8.0,4.0,12.2,72.8,50.0,4.3,0.0
+"Trigo, harina fortificada con hierro de",Cereales y Derivados,362.0,10.5,2.0,10.8,76.3,36.0,5.5,0.0
+"Trigo, llunka de",Cereales y Derivados,312.0,9.1,1.0,16.1,71.8,60.0,1.6,0.0
+"Trigo, harina tostada de (machica)",Cereales y Derivados,330.0,7.9,1.2,9.0,79.9,67.0,0.9,0.0
+"Trigo, mote de, sancochado",Cereales y Derivados,154.0,2.5,0.6,59.0,37.0,38.0,2.5,26.0
+Trigo para mote pelado cocido,Cereales y Derivados,63.0,1.9,0.1,82.9,14.7,29.0,0.4,26.0
+Trigo para mote pelado crudo,Cereales y Derivados,325.0,9.8,0.9,12.5,74.6,80.0,2.5,0.0
+"Trigo, pelado",Cereales y Derivados,330.0,8.4,1.4,12.6,76.1,51.0,4.6,30.0
+Trigo resbalado cocido,Cereales y Derivados,83.0,2.8,0.3,77.9,18.6,5.0,0.5,26.0
+Trigo resbalado crudo,Cereales y Derivados,327.0,11.4,1.8,13.5,71.8,17.0,4.8,30.0
+"Trigo, sémola de",Cereales y Derivados,319.0,7.8,1.1,12.1,78.4,40.0,0.8,0.0
+Trigo,Cereales y Derivados,289.0,10.3,1.9,11.6,74.7,36.0,3.87,30.0
+Barra de cereales (avena y arrocillo) con maní y pasas,Cereales y Derivados,391.0,5.8,9.4,8.8,74.9,0.0,10.01,223.0
+Barra de cereales con sabor a chocolate y chocochips,Cereales y Derivados,386.0,4.9,8.5,6.7,78.6,0.0,12.12,224.0
+"Barra de cereales (avena, arroz) con aguaymanto",Cereales y Derivados,371.0,5.3,7.3,8.5,77.6,0.0,11.2,209.0
+"Barra de cereales (maíz, trigo, arroz) sabor a miel con leche, vitaminas y minerales",Cereales y Derivados,397.0,4.4,8.5,6.4,79.0,0.0,10.82,110.0
+Bollito de maíz de Huánuco,Cereales y Derivados,426.0,9.6,17.5,13.1,57.5,0.0,2.95,0.0
+Bollito de yema de Huánuco,Cereales y Derivados,384.0,9.9,12.6,18.0,57.5,0.0,4.23,0.0
+"Cañihua, harina de",Cereales y Derivados,327.0,15.2,8.3,10.2,63.0,182.0,15.2,11.0
+"Cañihua, variedad roja",Cereales y Derivados,381.0,15.4,7.5,10.7,62.7,0.0,0.0,0.0
+"Cañihua, variedad blanca",Cereales y Derivados,382.0,15.4,7.7,10.7,62.5,0.0,0.0,0.0
+Galleta de soda (San Jorge),Cereales y Derivados,440.0,9.3,13.3,3.9,70.8,68.0,7.7,0.0
+Galleta de vainilla (Field),Cereales y Derivados,462.0,7.3,15.6,2.7,73.1,0.0,4.4,0.0
+Galleta dulce con avena y base sabor a chocolate (con fibra),Cereales y Derivados,461.0,6.7,19.8,2.9,69.0,0.0,2.8,253.0
+Galleta dulce con avena y base sabor a frutos rojos,Cereales y Derivados,465.0,6.7,20.799999999999997,2.7,68.0,0.0,2.81,330.0
+Galleta dulce con avena y granola (con fibra),Cereales y Derivados,444.0,8.0,16.9,3.2,70.2,0.0,2.56,301.0
+"Galleta dulce con avena, manzana y canela (con fibra)",Cereales y Derivados,426.0,7.2,14.3,3.4,73.6,0.0,2.01,302.0
+Galleta dulce con avena y uvas pasas (con fibra),Cereales y Derivados,433.0,7.2,14.9,3.3,73.0,0.0,3.44,323.0
+Galleta dulce con relleno (Casino),Cereales y Derivados,499.0,4.7,22.0,1.9,70.5,27.0,5.2,0.0
+"Galleta dulce con relleno ""chocolate"" (Coronita)",Cereales y Derivados,492.0,5.7,21.1,2.5,69.8,21.0,3.7,0.0
+Galletas nutritivas  de maca,Cereales y Derivados,443.0,7.0,16.1,3.0,72.2,0.0,3.39,388.0
+Hiwicto marfil oscuro,Cereales y Derivados,368.0,9.0,2.0,10.6,76.8,44.0,3.0,0.0
+Hiwicto negro,Cereales y Derivados,365.0,9.0,2.7,12.0,74.6,38.0,3.5,0.0
+Kara ceniza o kala,Cereales y Derivados,367.0,11.6,2.3,10.3,73.6,104.0,5.8,0.0
+Kara color pajizo,Cereales y Derivados,366.0,7.2,2.5,11.1,76.9,60.0,8.0,0.0
+"Kiwicha, harina de",Cereales y Derivados,352.0,12.2,7.9,10.9,66.4,214.0,5.3,2.0
+Kiwicha pop de Huánuco (listo para consumo),Cereales y Derivados,370.0,13.1,8.9,8.6,66.5,0.0,0.4,0.0
+"Kiwicha, precocida, hojuela de",Cereales y Derivados,400.0,13.4,8.1,8.4,68.03,0.0,7.21,0.0
+"Kiwicha, precocida, hojuela de (orgánica)",Cereales y Derivados,352.0,11.9,7.6,10.8,67.7,0.0,5.02,0.0
+"Llipta sara, variedad de maíz",Cereales y Derivados,370.0,7.4,4.2,11.3,75.9,5.0,1.4,0.0
+"Maíz blanco, harina",Cereales y Derivados,343.0,5.5,5.0,11.6,76.6,19.0,2.35,2.0
+"Maíz blanco precocido, harina de (chochoca)",Cereales y Derivados,328.0,6.8,5.2,12.1,74.8,0.0,2.08,0.0
+"Maíz morado, harina de (api)",Cereales y Derivados,318.0,8.5,4.2,11.4,74.3,29.0,6.47,16.0
+Pan árabe,Cereales y Derivados,290.0,10.3,3.5,27.8,56.7,0.0,6.98,0.0
+Pan cachanga,Cereales y Derivados,445.0,7.7,26.1,17.4,47.4,0.0,3.99,0.0
+Pan campesino de Lima,Cereales y Derivados,276.0,9.95,5.7,36.1,46.0,0.0,3.53,0.0
+Pan ciabatta,Cereales y Derivados,265.0,9.2,2.0,32.1,55.0,0.0,5.59,0.0
+Pan chapla,Cereales y Derivados,321.0,9.3,3.5,22.2,63.2,0.0,4.67,0.0
+Pan chuta,Cereales y Derivados,387.0,9.5,11.1,16.3,62.3,0.0,4.71,0.0
+Pan cortadillo de Cajamarca,Cereales y Derivados,361.0,6.9,7.1,17.8,67.2,0.0,4.37,0.0
+Pan cuay de trigo de Carhuaz,Cereales y Derivados,358.0,9.99,11.6,23.8,53.4,0.0,5.62,0.0
+Pan cuay de trigo de Huaraz,Cereales y Derivados,297.0,7.6,10.1,31.6,48.9,0.0,4.45,0.0
+Pan de calabaza de Huancavelica,Cereales y Derivados,274.0,11.5,3.9,35.3,48.4,0.0,4.79,0.0
+Pan de chicharrón de Chiclayo,Cereales y Derivados,338.0,9.9,9.0,25.5,54.3,0.0,7.61,0.0
+Pan de girasol de Lima,Cereales y Derivados,267.0,10.7,7.7,40.900000000000006,38.7,0.0,3.02,0.0
+Pan de hamburguesa de Iquitos,Cereales y Derivados,316.0,10.8,4.7,24.4,57.7,0.0,6.15,0.0
+Pan de huevo,Cereales y Derivados,336.0,9.3,6.9,23.2,59.4,0.0,5.79,0.0
+Pan de maíz,Cereales y Derivados,319.0,7.7,8.7,25.4,56.7,0.0,3.49,0.0
+Pan de maíz de Carhuaz,Cereales y Derivados,323.0,9.2,8.0,27.9,53.5,0.0,5.15,0.0
+Pan de maíz de Huaraz,Cereales y Derivados,359.0,8.0,15.2,22.0,53.0,0.0,3.5,0.0
+Pan de quinua de Lima,Cereales y Derivados,241.0,9.5,1.7,39.8,47.0,0.0,3.31,0.0
+Pan de trigo artesanal de Carhuaz,Cereales y Derivados,286.0,8.8,4.6,32.5,52.4,0.0,5.11,0.0
+Pan de yema,Cereales y Derivados,321.0,9.4,8.1,25.6,55.4,0.0,4.47,0.0
+Pan de yema de Cajamarca,Cereales y Derivados,365.0,9.2,12.9,23.7,52.9,0.0,6.74,0.0
+Pan dulce de Lima,Cereales y Derivados,290.0,11.9,5.0,32.6,49.5,0.0,3.3,0.0
+Pan huaro,Cereales y Derivados,338.0,9.9,5.5,21.1,62.2,0.0,5.4,0.0
+Pan Huascarán de Lima,Cereales y Derivados,265.0,9.4,4.8,37.3,46.3,0.0,4.79,0.0
+Pan integral,Cereales y Derivados,339.0,9.1,9.0,24.3,55.5,0.0,5.16,0.0
+Pan marraqueta de Chiclayo,Cereales y Derivados,321.0,6.4,2.2,21.0,68.9,0.0,6.0,0.0
+Pan mestizo de Huánuco,Cereales y Derivados,399.0,9.6,15.7,18.1,54.8,0.0,4.24,0.0
+Pan mishtishongo de Huánuco,Cereales y Derivados,410.0,9.1,20.0,20.7,48.5,0.0,2.91,0.0
+Pan mollete de Chiclayo,Cereales y Derivados,284.0,10.2,3.8,32.5,52.3,0.0,5.62,0.0
+"Pan mollete, ""chico""de Huaraz",Cereales y Derivados,364.0,9.600000000000001,16.299999999999997,25.5,47.0,0.0,4.8100000000000005,0.0
+Pan torta de Cajamarca,Cereales y Derivados,355.0,9.4,8.0,19.4,61.5,0.0,6.31,0.0
+"Pan 3 granos (quinua, cañihua y kiwicha) de Lima",Cereales y Derivados,219.0,8.6,2.5,46.5,40.5,0.0,3.72,0.0
+Pan vico,Cereales y Derivados,343.0,9.3,9.1,24.3,56.1,0.0,5.16,0.0
+Pan vico de Iquitos,Cereales y Derivados,333.0,11.6,4.1,19.3,62.4,0.0,5.88,0.0
+"Pasta con huevo sin fortificar, cruda*",Cereales y Derivados,375.0,14.2,4.4,9.01,71.3,35.0,1.9,21.0
+"Pasta con huevo fortificada, cruda*",Cereales y Derivados,375.0,14.2,4.4,9.01,71.3,35.0,4.01,21.0
+"Pasta fortificada, cruda*",Cereales y Derivados,360.0,13.0,1.5,9.9,74.7,18.0,3.52,5.0
+"Pasta sin fortificar, cruda*",Cereales y Derivados,360.0,13.0,1.5,9.9,74.7,18.0,1.3,5.0
+"Quinua, variedad real",Cereales y Derivados,331.0,14.2,5.1,12.9,65.9,0.0,4.0,30.0
+"Quinua, variedad Ayara (Puno)",Cereales y Derivados,276.0,14.0,6.3,12.3,62.6,0.0,6.25,30.0
+"Quinua, variedad blanca de Juli (Puno)",Cereales y Derivados,347.0,11.6,4.8,10.2,70.6,0.0,4.32,30.0
+"Quinua, variedad CICA-18 (Puno)",Cereales y Derivados,345.0,14.4,5.7,9.8,66.4,0.0,4.37,30.0
+"Quinua, variedad CICA-127 (Puno)",Cereales y Derivados,360.0,15.8,5.2,8.9,67.1,0.0,5.81,30.0
+"Quinua, variedad Cuchiwilla (Puno)",Cereales y Derivados,317.0,15.2,5.2,11.4,64.3,0.0,4.15,30.0
+"Quinua, variedad Choclito (Puno)",Cereales y Derivados,342.0,13.4,5.2,11.7,67.1,0.0,4.49,30.0
+"Quinua, variedad Chullpi- roja (Puno)",Cereales y Derivados,330.0,13.7,5.5,11.3,66.9,0.0,5.87,30.0
+"Quinua, variedad Misa Jiura (Puno)",Cereales y Derivados,349.0,12.3,5.4,10.5,68.6,0.0,4.0,30.0
+"Quinua, variedad Pasankalla-roja (Puno)",Cereales y Derivados,355.0,12.7,6.2,10.1,68.5,0.0,4.85,30.0
+"Quinua, variedad  Q' OITU-negra (Puno)",Cereales y Derivados,308.0,11.6,4.9,11.5,68.2,0.0,11.53,30.0
+"Quinua, variedad Wariponcho (Puno)",Cereales y Derivados,347.0,12.6,5.5,11.5,67.9,0.0,3.77,30.0
+"Quinua, variedad Witulla (Puno)",Cereales y Derivados,350.0,13.7,5.9,9.9,67.8,0.0,4.99,30.0
+Rosquita de almidón de Iquitos,Cereales y Derivados,469.0,1.8,18.3,3.3,74.2,0.0,2.3,0.0
+"Siete harinas (trigo, habas, arvejas, kiwicha, cañihua, cebada, quinua)",Cereales y Derivados,347.0,8.8,3.2,1.5,84.8,0.0,3.89,0.0
+"Trigo, hojuela de (chaque)",Cereales y Derivados,322.0,10.0,2.5,16.04,70.2,0.0,2.1,0.0
+Trigo sin tostar (chaquepa),Cereales y Derivados,338.0,7.0,2.2,11.9,77.9,0.0,2.43,0.0
+Trigo tostado (chaquepa),Cereales y Derivados,369.0,7.6,2.5,3.9,84.9,0.0,1.73,0.0
+"Alfajor con relleno de leche y maní cubierto con chocolate, envasado",Cereales y Derivados,502.0,8.1,26.5,2.4,61.8,104.0,4.04,103.0
+"Avena cañihua, hojuela de",Cereales y Derivados,347.0,12.2,10.2,12.1,63.5,40.0,3.6,1.0
+"Avena con chía, hojuela precocida de",Cereales y Derivados,381.0,11.2,16.5,8.1,62.5,70.0,3.56,2.0
+"Avena con kiwicha, canela y clavo en polvo, hojuela precocida de",Cereales y Derivados,342.0,12.4,7.7,12.1,66.0,55.0,3.54,1.0
+"Avena con maca, hojuela precocida de",Cereales y Derivados,365.0,10.6,11.0,9.045,67.6,50.0,3.02,3.0
+"Avena con cereales andinos (cañihua, kiwicha y quinua), hojuela precocida de",Cereales y Derivados,349.0,11.2,10.4,9.8,64.3,865.0,9.33,1.0
+"Avena con quinua, hojuela precocida de",Cereales y Derivados,369.0,11.1,10.8,8.8,67.6,40.0,3.14,6.0
+"Avena con quinua, canela y clavo en polvo, hojuela precocida de",Cereales y Derivados,337.0,11.9,7.3,12.0,67.0,60.0,3.45,34.0
+Croissant de mantequilla o cachito de mantequilla,Cereales y Derivados,373.0,8.3,18.5,23.9,47.5,248.0,0.35,262.0
+Galletas con salvado de trigo con sabor a miel,Cereales y Derivados,429.0,7.6,15.9,2.4,72.6,47.0,6.48,327.0
+"Galleta cubierta con higo,confites, grageas y miel (Turrón de Doña Pepa).  envasado",Cereales y Derivados,473.0,5.7,23.4,4.4,65.4,32.0,4.3,337.0
+Galleta de agua,Cereales y Derivados,411.0,10.0,5.9,2.5,79.4,95.0,6.24,577.0
+"Granola de avena con cebada, pasas, maní y almendras",Cereales y Derivados,450.0,10.8,20.0,4.9,62.8,52.0,2.28,84.0
+Galleta de soda con cobertura sabor a chocolate,Cereales y Derivados,497.0,5.0,21.8,1.4,70.3,45.0,3.64,291.0
+"Galleta dulce, rellena con crema sabor coco",Cereales y Derivados,499.0,4.4,21.4,1.3,72.1,14.0,3.12,202.0
+"Galleta sabor chocolate, rellena con crema sabor vainilla",Cereales y Derivados,480.0,5.3,18.2,1.6,73.7,102.0,2.73,248.0
+Kiwicha pop de Lima (listo para consumo),Cereales y Derivados,410.0,14.0,6.7,3.4,73.5,779.0,5.59,21.0
+"Kiwicha tostada, harina de",Cereales y Derivados,364.0,13.2,8.6,7.3,68.4,114.99999999999999,5.62,1.0
+"Maíz, extruído con cocoa, sabor chocolate (listo para consumo)",Cereales y Derivados,384.0,7.0,1.8,4.3,85.1,517.0,23.8,150.0
+"Maíz, hojuela azucarada (listo para consumo)",Cereales y Derivados,376.0,6.4,0.2,4.0,87.2,506.0,19.3,394.0
+"Maíz, hojuela para desayuno (listo para consumo)",Cereales y Derivados,381.0,7.5,1.6,4.0,84.3,536.0,22.2,474.0
+"Maíz pop corn, para cancha, crudo",Cereales y Derivados,308.0,9.6,3.5,13.5,72.5,6.0,3.12,0.0
+"Masa para wantán, cruda",Cereales y Derivados,288.0,8.6,1.0,29.4,59.9,14.0,2.02,390.0
+"Palitos de harina de trigo con ajonjolí, envasado",Cereales y Derivados,443.0,14.2,16.1,1.3,65.5,151.0,8.44,833.0
+"Palomitas de maíz, sabor natural con sal y aceite vegetal, para microondas (Pop corn)",Cereales y Derivados,401.0,8.4,18.6,8.3,63.6,6.0,1.32,108.0
+Pan de molde integral,Cereales y Derivados,274.0,12.4,5.9,29.8,49.2,308.0,5.65,452.0
+"Pan pita, envasado",Cereales y Derivados,238.0,16.1,0.7,32.7,48.1,110.0,4.29,341.0
+"Pastel sabor chocolate, relleno con crema sabor vainilla y  decorado con glase, envasado",Cereales y Derivados,340.0,4.7,7.6,22.6,63.2,153.0,4.69,362.0
+Panetón relleno con chispas de chocolate,Cereales y Derivados,381.0,8.9,17.1,21.7,51.4,62.0,3.39,155.0
+Panetón relleno de pasas y frutas confitadas,Cereales y Derivados,365.0,7.6,13.4,22.2,55.9,130.0,0.27,122.0
+"Queque marmoleado con sabor chocolate y vainilla, envasado",Cereales y Derivados,323.0,6.5,10.6,25.8,54.6,211.0,4.17,257.0
+"Queque sabor naranja, envasado",Cereales y Derivados,336.0,6.4,10.3,24.0,56.7,225.0,4.28,331.0
+"Queque sabor vainilla, mezcla en polvo para preparar, envasado",Cereales y Derivados,380.0,6.1,9.9,5.4,76.5,97.0,4.21,495.0
+"Queque sabor vainilla, sin relleno, envasado",Cereales y Derivados,352.0,6.9,11.4,23.7,55.3,262.0,6.56,602.0
+"Tostada de pan blanco, envasada",Cereales y Derivados,401.0,12.7,4.9,3.8,76.7,117.0,7.43,469.0
+"Trigo, inflado sin miel (listo para consumo)",Cereales y Derivados,367.0,14.7,1.1,8.2,74.7,41.0,3.45,9.0
+"Trigo, ""tortilla"" de harina de, precocida, envasada",Cereales y Derivados,290.0,7.4,7.8,31.6,51.1,153.0,11.54,503.0
+Wafer relleno con crema sabor vainilla,Cereales y Derivados,503.0,3.5,22.2,1.2,72.5,16.0,4.1,177.0
+"Acelga, hojas de, sin tallo","Verduras, Hortalizas y Derivados",8.0,2.1,0.1,93.3,3.2,90.0,14.4,203.0
+"Acelga, tallos de","Verduras, Hortalizas y Derivados",9.0,0.7,0.3,94.8,2.8,23.0,0.5,203.0
+Ají amarillo fresco,"Verduras, Hortalizas y Derivados",39.0,0.9,0.7,88.9,8.8,31.0,0.9,0.0
+"Ají amarillo fresco, molido sin sal","Verduras, Hortalizas y Derivados",52.0,1.9,1.7,60.2,9.2,97.0,3.5,0.0
+Ají amarillo seco,"Verduras, Hortalizas y Derivados",199.0,7.3,6.3,16.6,64.8,124.0,8.2,0.0
+Ají panca,"Verduras, Hortalizas y Derivados",189.0,7.0,7.8,20.2,58.5,142.0,4.9,0.0
+"Ají colorado, no picante, molido con sal","Verduras, Hortalizas y Derivados",43.0,1.9,1.3,69.8,9.2,175.0,5.6,0.0
+"Ají colorado, picante molido con sal","Verduras, Hortalizas y Derivados",37.0,2.1,1.0,72.6,8.0,130.0,5.0,0.0
+Ají de mesa,"Verduras, Hortalizas y Derivados",40.0,1.8,1.2,89.1,7.2,77.0,1.3,0.0
+Ají de vaina,"Verduras, Hortalizas y Derivados",58.0,2.6,1.1,83.2,11.9,94.0,1.7,0.0
+Ají dulce,"Verduras, Hortalizas y Derivados",17.0,0.9,0.5,91.0,7.1,10.0,0.38,0.0
+Ají verde,"Verduras, Hortalizas y Derivados",57.0,2.5,0.8,82.9,12.4,21.0,1.3,0.0
+Ajo sin cáscara,"Verduras, Hortalizas y Derivados",121.0,5.6,0.8,61.4,30.4,94.0,1.7,69.0
+Albahaca sin tallo,"Verduras, Hortalizas y Derivados",29.0,2.9,1.2,86.7,7.3,325.0,5.3,0.0
+Alcachofa,"Verduras, Hortalizas y Derivados",24.0,2.2,0.2,77.8,18.9,42.0,1.0,0.0
+Alfalfa brotes tiernos,"Verduras, Hortalizas y Derivados",20.0,4.0,0.7,91.1,3.8,32.0,5.4,0.0
+"Apio, tallo sin hojas","Verduras, Hortalizas y Derivados",8.0,1.0,0.2,94.0,3.8,91.0,1.2,76.0
+Berenjena,"Verduras, Hortalizas y Derivados",12.0,1.0,0.1,92.4,5.9,20.0,4.03,6.0
+Berenjena Costeña o tomate de árbol,"Verduras, Hortalizas y Derivados",41.0,1.3,0.3,87.5,9.8,18.0,0.2,0.0
+Berro,"Verduras, Hortalizas y Derivados",31.0,3.4,0.8,89.3,5.0,234.0,6.5,0.0
+Brocoli,"Verduras, Hortalizas y Derivados",32.0,3.9,1.3,89.9,4.0,93.0,0.84,23.0
+Caigua,"Verduras, Hortalizas y Derivados",15.0,0.5,0.2,95.0,3.3,34.0,0.9,0.0
+Caigua serrana,"Verduras, Hortalizas y Derivados",19.0,1.5,0.1,93.5,4.1,32.0,0.5,0.0
+Calabaza china,"Verduras, Hortalizas y Derivados",13.0,0.7,0.1,93.1,5.8,29.0,0.1,0.0
+Calabaza italiana,"Verduras, Hortalizas y Derivados",15.0,0.5,0.3,93.9,4.9,11.0,0.6,0.0
+Cebolla blanca,"Verduras, Hortalizas y Derivados",24.0,0.9,0.1,91.2,7.4,100.0,0.2,6.0
+Cebolla chilena,"Verduras, Hortalizas y Derivados",19.0,0.8,0.1,92.9,5.9,20.0,1.0,0.0
+Cebollita china,"Verduras, Hortalizas y Derivados",36.0,2.3,0.4,88.7,7.5,141.0,1.1,0.0
+Cebolla de cabeza,"Verduras, Hortalizas y Derivados",40.0,1.4,0.2,86.3,11.3,20.0,1.2,0.0
+Cebolla de cola,"Verduras, Hortalizas y Derivados",26.0,0.9,0.1,90.6,7.8,44.0,4.9,6.0
+Col blanca,"Verduras, Hortalizas y Derivados",19.0,1.0,1.1,93.3,4.2,46.0,0.44,6.0
+"Col crespa o repollo, sin cogollo","Verduras, Hortalizas y Derivados",15.0,1.5,0.3,92.4,4.9,70.0,0.4,58.0
+Col china sin tallo,"Verduras, Hortalizas y Derivados",22.0,1.8,0.3,91.0,5.3,70.0,1.5,58.0
+"Col de ""Bruselas""","Verduras, Hortalizas y Derivados",45.0,4.6,0.4,81.3,12.3,109.0,1.8,58.0
+"Col, hojas de","Verduras, Hortalizas y Derivados",32.0,2.7,0.6,88.1,7.6,170.0,0.1,58.0
+Col negra,"Verduras, Hortalizas y Derivados",14.0,1.7,0.4,91.7,5.5,24.0,0.2,58.0
+Col silvestre,"Verduras, Hortalizas y Derivados",54.0,2.5,0.6,82.9,12.1,477.0,1.1,58.0
+Coliflor sin tallo y sin hojas,"Verduras, Hortalizas y Derivados",17.0,2.2,0.6,91.6,4.4,26.0,0.6,0.0
+Culantro sin tallo,"Verduras, Hortalizas y Derivados",34.0,3.3,1.3,85.6,7.0,259.0,5.3,0.0
+"Chiclayo, calabaza","Verduras, Hortalizas y Derivados",16.0,0.6,0.1,93.2,5.6,13.0,0.2,0.0
+Chonta,"Verduras, Hortalizas y Derivados",49.0,3.4,0.7,84.9,9.7,138.0,1.7,0.0
+Escarola,"Verduras, Hortalizas y Derivados",7.0,1.2,0.2,93.6,3.8,85.0,2.0,0.0
+Esparragos,"Verduras, Hortalizas y Derivados",15.0,2.2,0.3,93.0,3.8,35.0,1.33,0.0
+Espinaca blanca,"Verduras, Hortalizas y Derivados",24.0,1.9,0.6,89.5,6.3,80.0,4.6,0.0
+Espinaca negra sin tronco,"Verduras, Hortalizas y Derivados",24.0,2.8,0.9,90.0,4.9,234.0,4.3,0.0
+Frejolito chino germinado,"Verduras, Hortalizas y Derivados",9.0,1.4,0.1,96.5,1.8,22.0,0.86,15.0
+Hierbabuena,"Verduras, Hortalizas y Derivados",41.0,3.1,1.0,86.7,7.0,206.0,9.1,0.0
+Huacatay sin tallo,"Verduras, Hortalizas y Derivados",50.0,5.0,0.8,83.4,8.8,412.0,8.7,0.0
+"Janchoy, hojas de","Verduras, Hortalizas y Derivados",27.0,1.6,0.2,90.8,6.0,113.0,2.9,0.0
+Jetka. hojas de,"Verduras, Hortalizas y Derivados",66.0,7.3,1.7,78.1,9.5,548.0,8.4,0.0
+"Kailán, hojas de","Verduras, Hortalizas y Derivados",48.0,3.2,0.9,84.9,9.1,581.0,2.4,0.0
+"Kailán, tallos de","Verduras, Hortalizas y Derivados",24.0,1.2,0.3,92.0,5.2,301.0,3.1,0.0
+Lechuga americana,"Verduras, Hortalizas y Derivados",7.0,0.6,0.1,96.6,2.4,52.0,0.1,0.0
+Lechuga larga,"Verduras, Hortalizas y Derivados",12.0,1.5,0.2,93.4,3.9,64.0,1.6,0.0
+Lechuga redonda,"Verduras, Hortalizas y Derivados",8.0,1.3,0.2,95.7,2.1,47.0,1.0,0.0
+Manchay,"Verduras, Hortalizas y Derivados",53.0,0.4,0.1,84.8,14.4,44.0,1.3,0.0
+"Mastuerzo, hojas de","Verduras, Hortalizas y Derivados",44.0,1.8,1.3,86.3,9.2,211.0,1.3,0.0
+"Mostaza, hojas de","Verduras, Hortalizas y Derivados",21.0,3.5,0.6,89.0,5.2,478.0,1.7,0.0
+"Muña, seca","Verduras, Hortalizas y Derivados",268.0,3.2,2.8,16.0,66.3,2237.0,22.4,0.0
+Nabo,"Verduras, Hortalizas y Derivados",10.0,0.6,0.2,94.7,3.6,34.0,0.1,0.0
+"Nabo, hojas de","Verduras, Hortalizas y Derivados",24.0,2.9,0.4,88.1,7.0,367.0,2.8,0.0
+Orégano fresco,"Verduras, Hortalizas y Derivados",48.0,1.6,0.5,85.1,11.3,312.0,9.3,0.0
+"Pacchoy, hojas de","Verduras, Hortalizas y Derivados",25.0,1.3,0.3,90.5,6.3,235.0,3.0,0.0
+"Pacchoy, tallos de","Verduras, Hortalizas y Derivados",18.0,0.4,0.2,92.0,5.4,302.0,1.2,0.0
+Paico,"Verduras, Hortalizas y Derivados",41.0,5.0,1.1,81.7,9.2,459.0,6.3,0.0
+Pajuro,"Verduras, Hortalizas y Derivados",120.0,2.1,0.3,64.4,31.5,25.0,1.2,0.0
+Pepinillo sin cáscara,"Verduras, Hortalizas y Derivados",9.0,0.5,0.1,96.4,2.6,20.0,0.3,0.0
+Perejil sin tallo,"Verduras, Hortalizas y Derivados",41.0,4.8,0.7,82.0,9.9,202.0,8.7,0.0
+Pimiento rojo,"Verduras, Hortalizas y Derivados",27.0,1.2,1.3,92.3,4.6,12.0,0.36,6.0
+Pirca,"Verduras, Hortalizas y Derivados",42.0,4.0,0.6,86.2,7.6,230.0,6.0,0.0
+Poro sin hojas,"Verduras, Hortalizas y Derivados",34.0,2.7,0.8,87.8,7.6,78.0,0.7,0.0
+"Quinua, hojas de","Verduras, Hortalizas y Derivados",50.0,4.7,0.6,81.4,9.5,377.0,1.5,0.0
+Rabanitos,"Verduras, Hortalizas y Derivados",7.0,0.8,0.1,95.1,2.9,36.0,1.0,0.0
+Rabicol,"Verduras, Hortalizas y Derivados",22.0,2.0,0.2,92.8,4.2,41.0,0.3,0.0
+Radicheta o achicoria,"Verduras, Hortalizas y Derivados",17.0,1.9,0.5,90.0,6.2,273.0,0.0,0.0
+Rocoto fresco,"Verduras, Hortalizas y Derivados",36.0,1.2,0.5,89.5,8.2,6.0,0.5,0.0
+Ruda,"Verduras, Hortalizas y Derivados",82.0,4.1,1.7,75.4,16.1,552.0,7.7,0.0
+Siuca culantro,"Verduras, Hortalizas y Derivados",28.0,1.9,0.5,87.6,8.1,195.0,4.9,0.0
+Tomate,"Verduras, Hortalizas y Derivados",15.0,0.8,0.2,94.2,4.3,7.0,0.6,0.0
+Tomate italiano,"Verduras, Hortalizas y Derivados",12.0,0.8,0.2,94.8,3.6,7.0,0.3,2.0
+"Tomate, con carne salsa de","Verduras, Hortalizas y Derivados",106.0,2.7,5.7,77.7,11.0,20.0,2.1,0.0
+"Tomate, salsa de","Verduras, Hortalizas y Derivados",18.0,1.5,0.7,75.0,3.9,117.0,3.0,0.0
+"Tomate, salsa concentrada de","Verduras, Hortalizas y Derivados",75.0,2.7,1.0,75.3,16.8,19.0,2.9,0.0
+Vainitas,"Verduras, Hortalizas y Derivados",25.0,2.4,0.3,88.2,8.1,88.0,1.4,0.0
+Zanahoria,"Verduras, Hortalizas y Derivados",19.0,1.0,0.3,90.2,7.6,51.0,0.3,31.0
+"Zanahoria, harina de","Verduras, Hortalizas y Derivados",293.0,7.3,1.5,11.8,67.7,418.0,0.0,0.0
+Zapallo italiano,"Verduras, Hortalizas y Derivados",14.0,0.9,0.2,95.4,2.9,27.0,0.3,0.0
+Zapallo loche,"Verduras, Hortalizas y Derivados",58.0,2.6,0.2,79.8,16.2,38.0,0.33,17.0
+Zapallo macre,"Verduras, Hortalizas y Derivados",47.0,2.2,0.1,84.4,12.7,26.0,0.32,0.0
+"Ají charapita, con pepas y sin tronco","Verduras, Hortalizas y Derivados",30.0,2.4,2.1,82.2,12.1,19.0,0.4,2.0
+"Ají cerezo, sin pepas y sin tronco","Verduras, Hortalizas y Derivados",30.0,1.8,0.8,86.9,9.4,13.0,0.36,4.0
+"Ají colorado seco, sin pepas","Verduras, Hortalizas y Derivados",179.0,12.5,6.3,21.1,53.5,79.0,11.1,21.0
+Ají uña de pava,"Verduras, Hortalizas y Derivados",57.0,3.0,0.7,82.8,12.5,0.0,0.0,0.0
+Ajos variedad Barranquino,"Verduras, Hortalizas y Derivados",115.0,6.2,0.3,59.4,32.6,0.0,0.57,69.0
+Ajos variedad Napuri,"Verduras, Hortalizas y Derivados",115.0,7.7,0.3,58.6,31.8,0.0,0.4,69.0
+"Ajos variedad Napuri fresco, molido en aceite sin sal","Verduras, Hortalizas y Derivados",203.0,5.1,9.1,51.5,33.2,0.0,1.07,0.0
+"Ajos variedad Napuri fresco, molido en aceite con sal","Verduras, Hortalizas y Derivados",185.0,4.8,5.2,49.3,37.2,0.0,1.22,0.0
+"Ajos variedad Napuri fresco, molido en agua sin sal","Verduras, Hortalizas y Derivados",77.0,4.9,0.2,73.2,20.9,0.0,0.23,0.0
+"Ajos variedad Napuri fresco, molido en agua con sal","Verduras, Hortalizas y Derivados",84.0,5.0,0.3,69.0,21.6,0.0,0.33,0.0
+Alcaparras****,"Verduras, Hortalizas y Derivados",31.0,2.3,0.6,78.6,5.8,66.0,4.2,0.0
+Cebolla variedad americana,"Verduras, Hortalizas y Derivados",22.0,1.4,0.4,91.1,6.9,20.0,0.21,6.0
+Cebolla variedad perilla,"Verduras, Hortalizas y Derivados",28.0,1.4,0.4,89.3,8.5,20.0,0.22,6.0
+Chijchipa,"Verduras, Hortalizas y Derivados",45.0,3.3,0.4,85.3,9.3,335.0,8.3,0.0
+"Chullcos, ajos silvestres","Verduras, Hortalizas y Derivados",92.0,1.8,0.5,73.7,23.5,22.0,2.1,0.0
+Col china con hoja y tallo,"Verduras, Hortalizas y Derivados",15.0,1.4,1.1,95.1,2.0,0.0,13.38,32.0
+Coliflor con tallo y sin hojas,"Verduras, Hortalizas y Derivados",20.0,2.1,0.6,91.9,4.7,0.0,0.49,19.0
+"Culantro, con hojas y tallo","Verduras, Hortalizas y Derivados",15.0,3.5,0.2,88.4,5.9,135.0,4.5,22.0
+"Espinaca, hojas sin tallo","Verduras, Hortalizas y Derivados",30.0,4.8,1.4,86.9,4.7,0.0,21.29,32.0
+"Estragón, secos","Verduras, Hortalizas y Derivados",269.0,22.8,7.2,7.7,50.2,1139.0,32.3,62.0
+"Hinojo, tallo, fresco, crudo","Verduras, Hortalizas y Derivados",19.0,1.9,0.2,92.8,3.6,0.0,0.0,0.0
+Kión sin cáscara,"Verduras, Hortalizas y Derivados",49.0,0.1,0.4,84.9,13.7,12.0,0.25,7.0
+Lechuga de seda,"Verduras, Hortalizas y Derivados",10.0,1.3,0.1,95.9,2.3,39.0,1.3,0.0
+"Llampun Cjana ""Cjana-cjana""","Verduras, Hortalizas y Derivados",254.0,29.5,6.0,12.1,36.8,1600.0,41.1,0.0
+Pacchoy con hojas y tallo,"Verduras, Hortalizas y Derivados",5.0,1.0,0.3,96.1,1.8,0.0,10.14,113.0
+"Paico, hojas de","Verduras, Hortalizas y Derivados",28.0,5.7,0.3,84.1,6.6,271.0,0.0,38.0
+Pimiento verde,"Verduras, Hortalizas y Derivados",19.0,1.1,0.1,93.4,5.1,21.0,0.17,1.0
+"Rocoto fresco, molido con cáscara, en agua sin sal","Verduras, Hortalizas y Derivados",17.0,0.2,0.1,93.7,5.5,10.0,0.03,7.0
+Romero fresco*,"Verduras, Hortalizas y Derivados",81.0,3.3,5.9,67.8,20.7,317.0,6.65,26.0
+Tomate de palito,"Verduras, Hortalizas y Derivados",44.0,1.6,0.2,86.5,10.8,15.0,0.8,0.0
+"Tomate redondo, con cáscara","Verduras, Hortalizas y Derivados",18.0,0.7,0.3,93.9,4.7,24.0,0.45,25.0
+Tomillo seco*,"Verduras, Hortalizas y Derivados",181.0,9.1,7.4,7.8,63.9,1890.0,123.6,55.0
+Zapallito,"Verduras, Hortalizas y Derivados",57.0,1.9,0.1,82.2,14.3,17.0,0.4,0.0
+Zapallo avinca,"Verduras, Hortalizas y Derivados",15.0,0.5,0.0,94.2,4.8,34.0,0.08,0.0
+Zapallo criollo,"Verduras, Hortalizas y Derivados",28.0,0.6,0.2,91.0,7.6,28.0,0.4,6.0
+Zapallo ombligo,"Verduras, Hortalizas y Derivados",21.0,0.9,0.2,93.5,4.8,34.0,0.3,0.0
+"Atago, hojas sin tallo","Verduras, Hortalizas y Derivados",15.0,2.5,0.2,91.6,3.7,0.0,5.56,8.0
+"Col morada, hojas sin tallo","Verduras, Hortalizas y Derivados",24.0,1.9,0.1,90.8,6.3,63.0,0.23,10.0
+"Lechuga morada, hojas sin tallo","Verduras, Hortalizas y Derivados",11.0,1.2,0.1,95.4,2.3,50.0,2.27,8.0
+"Orégano, seco*","Verduras, Hortalizas y Derivados",306.0,11.0,10.3,7.2,64.4,1576.0,44.0,15.0
+Pepinillo japonés con cáscara y pepas,"Verduras, Hortalizas y Derivados",7.0,0.9,0.0,96.8,1.8,15.0,0.08,15.0
+Pimiento amarillo,"Verduras, Hortalizas y Derivados",24.0,1.0,0.2,92.1,6.3,7.0,0.18,1.0
+"Tomate italiano, sin pepas, sin cáscara","Verduras, Hortalizas y Derivados",18.0,0.8,0.1,93.9,4.9,8.0,0.12,3.0
+"Vainita, sancochada, sin sal","Verduras, Hortalizas y Derivados",17.0,2.2,0.1,90.8,6.2,48.0,1.28,1.0
+Abridores,Frutas y Derivados,57.0,0.8,0.1,82.0,16.4,6.0,0.4,0.0
+Aceituna de botija,Frutas y Derivados,298.0,0.8,32.1,57.5,7.3,86.0,2.4,0.0
+Aceitunas negras preparadas,Frutas y Derivados,292.0,2.2,22.4,41.0,30.3,67.0,7.4,0.0
+Airampo,Frutas y Derivados,51.0,1.8,0.5,85.9,11.2,85.0,0.0,0.0
+"Aguaje, pulpa de",Frutas y Derivados,74.0,1.9,3.6,70.1,23.5,48.0,0.46,5.0
+Anona,Frutas y Derivados,45.0,1.1,0.4,85.0,12.9,16.0,0.2,0.0
+Durazno-Melocotón,Frutas y Derivados,43.0,0.8,0.2,86.3,12.4,0.0,0.59,0.0
+Caimito,Frutas y Derivados,49.0,1.8,0.5,83.5,13.6,88.0,0.2,0.0
+Camu-camu,Frutas y Derivados,24.0,0.5,0.1,93.3,5.9,28.0,0.5,0.0
+Capulí,Frutas y Derivados,63.0,0.7,0.4,82.3,15.9,26.0,0.9,0.0
+Chambiro,Frutas y Derivados,118.0,1.5,7.3,75.9,14.5,47.0,0.6,0.0
+Chirimoya,Frutas y Derivados,72.0,1.9,0.3,75.4,21.6,102.0,0.29,16.0
+Ciruela,Frutas y Derivados,82.0,1.0,0.2,76.3,21.5,20.0,0.9,0.0
+Coco,Frutas y Derivados,286.0,3.4,28.1,56.4,10.8,8.0,1.8,46.0
+"Coco, agua de",Frutas y Derivados,10.0,0.7,0.1,95.5,3.1,21.0,0.0,0.0
+Cocona,Frutas y Derivados,42.0,0.9,0.7,88.5,9.2,16.0,1.5,0.0
+Dátiles,Frutas y Derivados,195.0,1.4,0.5,36.8,59.8,60.0,0.8,0.0
+Fresa,Frutas y Derivados,34.0,0.7,0.8,89.1,8.9,37.0,1.2,0.0
+Granada,Frutas y Derivados,66.0,0.5,0.1,80.0,18.3,10.0,0.3,0.0
+Granadilla,Frutas y Derivados,51.0,2.5,2.7,82.3,11.4,17.0,1.28,11.0
+"Granadilla, jugo enlatado de",Frutas y Derivados,62.0,1.1,0.0,82.0,16.1,6.0,0.6,0.0
+Guanábana,Frutas y Derivados,44.0,0.9,0.2,84.0,14.3,38.0,0.7,0.0
+Guayaba,Frutas y Derivados,37.0,0.5,0.1,83.9,14.9,18.0,0.3,0.0
+Guayaba amarilla con cáscara,Frutas y Derivados,13.0,1.2,0.3,88.2,9.7,32.0,0.23,2.0
+Guayaba rosada,Frutas y Derivados,37.0,0.5,0.2,84.0,14.7,17.0,0.3,0.0
+Guayaba verde,Frutas y Derivados,36.0,0.5,0.1,84.3,14.7,30.0,0.0,0.0
+Higo negro,Frutas y Derivados,65.0,0.9,0.1,78.0,19.9,58.0,0.8,0.0
+Higo seco,Frutas y Derivados,146.0,3.6,0.2,47.7,46.6,109.0,2.4,0.0
+Huito,Frutas y Derivados,55.0,1.2,0.1,83.9,14.0,69.0,0.5,0.0
+"Humarí  / Umari, sin pepa y sin cáscara",Frutas y Derivados,163.0,1.6,8.1,62.1,27.4,5.0,0.72,10.0
+Kaki,Frutas y Derivados,64.0,0.5,0.1,78.1,20.8,9.0,0.2,0.0
+Kumuvi,Frutas y Derivados,101.0,0.7,0.6,71.9,25.9,16.0,3.5,0.0
+Lima,Frutas y Derivados,13.0,0.6,0.4,92.8,5.9,31.0,0.2,0.0
+"Limón, jugo de",Frutas y Derivados,28.0,0.5,0.2,89.3,9.7,18.0,0.5,0.0
+Lúcuma,Frutas y Derivados,97.0,2.1,0.2,61.7,34.9,16.0,0.79,0.0
+"Lúcuma, harina de",Frutas y Derivados,329.0,4.0,2.4,9.3,82.0,92.0,4.6,0.0
+"Macambo, pulpa y semilla",Frutas y Derivados,177.0,6.7,9.2,61.1,21.5,19.0,1.7,0.0
+"Macambo, pulpa de",Frutas y Derivados,44.0,2.1,0.8,88.0,8.3,0.0,0.5,0.0
+Mamey maduro,Frutas y Derivados,27.0,0.5,0.1,88.9,9.7,51.0,0.4,0.0
+Mandarina,Frutas y Derivados,29.0,0.6,0.3,90.1,8.6,19.0,0.3,0.0
+Mango,Frutas y Derivados,54.0,0.4,0.2,83.0,15.9,17.0,0.4,0.0
+Manzana nacional,Frutas y Derivados,50.0,0.3,0.1,84.7,14.6,5.0,1.4,0.0
+"Maracuyá, jugo puro de",Frutas y Derivados,61.0,0.9,0.1,82.3,16.1,13.0,3.0,0.0
+Marañón,Frutas y Derivados,35.0,0.8,0.5,87.9,10.5,8.0,3.0,0.0
+Melón,Frutas y Derivados,21.0,0.5,0.1,92.9,5.8,13.0,0.5,0.0
+Melón enano,Frutas y Derivados,20.0,0.6,0.2,94.3,4.4,23.0,0.4,0.0
+Membrillo,Frutas y Derivados,36.0,0.3,0.1,86.9,11.5,9.0,0.7,0.0
+Naranja,Frutas y Derivados,31.0,0.6,0.2,88.5,10.1,23.0,0.2,0.0
+"Naranja agria, jugo de",Frutas y Derivados,32.0,0.5,0.2,90.7,8.2,31.0,0.2,0.0
+Naranja de Guayaquil,Frutas y Derivados,31.0,0.5,0.2,88.6,10.2,37.0,0.1,0.0
+Naranja de Huando,Frutas y Derivados,36.0,1.2,0.2,87.3,10.9,30.0,0.1,0.0
+Níspero,Frutas y Derivados,41.0,0.3,0.0,86.5,12.7,21.0,0.3,0.0
+Nuzive,Frutas y Derivados,138.0,2.7,7.8,70.3,17.7,38.0,7.5,0.0
+Pacae  o Guaba,Frutas y Derivados,56.0,0.6,0.1,84.1,14.8,14.0,0.4,0.0
+Palta,Frutas y Derivados,130.0,1.7,12.5,79.2,5.6,30.0,0.6,0.0
+Pan de árbol con semilla,Frutas y Derivados,117.0,4.5,1.8,63.4,29.0,20.0,0.9,0.0
+Pan de árbol sin semilla,Frutas y Derivados,30.0,1.6,0.5,86.4,10.5,71.0,2.8,0.0
+Pan-Meo,Frutas y Derivados,78.0,1.3,0.2,78.0,19.9,21.0,0.0,0.0
+Papaya,Frutas y Derivados,25.0,0.4,0.1,90.8,8.2,23.0,0.3,2.0
+Pasa sin pepa,Frutas y Derivados,228.0,2.4,0.4,31.6,63.8,64.0,3.7,0.0
+Pepino dulce,Frutas y Derivados,26.0,0.3,0.0,92.3,7.0,30.0,0.3,0.0
+Pera chilena,Frutas y Derivados,38.0,0.3,0.1,86.0,13.2,4.0,0.3,0.0
+Pera de agua,Frutas y Derivados,42.0,0.4,0.6,85.8,13.0,7.0,0.1,0.0
+Pera nacional,Frutas y Derivados,55.0,0.4,0.2,84.7,14.5,2.0,0.3,0.0
+Pera perilla,Frutas y Derivados,58.0,0.6,0.5,84.2,14.4,10.0,0.5,0.0
+Pero,Frutas y Derivados,50.0,0.4,0.7,85.4,13.3,6.0,0.3,0.0
+Pijuayo,Frutas y Derivados,184.0,2.8,3.2,52.3,41.0,27.0,1.0,0.0
+"Pijuayo sancochado, sin cáscara y sin pepas",Frutas y Derivados,120.0,2.1,4.0,52.2,41.0,23.0,0.65,10.0
+Piña,Frutas y Derivados,33.0,0.4,0.2,89.3,9.8,10.0,0.4,0.0
+Plátano de isla,Frutas y Derivados,75.0,1.2,0.1,74.2,21.6,9.0,0.3,15.0
+Plátano de seda,Frutas y Derivados,74.0,1.5,0.3,76.2,21.0,5.0,0.6,0.0
+Plátano guineo,Frutas y Derivados,111.0,1.4,0.2,65.9,31.7,10.0,0.6,0.0
+Plátano manzano,Frutas y Derivados,90.0,1.2,0.1,71.5,26.4,4.0,0.15,0.0
+"Plátano, harina de",Frutas y Derivados,302.0,4.0,0.4,14.0,79.3,29.0,4.62,0.0
+Plátano maduro,Frutas y Derivados,103.0,1.2,0.2,68.1,29.6,0.0,0.4,0.0
+Plátano morado,Frutas y Derivados,97.0,1.0,0.2,69.8,28.1,42.0,0.3,0.0
+Plátano seco (orejón),Frutas y Derivados,232.0,3.7,1.2,24.5,68.2,26.0,0.0,0.0
+Plátano verde,Frutas y Derivados,144.0,1.0,0.2,57.0,40.9,8.0,0.5,0.0
+Plátano verde asado,Frutas y Derivados,243.0,1.5,0.2,29.1,68.0,10.0,0.8,0.0
+Plátano verde sancochado,Frutas y Derivados,129.0,0.7,0.3,61.6,36.8,10.0,0.7,0.0
+Pomarosa,Frutas y Derivados,33.0,0.5,0.4,90.7,7.9,10.0,0.2,0.0
+Purunkari,Frutas y Derivados,151.0,2.7,1.4,58.1,36.3,96.0,2.8,0.0
+Sandia,Frutas y Derivados,23.0,0.7,0.1,93.0,5.9,6.0,0.3,0.0
+"Shiwawaco, semilla",Frutas y Derivados,249.0,6.6,7.5,39.0,45.5,45.0,2.7,0.0
+Tamarindo,Frutas y Derivados,221.0,2.8,0.6,31.4,62.5,74.0,1.0,0.0
+Mango ciruelo o taperibá,Frutas y Derivados,56.0,0.6,0.3,84.5,14.2,39.0,0.7,0.0
+Toronja,Frutas y Derivados,33.0,0.6,0.4,89.8,8.8,34.0,2.0,0.0
+Tumbo costeño,Frutas y Derivados,22.0,0.4,0.0,93.3,5.8,11.0,0.4,0.0
+Tumbo serrano sin cáscara o poro poro,Frutas y Derivados,37.0,2.1,0.4,84.5,12.1,8.0,0.28,4.0
+Tuna,Frutas y Derivados,46.0,0.8,0.0,82.3,15.4,16.0,0.3,0.0
+Tuna roja,Frutas y Derivados,36.0,1.3,0.2,86.2,12.1,136.0,0.17,33.0
+"Ungurauy, unguraui o ungurahui",Frutas y Derivados,307.0,2.8,21.1,41.7,33.6,65.0,0.9,0.0
+Uva blanca,Frutas y Derivados,40.0,0.3,0.2,87.8,11.3,5.0,0.8,0.0
+Uva borgoña,Frutas y Derivados,79.0,0.9,0.3,77.0,21.3,18.0,1.1,0.0
+Uva italia,Frutas y Derivados,63.0,0.4,0.1,81.1,17.7,19.0,0.5,0.0
+Uva negra,Frutas y Derivados,63.0,0.2,0.1,81.2,18.1,6.0,2.2,0.0
+Uva quebranta,Frutas y Derivados,66.0,0.5,0.1,81.4,17.7,14.0,0.4,0.0
+Uvilla,Frutas y Derivados,64.0,0.3,0.3,82.4,16.7,34.0,0.6,0.0
+Zapote,Frutas y Derivados,73.0,0.9,0.3,79.7,18.8,10.0,0.24,21.0
+Aguaymanto,Frutas y Derivados,51.0,1.9,0.0,79.8,17.3,11.0,1.24,0.0
+Blanquillo,Frutas y Derivados,47.0,1.0,0.3,84.8,13.3,0.0,1.06,0.0
+Carambola,Frutas y Derivados,23.0,1.0,0.5,91.7,6.5,5.0,1.16,11.0
+"Carambola, refresco natural, cocido, sin azúcar",Frutas y Derivados,6.0,0.2,0.3,98.5,0.9,0.0,0.0,0.0
+"Carambola, refresco natural, crudo, sin azúcar",Frutas y Derivados,5.0,0.2,0.3,98.9,0.6,0.0,0.02,0.0
+Coco rallado,Frutas y Derivados,596.0,7.4,66.8,3.9,19.5,23.0,0.0,101.0
+"Cocona, jugo natural, cocido, sin azúcar",Frutas y Derivados,0.0,0.0,0.0,99.2,0.8,9.0,0.72,23.0
+"Durazno, néctar envasado",Frutas y Derivados,6.0,0.0,0.0,96.8,3.1,0.0,0.05,7.0
+"Granadilla, jugo natural, sin azúcar",Frutas y Derivados,25.0,1.1,0.2,90.3,7.3,6.0,0.42,4.0
+Guindón sin pepa,Frutas y Derivados,201.0,2.3,0.2,34.1,60.4,37.0,0.83,1.0
+"Kiwi, sin cáscara",Frutas y Derivados,39.0,2.9,0.3,85.6,10.6,51.0,0.37,21.0
+"Limón dulce, sin cáscara",Frutas y Derivados,20.0,1.4,0.4,90.7,7.1,30.0,0.17,16.0
+"Limón, néctar envasado",Frutas y Derivados,57.0,0.0,0.0,85.7,14.2,0.0,0.01,19.0
+"Mango, néctar envasado",Frutas y Derivados,44.0,0.0,0.0,87.4,12.5,0.0,0.03,26.0
+Manzana chilena verde con cáscara,Frutas y Derivados,38.0,0.2,0.3,87.5,11.4,0.0,0.83,0.0
+"Manzana delicia ""helada"" con cáscara",Frutas y Derivados,47.0,0.2,0.1,83.5,16.0,0.0,0.82,0.0
+Manzana delicia roja con cáscara,Frutas y Derivados,52.0,0.3,0.1,82.9,16.5,0.0,0.3,0.0
+Manzana israel con cáscara,Frutas y Derivados,40.0,0.4,0.1,86.5,12.9,0.0,0.41,0.0
+"Manzana, jugo natural, envasado",Frutas y Derivados,43.0,0.0,0.0,89.0,11.0,13.0,0.49,13.0
+"Manzana, néctar envasado",Frutas y Derivados,38.0,0.0,0.0,90.3,9.5,0.0,0.02,37.0
+Manzana pero con cáscara (para agua),Frutas y Derivados,31.0,0.3,0.1,85.6,13.8,0.0,0.51,0.0
+"Manzana santa rosa, golden o caña con cáscara",Frutas y Derivados,53.0,0.2,0.1,82.3,17.3,0.0,0.43,0.0
+Manzana winter con cáscara,Frutas y Derivados,44.0,0.3,0.1,84.4,15.0,0.0,0.27,0.0
+"Maracuyá, jugo natural, envasado",Frutas y Derivados,35.0,0.0,0.0,90.0,10.0,11.0,0.2,11.0
+"Maracuyá, néctar envasado",Frutas y Derivados,9.0,0.0,0.0,97.6,2.3,0.0,0.02,27.0
+"Naranja, bebida envasada",Frutas y Derivados,56.0,0.0,0.0,85.2,14.7,0.0,0.02,9.0
+"Naranja, jugo natural, envasado",Frutas y Derivados,16.0,0.0,0.0,95.0,5.0,10.0,0.11,7.0
+"Naranja, néctar envasado",Frutas y Derivados,43.0,0.0,0.0,87.7,12.3,6.0,0.38,29.0
+Naranja tangelo,Frutas y Derivados,24.0,1.0,0.2,91.0,7.4,0.0,0.63,0.0
+"Naranja tangelo, jugo natural",Frutas y Derivados,16.0,0.7,0.2,93.0,5.9,0.0,0.26,0.0
+Naranjilla*,Frutas y Derivados,28.0,0.7,0.1,91.8,6.8,8.0,0.4,4.0
+"Palta ""fuerte""",Frutas y Derivados,104.0,1.9,8.9,69.7,17.1,11.0,0.49,21.0
+Papaya arequipeña,Frutas y Derivados,17.0,1.0,0.3,94.4,3.7,0.0,0.3,1.0
+"Pera, néctar envasado",Frutas y Derivados,46.0,0.0,0.0,88.5,11.5,0.0,0.02,25.0
+"Piña, bebida envasada",Frutas y Derivados,29.0,0.0,0.0,91.7,8.3,0.0,0.01,7.0
+"Plátano ""bellaco""",Frutas y Derivados,102.0,1.3,0.1,67.5,29.5,8.0,0.38,15.0
+"Plátano ""moquicho""",Frutas y Derivados,100.0,1.2,0.1,67.4,29.7,7.0,0.47,13.0
+Plátano palillo,Frutas y Derivados,105.0,0.9,0.3,66.8,31.0,6.0,0.04,20.0
+"Plátano palillo maduro, harina de",Frutas y Derivados,293.0,4.1,1.1,10.5,81.6,22.0,2.0,39.0
+"Plátano palillo verde, harina de",Frutas y Derivados,295.0,3.3,0.2,11.2,83.2,9.0,0.1,33.0
+Sancayo,Frutas y Derivados,17.0,0.8,0.6,94.0,4.0,0.0,0.16,2.0
+Warr'a,Frutas y Derivados,102.0,1.5,0.2,71.0,26.4,51.0,3.4,0.0
+Yak'u,Frutas y Derivados,116.0,1.8,2.2,69.3,25.3,138.0,3.2,0.0
+Aceituna verde,Frutas y Derivados,186.0,1.4,21.7,67.6,4.5,107.0,1.85,1901.0
+"Aguaje, néctar natural, sin azúcar",Frutas y Derivados,7.0,0.1,0.6,98.3,0.8,4.0,0.05,2.0
+Arándano,Frutas y Derivados,51.0,0.6,0.1,85.1,14.0,0.0,0.51,1.0
+"Arándano, néctar natural, con cáscara, sin azúcar",Frutas y Derivados,20.0,0.3,0.3,94.0,5.3,0.0,0.13,2.0
+Cereza,Frutas y Derivados,30.0,1.2,0.0,88.6,9.6,13.0,0.08,3.0
+"Ciruela albaricoque, con cáscara, sin pepa",Frutas y Derivados,34.0,0.4,0.1,88.1,11.0,6.0,0.04,4.0
+"Cidra o limón cidra, sin cáscara, sin pepas",Frutas y Derivados,19.0,0.7,0.0,90.6,8.1,24.0,0.13,0.0
+Frambuesa,Frutas y Derivados,31.0,1.6,0.8,87.1,10.1,0.0,0.56,1.0
+Mango criollo,Frutas y Derivados,66.0,0.4,0.2,81.1,17.8,6.0,0.0,0.0
+Mango Edward,Frutas y Derivados,69.0,0.6,0.3,79.7,18.8,7.0,0.08,2.0
+"Mango Edward, néctar natural, sin cáscara, sin azúcar",Frutas y Derivados,29.0,0.1,0.4,91.9,7.4,3.0,0.04,1.0
+Mango kafro,Frutas y Derivados,64.0,0.7,0.4,81.7,16.9,0.0,0.14,0.0
+Mango kent,Frutas y Derivados,65.0,0.7,0.0,80.8,18.1,0.0,0.17,1.0
+Manzana Royal  o gala,Frutas y Derivados,55.0,0.4,0.0,83.1,16.1,5.0,0.06,1.0
+"Manzana verde nacional, refresco natural, cocido, sin azúcar",Frutas y Derivados,2.0,0.3,0.2,98.5,1.0,0.0,0.09,1.0
+Mora o zarzamora,Frutas y Derivados,27.0,2.1,0.5,86.4,10.4,33.0,0.37,0.0
+"Noni, con cáscara, sin pepas",Frutas y Derivados,25.0,0.8,0.5,83.2,14.8,49.0,0.0,13.0
+Palta dedo o cocktail,Frutas y Derivados,166.0,1.8,19.1,71.5,6.6,18.0,0.43,0.0
+Palta Hass,Frutas y Derivados,204.0,1.0,23.5,65.9,7.8,9.0,0.57,4.0
+"Papaya, néctar natural, sin azúcar",Frutas y Derivados,15.0,0.4,0.5,95.9,3.1,10.0,0.14,1.0
+Pasa rubia,Frutas y Derivados,265.0,2.4,1.0,22.6,72.1,29.0,2.67,3.0
+Piña Golden o baby golden,Frutas y Derivados,55.0,0.6,0.1,83.2,15.7,11.0,0.18,0.0
+Piña Hawaiana,Frutas y Derivados,44.0,0.6,0.4,86.8,11.9,8.0,0.19,0.0
+Piña Selva,Frutas y Derivados,30.0,0.5,0.4,89.8,9.3,6.0,0.15,0.0
+"Piña Selva, néctar natural, sin azúcar",Frutas y Derivados,19.0,0.2,0.5,95.7,3.5,2.0,0.17,1.0
+Pitajaya roja,Frutas y Derivados,56.0,0.8,0.7,83.3,14.4,11.0,0.32,0.0
+"Plátano bellaco maduro, frito en aceite vegetal",Frutas y Derivados,173.0,1.1,3.7,55.0,39.0,3.0,0.0,0.0
+"Uva Red Globe, con cáscara, sin pepas",Frutas y Derivados,52.0,0.6,0.4,82.6,13.6,11.0,0.34,3.0
+Aceite compuesto (vegetal 70% pescado 30%),"Grasas, Aceites y Oleaginosas",884.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0
+"Aceite de pescado, hidrogenado","Grasas, Aceites y Oleaginosas",884.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0
+Aceite vegetal de algodón,"Grasas, Aceites y Oleaginosas",884.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0
+Aceite vegetal de girasol,"Grasas, Aceites y Oleaginosas",884.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0
+Aceite vegetal de maíz,"Grasas, Aceites y Oleaginosas",884.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0
+Aceite vegetal de maní,"Grasas, Aceites y Oleaginosas",884.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0
+Aceite vegetal de olivo,"Grasas, Aceites y Oleaginosas",884.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0
+Aceite vegetal de palma,"Grasas, Aceites y Oleaginosas",884.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0
+Aceite vegetal de soya,"Grasas, Aceites y Oleaginosas",884.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0
+Almendra,"Grasas, Aceites y Oleaginosas",554.0,19.4,54.1,5.1,18.3,195.0,3.72,1.0
+Avellana,"Grasas, Aceites y Oleaginosas",498.0,10.6,52.9,3.1,30.3,144.0,3.3,61.0
+"Cacao, semillas secas","Grasas, Aceites y Oleaginosas",570.0,12.0,46.3,3.6,34.7,106.0,3.6,4.0
+Castaña peruana o nuez de Brasil,"Grasas, Aceites y Oleaginosas",647.0,13.0,69.0,3.9,10.7,144.0,2.1,22.0
+"Maní crudo, sin cáscara con piel","Grasas, Aceites y Oleaginosas",559.0,24.1,48.2,7.3,17.7,66.0,1.5,0.0
+Maní sancochado,"Grasas, Aceites y Oleaginosas",374.0,15.9,27.5,32.3,21.9,47.0,3.6,0.0
+"Maní tostado, sin piel","Grasas, Aceites y Oleaginosas",590.0,27.1,51.0,2.0,16.9,48.0,2.2,0.0
+Manteca de cerdo,"Grasas, Aceites y Oleaginosas",879.0,0.0,99.4,0.5,0.0,0.0,0.0,0.0
+Manteca vegetal,"Grasas, Aceites y Oleaginosas",880.0,0.0,99.5,0.1,0.0,0.0,0.0,0.0
+Mantequilla,"Grasas, Aceites y Oleaginosas",729.0,2.0,82.0,16.0,0.0,0.0,0.0,0.0
+Mantequilla con sal,"Grasas, Aceites y Oleaginosas",717.0,0.9,81.1,15.9,0.1,24.0,0.02,0.0
+Margarina vegetal con sal,"Grasas, Aceites y Oleaginosas",720.0,0.6,81.0,16.0,0.3,0.0,0.0,0.0
+Nuez,"Grasas, Aceites y Oleaginosas",654.0,14.8,69.1,3.8,10.5,86.0,2.92,3.0
+Cashú o castaña de cashú,"Grasas, Aceites y Oleaginosas",574.0,16.5,51.1,2.3,27.4,61.0,0.0,6.0
+"Chía, semilla de","Grasas, Aceites y Oleaginosas",362.0,19.9,32.5,7.7,35.3,478.0,0.0,3.0
+"Linaza, semilla de","Grasas, Aceites y Oleaginosas",420.0,17.8,42.5,8.1,28.7,228.0,3.41,42.0
+"Margarina, Astra de La Danesa 60% grasa vegetal","Grasas, Aceites y Oleaginosas",506.0,0.0,57.2,34.9,0.0,0.0,0.0,1048.0
+"Margarina, Dorina Batida al 70% de grasa","Grasas, Aceites y Oleaginosas",597.0,0.0,67.6,25.8,0.0,0.0,0.0,762.0
+"Margarina, Dorina Clásica al 70% de grasa","Grasas, Aceites y Oleaginosas",578.0,0.0,65.4,26.5,0.0,0.0,0.0,861.0
+"Margarina, Dorina Light al 50% de grasa","Grasas, Aceites y Oleaginosas",409.0,0.0,46.2,44.7,0.0,0.0,0.0,711.0
+"Margarina, La Danesa 70% de grasa vegetal","Grasas, Aceites y Oleaginosas",590.0,0.0,66.8,24.5,0.0,0.0,0.0,1247.0
+"Margarina, La Preferida 70% grasa","Grasas, Aceites y Oleaginosas",598.0,0.0,67.6,24.6,0.0,0.0,0.0,1229.0
+"Margarina, Manty 40% de grasa vegetal","Grasas, Aceites y Oleaginosas",325.0,0.0,36.8,50.6,0.0,0.0,0.0,1790.0
+"Margarina, Sello de Oro","Grasas, Aceites y Oleaginosas",607.0,0.0,68.6,24.8,0.0,0.0,0.0,926.0
+"Margarina, Swis Light","Grasas, Aceites y Oleaginosas",407.0,0.0,46.1,44.8,0.0,0.0,0.0,864.0
+"Margarina, Swis 60% de grasa","Grasas, Aceites y Oleaginosas",479.0,0.0,54.1,36.6,0.0,0.0,0.0,800.0
+Ñuña tostada,"Grasas, Aceites y Oleaginosas",385.0,17.2,13.1,4.4,61.8,60.0,0.0,26.0
+Pecana,"Grasas, Aceites y Oleaginosas",670.0,9.1,73.8,3.9,11.7,43.0,2.53,1.0
+Sacha Inchi tostado,"Grasas, Aceites y Oleaginosas",574.0,25.6,54.4,2.8,14.5,267.0,0.0,3.0
+"Ajonjolí, semilla de*","Grasas, Aceites y Oleaginosas",525.0,17.7,49.7,4.7,23.5,975.0,14.55,11.0
+"Ajonjolí negro, semilla de","Grasas, Aceites y Oleaginosas",501.0,16.0,51.3,5.4,21.7,995.0,0.0,3.0
+"Girasol, semilla de","Grasas, Aceites y Oleaginosas",587.0,20.2,58.6,2.4,15.4,98.0,7.69,2.0
+Aceite vegetal de girasol con adición de EPA y DHA,"Grasas, Aceites y Oleaginosas",883.0,0.0,99.9,0.1,0.0,0.0,0.0,0.0
+Aceite vegetal de girasol con canola,"Grasas, Aceites y Oleaginosas",883.0,0.0,99.9,0.1,0.0,0.0,0.0,0.0
+Aceite vegetal de oliva extravirgen,"Grasas, Aceites y Oleaginosas",883.0,0.0,99.9,0.1,0.0,0.0,0.0,0.0
+Aceite vegetal de sacha Inchi,"Grasas, Aceites y Oleaginosas",883.0,0.0,99.9,0.1,0.0,0.0,0.0,0.0
+Mantequilla sin sal,"Grasas, Aceites y Oleaginosas",746.0,0.2,84.7,15.0,0.0,18.0,0.08,10.0
+"Maní tostado, acaramelado con ajonjolí, envasado","Grasas, Aceites y Oleaginosas",473.0,13.4,23.0,1.4,60.7,56.0,1.65,4.0
+Pasta untable de maní con sal,"Grasas, Aceites y Oleaginosas",642.0,26.0,51.6,0.8,18.5,45.0,1.54,306.0
+Pistasho,"Grasas, Aceites y Oleaginosas",582.0,19.2,54.2,0.9,22.3,94.0,2.98,418.0
+Almeja blanca,Pescados y Mariscos,71.0,14.4,1.1,82.4,0.0,50.0,1.8,0.0
+"Aska (crustáceo), al estado natural",Pescados y Mariscos,462.0,56.6,19.4,8.0,11.1,40.0,76.9,0.0
+"Aska, sometido a cocción (crustáceo)",Pescados y Mariscos,467.0,56.0,20.3,8.0,10.9,42.0,75.0,0.0
+Barquillos,Pescados y Mariscos,89.0,18.5,0.5,78.2,1.3,108.0,0.2,0.0
+Camaroncito seco (chino),Pescados y Mariscos,247.0,52.3,1.9,29.6,1.6,524.0,4.9,0.0
+Camarones frescos,Pescados y Mariscos,88.0,17.8,0.2,78.0,2.6,117.0,0.1,0.0
+Cangrejo,Pescados y Mariscos,94.0,19.8,0.6,75.2,1.1,108.0,0.82,1000.0
+Cangrejo cocido*,Pescados y Mariscos,97.0,14.8,2.9,78.4,1.9,423.0,4.1,41.0
+Caracol,Pescados y Mariscos,87.0,16.9,0.8,78.6,1.9,158.0,2.0,206.0
+"Chanque, loco o tolina",Pescados y Mariscos,104.0,21.9,0.3,74.3,1.8,85.0,1.5,0.0
+Choros,Pescados y Mariscos,91.0,13.0,2.3,78.7,3.7,119.0,5.05,0.0
+Concha de abanico,Pescados y Mariscos,92.0,15.9,1.8,78.2,1.9,12.0,0.29,0.0
+Erizo,Pescados y Mariscos,147.0,16.3,7.9,72.1,1.4,59.0,0.7,0.0
+Langostino blanco,Pescados y Mariscos,69.0,14.5,0.8,83.8,0.0,89.0,2.03,0.0
+Lapas,Pescados y Mariscos,86.0,18.5,0.4,78.1,0.9,102.0,1.2,0.0
+Machas,Pescados y Mariscos,130.0,23.2,1.3,69.5,4.7,172.0,4.8,0.0
+"Pescado acarabuazú, salado deshidratado",Pescados y Mariscos,292.0,47.5,9.9,25.0,0.0,559.0,2.5,0.0
+Pescado anchoveta,Pescados y Mariscos,156.0,19.1,8.2,70.8,0.0,77.0,3.04,0.0
+"Pescado atún, en conserva",Pescados y Mariscos,181.0,22.9,9.9,65.3,0.0,0.0,0.0,0.0
+"Pescado atún, enlatado en agua",Pescados y Mariscos,116.0,25.5,0.8,72.5,0.0,11.0,1.53,0.0
+"Pescado atún, enlatado en aceite",Pescados y Mariscos,186.0,26.5,8.1,63.0,0.0,4.0,1.2,0.0
+"Pescado atún, fresco",Pescados y Mariscos,141.0,23.3,4.6,70.4,0.0,0.0,0.0,0.0
+Pescado ayanque o cachema,Pescados y Mariscos,88.0,19.6,0.5,77.2,0.0,126.0,0.3,0.0
+Pescado bacalao fresco,Pescados y Mariscos,82.0,17.8,0.7,80.2,0.0,16.0,0.4,0.0
+Pescado bacalao seco salado,Pescados y Mariscos,290.0,62.8,2.4,16.1,0.0,160.0,3.6,0.0
+Pescado bagre,Pescados y Mariscos,80.0,15.2,1.7,80.9,0.0,34.0,1.9,0.0
+Pescado bonito,Pescados y Mariscos,138.0,23.4,4.2,70.6,0.0,28.0,0.7,40.0
+"Pescado bonito, huevera de",Pescados y Mariscos,101.0,17.2,3.0,75.5,0.0,24.0,1.8,0.0
+"Pescado bonito fresco, músculo claro",Pescados y Mariscos,115.0,23.5,1.3,73.1,0.7,20.0,1.03,30.0
+"Pescado bonito fresco, músculo oscuro",Pescados y Mariscos,106.0,23.1,0.7,74.7,0.2,10.0,1.93,40.0
+"Pescado bonito, pulpa asada",Pescados y Mariscos,136.0,24.0,3.7,69.9,0.0,15.0,1.0,0.0
+"Pescado bonito, seco salado",Pescados y Mariscos,184.0,32.3,5.1,44.0,0.0,112.0,6.1,40.0
+"Pescado boquichico, salado deshidratado",Pescados y Mariscos,287.0,47.9,9.1,24.3,0.0,458.0,4.8,0.0
+"Pescado caballa, en conserva",Pescados y Mariscos,225.0,24.8,14.0,60.1,0.0,0.0,0.0,0.0
+"Pescado caballa, fresco",Pescados y Mariscos,182.0,21.5,10.0,66.6,0.0,90.0,1.96,90.0
+"Pescado caballa, salado",Pescados y Mariscos,132.0,21.4,4.1,62.3,0.8,120.0,2.45,4015.0
+Pescado cabinza,Pescados y Mariscos,96.0,19.1,1.6,77.8,0.0,60.0,2.34,0.0
+Pescado cabrilla,Pescados y Mariscos,96.0,18.6,1.8,77.9,0.0,16.0,0.74,0.0
+Pescado carachama,Pescados y Mariscos,64.0,14.2,0.4,82.8,0.0,140.0,1.2,0.0
+Pescado cazón,Pescados y Mariscos,98.0,21.8,0.5,75.0,0.0,108.0,2.6,0.0
+Pescado chita,Pescados y Mariscos,88.0,19.8,0.4,78.0,0.0,22.0,1.3,0.0
+"Pescado chita, huevera de",Pescados y Mariscos,62.0,12.3,1.0,83.8,0.0,28.0,1.8,0.0
+"Pescado chita, pulpa asada",Pescados y Mariscos,99.0,21.0,1.0,75.1,0.0,22.0,1.0,0.0
+Pescado coco,Pescados y Mariscos,99.0,17.4,2.7,78.7,0.0,93.0,0.31,0.0
+Pescado cojinova,Pescados y Mariscos,103.0,20.7,1.6,75.6,0.0,16.0,1.11,0.0
+Pescado congrio,Pescados y Mariscos,73.0,15.7,0.7,82.1,0.0,8.0,0.0,0.0
+Pescado corvina,Pescados y Mariscos,124.0,19.5,4.5,72.6,0.0,57.0,1.1,0.0
+"Pescado fuasaco, con espinas",Pescados y Mariscos,72.0,16.3,0.3,79.5,0.0,645.0,1.3,0.0
+"Pescado jurel, en conserva",Pescados y Mariscos,127.0,23.2,3.8,67.0,0.0,0.0,0.0,0.0
+"Pescado jurel, fresco",Pescados y Mariscos,121.0,22.2,2.7,73.4,0.3,37.0,1.56,115.0
+Pescado lenguado,Pescados y Mariscos,91.0,18.8,1.2,79.1,0.0,18.0,0.7,0.0
+Pescado lisa,Pescados y Mariscos,119.0,20.8,3.3,74.6,0.0,19.0,1.0,0.0
+"Pescado lorna, fresco",Pescados y Mariscos,96.0,18.5,1.9,76.3,0.0,4.0,1.59,0.0
+"Pescado lorna, pulpa seca salada",Pescados y Mariscos,150.0,30.9,2.0,44.8,0.0,260.0,5.7,0.0
+Pescado machete,Pescados y Mariscos,136.0,20.5,5.4,72.5,0.0,49.0,1.9,0.0
+"Pescado maparate, con espinas",Pescados y Mariscos,73.0,15.1,0.9,79.1,0.0,455.0,1.1,0.0
+"Pescado merluza, fresco",Pescados y Mariscos,72.0,15.8,0.5,82.4,0.0,15.0,0.2,0.0
+"Pescado merluza, seco",Pescados y Mariscos,363.0,73.8,5.3,9.2,0.0,0.0,0.0,0.0
+"Pescado mero, fresco",Pescados y Mariscos,85.0,18.6,0.6,79.8,0.0,27.0,0.34,76.0
+"Pescado paiche, seco",Pescados y Mariscos,247.0,38.2,9.3,40.4,0.0,50.0,3.3,0.0
+Pescado pampanito,Pescados y Mariscos,106.0,19.2,2.7,76.0,0.0,126.0,0.3,0.0
+"Pescado paña, salado deshidratado",Pescados y Mariscos,288.0,54.3,6.2,21.5,0.0,710.0,7.1,0.0
+Pescado pejerrey,Pescados y Mariscos,105.0,19.6,2.4,76.5,0.0,105.0,0.7,0.0
+Pescado pejesapo,Pescados y Mariscos,101.0,22.1,0.7,76.0,0.0,0.0,0.8,0.0
+"Pescado pejesapo, pulpa asada",Pescados y Mariscos,87.0,19.5,0.4,77.8,0.0,110.0,1.1,0.0
+"Pescado pejesapo, pulpa sancochada",Pescados y Mariscos,83.0,18.7,0.3,77.8,0.0,109.0,1.0,0.0
+"Pescado perico, fresco, pulpa sin piel",Pescados y Mariscos,91.0,20.2,0.5,78.1,0.0,10.0,0.43,60.0
+Pescado pintadilla,Pescados y Mariscos,85.0,18.8,0.5,77.4,0.0,80.0,1.0,0.0
+"Pescado ractacara, con espinas",Pescados y Mariscos,87.0,15.4,2.3,74.2,0.0,593.0,1.7,0.0
+"Pescado raya, pulpa asada",Pescados y Mariscos,136.0,31.1,0.4,65.9,0.0,15.0,1.2,0.0
+Pescado róbalo,Pescados y Mariscos,95.0,21.3,0.5,76.5,0.0,23.0,0.1,0.0
+"Pescado sardina, en aceite vegetal, conserva",Pescados y Mariscos,242.0,20.6,17.7,59.1,0.0,300.0,2.23,210.0
+"Pescado sardina, en salsa de tomate, conserva",Pescados y Mariscos,85.0,14.9,1.6,78.5,2.8,440.0,1.76,220.0
+"Pescado sardina, en grated, conserva",Pescados y Mariscos,171.0,22.4,9.0,65.4,0.0,151.0,1.6,0.0
+"Pescado sardina, filete, conserva",Pescados y Mariscos,202.0,25.8,11.0,60.6,0.0,84.0,1.1,0.0
+"Pescado sardina, fresco",Pescados y Mariscos,146.0,20.2,6.6,71.3,0.0,41.0,1.9,0.0
+"Pescado Tilapia, fresco",Pescados y Mariscos,100.0,18.4,2.1,77.6,0.7,23.0,0.23,43.0
+"Pescado toyo, fresco",Pescados y Mariscos,89.0,19.5,0.6,78.8,0.0,20.0,3.43,0.0
+"Pescado toyo, seco salado",Pescados y Mariscos,186.0,38.6,2.3,38.3,0.0,0.0,0.0,0.0
+Pescado tramboyo,Pescados y Mariscos,85.0,19.2,0.3,78.8,0.0,84.0,0.1,0.0
+Pescado trucha rosada,Pescados y Mariscos,110.0,20.9,2.3,75.3,0.0,8.0,0.2,0.0
+"Pescado trucha, en conserva",Pescados y Mariscos,167.0,21.5,9.0,66.8,0.0,0.0,0.0,0.0
+"Pescado trucha, fresca",Pescados y Mariscos,111.0,19.5,3.1,75.8,0.0,19.0,0.22,52.0
+"Pescado yahuarachi, con espinas",Pescados y Mariscos,86.0,15.5,2.2,77.3,0.0,319.0,1.9,0.0
+"Pescado yuliya, con espinas",Pescados y Mariscos,85.0,16.9,1.4,77.6,0.0,723.0,1.9,0.0
+"Pescado zúngaro, salado deshidratado",Pescados y Mariscos,286.0,47.3,9.3,24.1,0.0,308.0,6.0,0.0
+Pique,Pescados y Mariscos,78.0,15.9,1.1,79.3,0.0,302.0,1.3,0.0
+Pota,Pescados y Mariscos,91.0,16.0,1.1,78.1,3.1,9.0,0.08,0.0
+"Pota, concentrado proteico de",Pescados y Mariscos,396.0,91.8,0.3,5.9,0.5,0.0,0.0,0.0
+Pulpo,Pescados y Mariscos,80.0,13.6,1.4,81.6,2.2,53.0,3.0,0.0
+"Choro, pulpa cocida, envasado",Pescados y Mariscos,101.0,17.2,1.5,75.2,4.6,58.0,0.12,166.0
+"Mixtura de mariscos: langostino, mejillones, caracol, concha de abanico, calamar, pota, envasado",Pescados y Mariscos,80.0,15.3,0.9,80.0,2.8,29.0,0.06,170.0
+"Pescado ayanque o cachema, pulpa con piel, sancochado sin sal",Pescados y Mariscos,159.0,20.8,7.7,69.8,0.0,80.0,0.64,140.0
+"Pescado Boquichico, fresco",Pescados y Mariscos,95.0,18.3,1.8,78.6,0.1,111.0,0.97,43.0
+"Pescado Cojinova, pulpa con piel, sancochado sin sal",Pescados y Mariscos,120.0,26.8,0.6,71.2,0.0,54.0,0.9,57.0
+"Pescado Doncella, fresco",Pescados y Mariscos,84.0,18.8,0.4,79.7,0.0,13.0,0.29,46.0
+"Pescado jurel, pulpa con piel, frita en aceite vegetal, sin sal",Pescados y Mariscos,159.0,26.8,3.9,63.8,4.2,38.0,0.1,59.0
+"Pescado Jurel, pulpa con piel, sancochado sin sal",Pescados y Mariscos,151.0,26.5,4.0,67.9,0.4,70.0,1.85,93.0
+"Pescado Paco, fresco",Pescados y Mariscos,83.0,18.6,0.4,79.9,0.0,83.0,0.52,51.0
+"Pescado Palometa, fresco",Pescados y Mariscos,124.0,18.0,5.2,75.7,0.0,61.0,0.49,83.0
+"Pescado Reyneta, fresco",Pescados y Mariscos,94.0,20.3,0.9,77.6,0.0,25.0,0.3,83.0
+"Pez espada, fresco",Pescados y Mariscos,211.0,19.8,14.0,64.9,0.0,38.0,0.47,25.0
+"Pescado trucha rosada, pulpa con piel, sancochado sin sal",Pescados y Mariscos,168.0,22.3,8.0,67.9,0.1,100.0,0.51,40.0
+"Ballena, carne pulpa de",Carnes y Derivados,90.0,18.6,1.2,78.0,0.0,33.0,2.5,0.0
+"Carnero, cabeza sancochada de",Carnes y Derivados,111.0,14.2,5.6,79.2,0.0,17.0,2.1,0.0
+"Carnero, corazón de",Carnes y Derivados,115.0,15.9,4.6,77.0,1.4,17.0,2.8,0.0
+"Carnero, hígado de",Carnes y Derivados,131.0,19.9,4.0,72.1,2.6,24.0,6.3,0.0
+"Carnero, panza de (mondongo)",Carnes y Derivados,72.0,15.7,0.6,83.8,0.0,45.0,0.9,0.0
+"Carnero, patas sancochadas de",Carnes y Derivados,108.0,20.9,2.1,76.5,0.0,50.0,1.0,0.0
+"Carnero, pulmón de (bofe)",Carnes y Derivados,77.0,13.4,2.2,81.0,0.0,21.0,6.2,0.0
+"Carnero, riñón",Carnes y Derivados,109.0,18.0,3.2,76.7,0.8,40.0,4.1,0.0
+"Carnero, sesos de",Carnes y Derivados,113.0,10.0,7.8,79.1,0.0,7.0,2.7,0.0
+"Carnero, pulpa gorda",Carnes y Derivados,267.0,16.9,21.6,60.7,0.0,12.0,2.1,0.0
+"Carnero, pulpa muy magra",Carnes y Derivados,136.0,19.0,6.1,73.8,0.0,7.0,2.2,0.0
+"Carnero, pulpa semigorda",Carnes y Derivados,253.0,18.2,19.4,61.4,0.0,7.0,2.5,0.0
+"Cerdo, carne sin hueso",Carnes y Derivados,198.0,14.4,15.1,69.2,0.1,12.0,1.3,0.0
+"Cerdo, hígado de",Carnes y Derivados,128.0,18.5,4.7,73.7,1.7,17.0,6.2,0.0
+"Cerdo, patas semigordas",Carnes y Derivados,284.0,20.0,22.0,57.0,0.0,16.0,3.0,0.0
+"Cerdo, pulmón de (bofe)",Carnes y Derivados,79.0,13.5,2.4,81.3,0.0,17.0,3.4,0.0
+"Cerdo, riñón de",Carnes y Derivados,139.0,13.9,8.8,75.4,0.0,6.0,5.2,0.0
+"Chivo, carne pulpa de",Carnes y Derivados,115.0,19.4,3.6,73.9,0.0,8.0,3.1,0.0
+"Conejo, carne pulpa de",Carnes y Derivados,136.0,20.1,5.6,72.8,0.0,13.0,0.0,0.0
+"Gallina, pechuga de, sin piel",Carnes y Derivados,108.0,19.2,2.9,73.2,0.0,5.0,0.8,0.0
+"Gallina, pierna de, sin piel",Carnes y Derivados,120.0,20.6,3.6,71.3,0.0,9.0,0.9,0.0
+"Majaz, carne pulpa de",Carnes y Derivados,108.0,21.4,1.2,74.7,1.4,59.0,0.0,0.0
+"Motelo, carne pulpa de",Carnes y Derivados,113.0,21.4,1.8,74.6,1.4,51.0,0.7,0.0
+"Pato, carne de",Carnes y Derivados,326.0,16.0,28.6,54.3,0.0,15.0,1.8,0.0
+"Pavo, carne de",Carnes y Derivados,160.0,20.4,8.0,70.4,0.0,15.0,3.8,0.0
+"Pollo, carne pulpa",Carnes y Derivados,119.0,21.4,3.1,74.5,0.0,12.0,1.5,0.0
+"Pollo, corazón de",Carnes y Derivados,157.0,15.6,9.3,72.6,1.6,12.0,1.7,0.0
+"Pollo, hígado de",Carnes y Derivados,125.0,18.0,3.9,73.6,3.4,11.0,8.56,71.0
+"Pollo, sangre de, sancochada sin sal",Carnes y Derivados,89.0,19.8,0.3,78.8,0.5,16.0,52.0,70.0
+"Pollo, sangre cruda de",Carnes y Derivados,65.0,15.0,0.1,83.0,0.0,12.0,27.3,0.0
+"Rana, carne de",Carnes y Derivados,73.0,16.4,0.3,81.9,0.0,18.0,1.5,0.0
+"Tortuga charapa, carne de",Carnes y Derivados,79.0,16.4,0.9,81.6,0.1,9.0,1.3,0.0
+"Res, bazo de",Carnes y Derivados,92.0,18.9,1.2,78.1,0.0,7.0,28.7,0.0
+"Res, cabeza sancochada de",Carnes y Derivados,111.0,18.6,3.4,77.1,0.2,57.0,0.5,0.0
+"Res, carne pulpa de",Carnes y Derivados,105.0,21.3,1.6,75.9,0.0,16.0,3.4,0.0
+"Res, corazón de",Carnes y Derivados,103.0,16.6,3.5,77.0,0.1,6.0,3.6,0.0
+"Res, criadillas de",Carnes y Derivados,60.0,9.8,1.8,86.9,0.4,25.0,0.9,0.0
+"Res, hígado de",Carnes y Derivados,140.0,20.0,4.6,70.8,3.3,13.0,5.4,0.0
+"Res, lengua de",Carnes y Derivados,173.0,16.5,11.2,71.1,0.3,9.0,2.2,0.0
+"Res, panza de (mondongo)",Carnes y Derivados,104.0,16.9,3.5,79.5,0.0,66.0,0.8,0.0
+"Res, pata sancochada de",Carnes y Derivados,152.0,23.7,5.6,68.8,0.0,7.0,2.1,0.0
+"Res, pulmón de (bofe)",Carnes y Derivados,83.0,17.2,1.1,80.0,0.0,6.0,6.5,0.0
+"Res, riñón de",Carnes y Derivados,92.0,15.1,2.9,79.6,0.3,17.0,6.8,0.0
+"Res, sesos de",Carnes y Derivados,135.0,11.3,9.6,78.1,0.0,8.0,0.9,0.0
+"Res, ubre de",Carnes y Derivados,233.0,14.1,19.2,66.0,0.0,69.0,2.9,0.0
+"Carnero, carne seca sin hueso (chalona)",Carnes y Derivados,320.0,50.3,11.7,20.2,0.0,53.0,3.9,0.0
+"Chicharrón de cerdo, cocido",Carnes y Derivados,602.0,11.3,61.4,22.6,0.0,40.0,2.8,0.0
+Chicharrón de prensa,Carnes y Derivados,438.0,23.9,37.2,29.9,0.0,60.0,2.2,0.0
+Chorizo,Carnes y Derivados,287.0,21.0,21.9,52.3,0.0,56.0,4.0,0.0
+Jamón del país,Carnes y Derivados,344.0,24.7,26.4,47.9,0.0,48.0,2.1,0.0
+Jamonada,Carnes y Derivados,344.0,15.7,29.5,49.3,2.8,85.0,1.5,0.0
+Mortadela,Carnes y Derivados,256.0,9.8,19.7,57.9,9.4,82.0,2.0,0.0
+Paté,Carnes y Derivados,500.0,10.9,49.8,35.0,1.1,57.0,7.1,0.0
+Queso de chancho,Carnes y Derivados,242.0,20.1,17.3,55.5,0.0,77.0,4.2,0.0
+Relleno,Carnes y Derivados,119.0,14.4,5.0,75.5,3.2,63.0,16.9,0.0
+Salchicha blanca chica,Carnes y Derivados,449.0,12.0,43.2,40.1,2.0,22.0,3.2,0.0
+Salchicha blanca grande,Carnes y Derivados,363.0,13.6,32.3,47.9,3.5,76.0,1.2,0.0
+Hot Dog,Carnes y Derivados,364.0,11.0,34.3,49.4,2.1,76.0,1.3,0.0
+"Salchicha de ""Huacho""",Carnes y Derivados,461.0,12.9,44.0,38.2,2.4,80.0,5.5,0.0
+Tocino,Carnes y Derivados,493.0,13.5,47.9,32.8,0.8,26.0,1.2,0.0
+"Alpaca, carne pulpa de",Carnes y Derivados,109.0,24.1,0.5,73.9,0.3,11.0,2.2,0.0
+"Carnero, criadillas fritas**",Carnes y Derivados,97.0,15.8,3.0,78.4,1.6,16.0,5.8,0.0
+"Carnero, panza cocida (mondongo)**",Carnes y Derivados,92.0,12.3,3.1,80.7,3.7,26.0,4.2,0.0
+"Carnero, pierna cocida**",Carnes y Derivados,260.0,24.8,17.6,56.4,0.5,32.0,3.6,0.0
+"Carnero, sangre cocida**",Carnes y Derivados,122.0,20.4,4.5,74.4,0.0,21.0,59.2,0.0
+"Cerdo, carne magra, cruda*",Carnes y Derivados,143.0,21.4,5.7,72.2,0.0,17.0,0.84,52.0
+"Cerdo, corazón de**",Carnes y Derivados,131.0,15.9,6.2,74.1,2.9,9.0,5.72,0.0
+"Cerdo, costilla con piel y grasa, crudo",Carnes y Derivados,298.0,17.6,24.7,56.8,0.0,8.0,0.82,57.0
+"Cerdo, cuero o pellejo crocante*",Carnes y Derivados,527.0,58.5,30.5,4.8,4.6,94.0,6.2,0.0
+"Cerdo, cuero**",Carnes y Derivados,505.0,48.4,34.6,14.5,0.0,15.0,0.0,0.0
+"Cerdo, lengua cocida de**",Carnes y Derivados,325.0,6.1,27.5,52.7,13.0,17.0,2.4,0.0
+"Cordero, pierna cruda*",Carnes y Derivados,128.0,20.6,4.5,74.1,0.0,6.0,1.82,62.0
+"Codorniz, carne cocida de **",Carnes y Derivados,199.0,21.1,8.4,59.8,9.6,78.0,4.6,0.0
+"Cuy, carne de",Carnes y Derivados,96.0,19.0,1.6,78.1,0.1,29.0,1.9,0.0
+"Llama, carne fresca de**",Carnes y Derivados,130.0,22.5,3.3,70.3,2.7,47.0,4.62,0.0
+"Llama, carne seca de (charqui)",Carnes y Derivados,279.0,57.7,3.6,25.8,1.1,37.0,6.5,0.0
+"Pate de hígado de pollo, envasado*",Carnes y Derivados,201.0,13.5,13.1,65.6,6.6,10.0,9.19,386.0
+"Pollo, alas con piel, crudas*",Carnes y Derivados,222.0,18.3,16.0,65.2,0.0,12.0,0.95,73.0
+"Pollo, molleja, cruda*",Carnes y Derivados,94.0,17.7,2.1,79.3,0.0,11.0,2.49,69.0
+"Pollo, molleja de, sancochada sin sal",Carnes y Derivados,144.0,29.1,2.2,67.9,0.1,27.0,3.41,40.0
+"Pollo, pata de, con piel, cruda",Carnes y Derivados,205.0,19.3,13.6,66.7,0.0,21.0,0.94,91.0
+"Pollo, pechuga de, sin piel, sancochada sin sal",Carnes y Derivados,150.0,30.4,2.2,65.4,0.0,12.0,0.5,31.0
+"Pollo, pechuga de, sin piel, frita en aceite vegetal, sin sal",Carnes y Derivados,201.0,34.9,5.7,57.2,0.1,9.0,0.57,64.0
+"Pollo, pierna de, con piel, sancochada sin sal",Carnes y Derivados,175.0,23.5,8.3,67.4,0.0,23.0,1.4,92.0
+"Pollo, pierna de, con piel, frita en aceite vegetal, sin sal",Carnes y Derivados,185.0,24.9,8.8,65.2,0.0,19.0,1.15,129.0
+"Pollo, vísceras o menudencia cruda*",Carnes y Derivados,168.0,17.9,9.2,69.8,2.1,10.0,5.93,77.0
+"Res, bazo de, sancochado sin sal",Carnes y Derivados,107.0,20.8,2.0,76.2,0.0,17.0,17.6,66.0
+"Res, carne frita**",Carnes y Derivados,182.0,15.4,10.7,66.8,6.1,10.0,3.6,0.0
+"Res, carne molida de, cruda",Carnes y Derivados,164.0,21.0,8.3,69.8,0.0,13.0,1.95,165.0
+"Res, carne molida de, frita en aceite vegetal, sin sal",Carnes y Derivados,277.0,27.3,17.7,53.2,0.1,19.0,2.14,211.0
+"Res, charque crudo**",Carnes y Derivados,292.0,62.4,4.1,20.0,1.4,37.0,12.21,0.0
+"Res, cuadril, churrasco***",Carnes y Derivados,133.0,22.0,5.0,71.8,0.0,0.0,0.0,0.0
+"Res (ternera), costilla cruda***",Carnes y Derivados,95.0,20.0,1.7,76.3,0.0,5.0,2.0,88.0
+"Res, hígado de, frito en aceite vegetal, sin sal",Carnes y Derivados,161.0,21.5,6.5,66.6,2.7,11.0,4.34,47.0
+"Res, lengua cocida**",Carnes y Derivados,269.0,16.6,18.2,54.9,9.5,18.0,2.4,0.0
+"Res, panza de (mondongo), sancochado sin sal",Carnes y Derivados,67.0,10.6,2.4,86.5,0.0,163.0,1.33,61.0
+"Res, pata de, con piel y grasa, cruda",Carnes y Derivados,141.0,24.9,3.9,69.9,0.1,508.0,2.64,158.0
+"Res, sangre cocida**",Carnes y Derivados,137.0,19.5,6.6,73.5,0.0,20.0,61.4,0.0
+"Res, sangre cruda**",Carnes y Derivados,135.0,19.8,6.2,73.6,0.0,22.0,64.4,0.0
+"Sajino, carne pulpa de",Carnes y Derivados,106.0,21.4,1.1,75.0,1.3,64.0,0.0,0.0
+"Venado, carne pulpa de",Carnes y Derivados,110.0,22.9,0.8,73.9,1.4,65.0,0.0,0.0
+"Venado, carne seca de",Carnes y Derivados,160.0,32.4,1.4,57.1,2.4,60.0,1.9,0.0
+Ziqui - zapa (hormiga),Carnes y Derivados,487.0,36.3,28.9,8.0,18.4,89.0,12.7,0.0
+"Cabanossi, embutido cocido y ahumado",Carnes y Derivados,345.0,28.9,24.2,40.6,2.8,21.0,12.77,937.0
+"Carnero, pulpa de, sin piel, sancochada sin sal",Carnes y Derivados,229.0,31.6,10.3,57.0,0.1,11.0,3.94,35.0
+Cecina,Carnes y Derivados,171.0,30.1,4.8,60.9,0.0,10.0,1.02,575.0
+"Cerdo, chuleta de, con piel, frita en aceite vegetal, sin sal",Carnes y Derivados,299.0,26.6,20.5,51.8,0.1,20.0,0.71,50.0
+"Cerdo, pulpa de, sin piel, sancochada sin sal",Carnes y Derivados,202.0,32.3,7.1,59.3,0.0,10.0,0.7,30.0
+"Cerdo, sangre de, cocida, envasada",Carnes y Derivados,115.0,25.8,0.5,72.5,0.1,20.0,64.73,220.0
+"Chorizo, embutido de carne de cerdo, frito en aceite vegetal",Carnes y Derivados,338.0,13.6,27.8,48.7,7.3,23.0,2.09,1157.0
+"Cuy, pecho de, pulpa con piel, cruda",Carnes y Derivados,269.0,16.0,18.7,56.6,8.1,21.0,1.03,51.0
+"Cuy, pierna de, pulpa con piel, cruda",Carnes y Derivados,219.0,16.6,16.0,65.8,0.8,16.0,1.57,55.0
+"Gallina, pierna y encuentro de, pulpa con piel, sancochada sin sal",Carnes y Derivados,209.0,27.3,10.2,61.2,0.1,20.0,1.62,50.0
+"Hot dog, embutido de carne de pollo, cerdo y pavo, frito en aceite vegetal",Carnes y Derivados,202.0,10.3,14.3,65.4,7.2,56.0,1.5,1194.0
+Jamonada especial,Carnes y Derivados,155.0,12.1,9.3,70.8,4.9,65.0,1.31,1109.0
+"Majaz, pulpa ahumada de, sancochada sin sal",Carnes y Derivados,219.0,41.4,4.7,46.0,0.0,130.0,4.9,1887.0
+"Paté de hígado de pollo, pavo y carne de cerdo",Carnes y Derivados,195.0,13.5,15.3,68.0,0.8,9.0,10.35,738.0
+"Pavo, pechuga de, con piel",Carnes y Derivados,94.0,17.7,1.3,78.2,1.6,21.0,0.31,141.0
+"Pavo, pierna de, con piel",Carnes y Derivados,105.0,16.4,2.6,77.2,2.8,115.0,1.2,132.0
+"Pollo, ala de, con piel, sancochada sin sal (brazuelo, centro y punta)",Carnes y Derivados,262.0,20.1,19.1,58.8,1.2,15.0,1.02,55.0
+"Pollo, corazón de, sancochado sin sal",Carnes y Derivados,154.0,25.7,4.9,68.3,0.0,17.0,4.82,64.0
+"Pollo, encuentro de, con piel, frito en aceite vegetal, sin sal",Carnes y Derivados,202.0,26.0,9.9,62.5,0.4,14.0,1.39,128.0
+"Pollo, encuentro de, con piel, sancochado sin sal",Carnes y Derivados,198.0,23.4,10.8,64.8,0.1,19.0,1.43,72.0
+"Pollo, hamburguesa de, cruda, envasada",Carnes y Derivados,208.0,13.6,12.2,61.7,10.0,73.0,2.15,649.0
+"Pollo, hígado de, sancochado sin sal",Carnes y Derivados,157.0,23.9,4.9,66.8,2.9,13.0,13.86,72.0
+"Pollo, nuggets de pechuga de, crudo, envasado",Carnes y Derivados,185.0,11.2,10.8,66.2,9.8,31.0,1.39,770.0
+"Pollo, pecho y ala de, con piel a la brasa",Carnes y Derivados,170.0,25.8,6.4,63.7,2.3,20.0,0.35,299.0
+"Pollo, pierna y encuentro de, con piel a la brasa",Carnes y Derivados,213.0,20.9,12.7,60.7,3.7,17.0,0.7,439.0
+"Res, bofe de, con verduras, cocido, envasado",Carnes y Derivados,107.0,18.8,2.8,76.8,0.4,20.0,8.34,210.0
+"Res, hamburguesa de carne de, cruda, envasada",Carnes y Derivados,219.0,12.1,15.7,63.3,6.4,28.0,1.02,636.0
+"Res, osobuco de",Carnes y Derivados,121.0,22.5,2.7,73.6,0.1,11.0,3.63,55.0
+"Sajino ahumado, pulpa de, sancochada sin sal",Carnes y Derivados,173.0,32.0,4.0,59.3,0.0,87.0,4.34,3182.0
+"Salchicha de Huacho, frita en aceite vegetal",Carnes y Derivados,498.0,15.5,47.5,33.3,0.9,55.0,1.95,1345.0
+"Tocino, sancochado",Carnes y Derivados,350.0,25.0,27.0,44.7,0.0,21.0,1.6,1745.0
+"Crema de leche, espesa",Leches y Derivados,345.0,2.1,37.0,57.7,2.8,65.0,0.1,0.0
+"Crema de leche, rala",Leches y Derivados,195.0,2.7,19.3,73.8,3.7,96.0,0.1,0.0
+Leche condensada endulzada,Leches y Derivados,322.0,7.9,9.2,27.2,53.7,276.0,0.1,0.0
+Leche en polvo descremada,Leches y Derivados,362.0,36.2,0.8,3.2,52.0,1257.0,1.2,0.0
+Leche en polvo entera,Leches y Derivados,484.0,27.0,26.1,3.9,36.1,848.0,0.2,0.0
+Leche evaporada descremada,Leches y Derivados,79.0,7.1,0.9,80.0,10.5,0.0,0.0,0.0
+Leche evaporada entera,Leches y Derivados,133.0,6.3,7.7,73.5,10.9,231.0,0.0,0.0
+Leche fresca c/menos de 1% grasa,Leches y Derivados,43.0,3.5,1.0,90.1,4.7,130.0,0.05,0.0
+Leche fresca entera (Plusa),Leches y Derivados,64.0,3.2,3.2,87.8,5.1,106.0,0.3,0.0
+Leche fresca de cabra,Leches y Derivados,66.0,3.2,3.8,87.3,5.0,171.0,0.0,0.0
+Leche fresca de vaca,Leches y Derivados,63.0,3.1,3.5,87.8,4.9,106.0,1.3,0.0
+Leche materna,Leches y Derivados,70.0,1.0,4.4,87.5,6.9,32.0,0.0,0.0
+Queso fresco de cabra,Leches y Derivados,173.0,16.3,10.3,65.1,3.4,310.0,0.8,0.0
+Queso fresco de vaca,Leches y Derivados,265.0,17.2,20.2,55.9,3.6,1105.0,0.14,573.0
+Queso mantecoso,Leches y Derivados,322.0,19.5,26.5,49.5,1.5,266.0,0.39,952.0
+Queso parmesano duro,Leches y Derivados,440.0,39.1,30.3,22.2,1.8,1260.0,0.6,0.0
+Yogurt de leche entera,Leches y Derivados,61.0,3.5,3.3,87.9,4.7,121.0,0.05,0.0
+Yogurt frutado de leche semidescremada,Leches y Derivados,97.0,4.1,2.8,73.8,18.5,105.0,0.05,0.0
+Yogurt frutado de leche descremada,Leches y Derivados,95.0,4.4,0.2,75.4,19.0,152.0,0.07,0.0
+Yogurt natural de leche descremada,Leches y Derivados,56.0,5.7,0.2,85.2,7.7,199.0,0.09,0.0
+"Leche fresca de vaca, descremada***",Leches y Derivados,30.0,2.5,0.0,91.5,5.0,0.0,0.0,0.0
+"Leche parcialmente descremada sabor ""chocolate"" UHT",Leches y Derivados,82.0,3.0,2.8,82.0,11.3,97.0,0.3,74.0
+Queso andino,Leches y Derivados,375.0,22.6,31.4,42.0,0.6,736.0,0.12,608.0
+Queso paria,Leches y Derivados,298.0,19.2,24.5,48.9,0.0,629.0,0.08,2254.0
+Yogurt bebible descremado durazno con calcio,Leches y Derivados,50.0,4.1,0.1,86.6,8.1,213.0,0.02,49.0
+Yogurt bebible de fresa,Leches y Derivados,78.0,2.7,1.2,80.9,14.5,127.0,0.08,40.0
+"Leche concentrada endulzada, enriquecida con DHA, zinc y vitaminas",Leches y Derivados,124.0,5.5,6.0,74.7,12.5,199.0,1.06,96.0
+"Leche concentrada, sin lactosa",Leches y Derivados,89.0,7.2,3.7,81.2,6.8,216.0,1.83,108.0
+Queso cabaña (cottage),Leches y Derivados,106.0,12.5,4.8,78.7,2.8,49.0,0.07,354.0
+Queso edam,Leches y Derivados,330.0,24.4,25.3,44.9,1.0,935.0,0.31,732.0
+"Queso fresco, parcialmente descremado,  reducido en grasa",Leches y Derivados,153.0,17.6,7.7,69.2,2.6,540.0,1.0,391.0
+Queso Mozarella,Leches y Derivados,301.0,24.2,21.6,48.9,2.1,98.0,1.63,495.0
+Queso ricotta,Leches y Derivados,115.0,13.5,4.2,74.2,5.3,227.0,0.33,43.0
+"Yogurt bebible descremado, endulzado con stevia, linaza en almibar y frutos secos",Leches y Derivados,55.0,4.0,0.8,85.4,9.2,113.0,0.06,41.0
+Yogurt bebible parcialmente descremado con mora,Leches y Derivados,65.0,3.3,1.7,84.5,10.0,102.0,0.0,57.0
+Yogurt bebible parcialmente descremado con sauco,Leches y Derivados,72.0,2.6,2.7,84.7,9.5,86.0,0.0,33.0
+Yogurt griego descremado con fresas,Leches y Derivados,74.0,4.2,0.3,79.8,14.9,151.0,0.07,67.0
+Yogurt griego natural sin azúcar,Leches y Derivados,79.0,4.0,3.9,83.3,7.9,126.0,0.03,62.0
+Cerveza,Bebidas,36.0,0.3,0.0,94.5,5.1,0.0,0.1,0.0
+Chicha de aguaje,Bebidas,54.0,0.4,0.8,87.2,11.2,14.0,0.4,0.0
+Chicha de cebada,Bebidas,24.0,0.1,0.2,94.0,5.5,10.0,1.1,0.0
+Chicha de jora,Bebidas,28.0,0.4,0.3,93.2,5.8,22.0,1.8,0.0
+Chicha de maíz morado con azúcar,Bebidas,20.0,0.0,0.0,95.0,4.9,24.0,1.3,0.0
+Chicha de maní,Bebidas,34.0,0.5,0.8,92.1,6.3,12.0,1.0,0.0
+Chicha de pijuayo,Bebidas,47.0,0.8,0.1,88.3,10.6,22.0,0.5,0.0
+Chicha de soya,Bebidas,41.0,0.6,0.2,89.9,9.1,11.0,1.1,0.0
+Chicha de yuca (masato),Bebidas,37.0,0.2,0.1,90.4,8.9,11.0,0.6,0.0
+Coca Cola,Bebidas,39.0,0.0,0.0,89.5,10.5,0.0,0.0,0.0
+Inca Kola,Bebidas,41.0,0.0,0.0,89.0,11.0,0.0,0.0,0.0
+Bebida de soya,Bebidas,38.0,3.0,1.4,91.4,3.8,36.0,0.4,0.0
+Té sin azúcar,Bebidas,1.0,0.1,0.0,99.6,0.2,3.0,0.2,0.0
+Vino blanco (grado alcohólico: 12.0),Bebidas,81.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vino tinto  (grado alcohólico: 10.2),Bebidas,69.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Café sin azúcar,Bebidas,2.0,0.1,0.0,99.1,0.6,4.0,0.2,0.0
+"Ajonjolí, bebida de, natural, sin azúcar",Bebidas,46.0,1.6,4.2,90.5,3.4,16.0,2.47,1.0
+"Almendra, bebida de, natural, sin azúcar",Bebidas,73.0,3.0,6.4,85.5,4.7,47.0,2.71,2.0
+"Arándano y uva, bebida de, envasada",Bebidas,17.0,0.0,0.0,95.6,4.3,6.0,0.07,6.0
+"Avellana, bebida de, natural, sin azúcar",Bebidas,58.0,1.4,5.7,89.3,3.4,23.0,2.54,1.0
+"Carambola, refresco de, con azúcar",Bebidas,30.0,0.0,0.0,92.4,7.4,0.0,0.22,0.0
+"Cebada, agua de , natural, sin azúcar",Bebidas,3.0,0.1,0.1,99.4,0.3,0.0,0.02,2.0
+"Cebada, refresco de, con azúcar",Bebidas,22.0,0.1,0.0,94.4,5.4,0.0,0.08,0.0
+"Emoliente, con azúcar",Bebidas,15.0,0.1,0.3,96.6,3.0,0.0,0.08,0.0
+"Infusión de hierbas, con azúcar",Bebidas,28.0,0.0,0.2,93.1,6.7,0.0,0.16,0.0
+"Infusión de hierba luisa, con azúcar",Bebidas,14.0,0.0,0.0,96.4,3.5,0.0,0.04,0.0
+"Maíz morado, chicha de, natural, sin azúcar, sin limón",Bebidas,2.0,0.1,0.2,99.5,0.2,0.0,0.02,3.0
+"Malta, bebida de, sin alcohol, envasada",Bebidas,32.0,0.3,0.0,92.1,7.6,42.0,0.5,13.0
+"Manzana, refresco de, con azúcar",Bebidas,34.0,0.1,0.1,91.6,8.2,0.0,0.08,0.0
+"Maracuyá, refresco de, con azúcar",Bebidas,34.0,0.1,0.2,91.7,7.9,0.0,0.21,0.0
+"Naranja, mandarina y limón, bebida sabor a, envasada",Bebidas,12.0,0.0,0.0,96.9,3.1,5.0,0.0,12.0
+"Piña, néctar de, con edulcorante, envasada",Bebidas,15.0,0.1,0.0,96.1,3.7,3.0,0.09,17.0
+Huevo de charapa,Huevos y Derivados,222.0,16.3,16.0,61.3,1.8,388.0,2.2,0.0
+"Huevo de gallina, clara de",Huevos y Derivados,51.0,10.9,0.2,87.6,0.7,7.0,0.08,0.0
+"Huevo de gallina entero, sancochado en agua",Huevos y Derivados,148.0,12.8,9.9,75.6,0.8,44.0,3.04,0.0
+"Huevo de gallina entero, crudo",Huevos y Derivados,166.0,12.7,11.1,72.2,2.9,29.0,2.6,0.0
+"Huevo de gallina, yema de",Huevos y Derivados,354.0,15.6,30.9,50.1,1.9,136.0,4.3,0.0
+Huevo de tortuga motelo,Huevos y Derivados,143.0,16.4,7.3,73.5,1.6,85.0,0.8,0.0
+Huevo de pata,Huevos y Derivados,166.0,13.1,11.1,72.5,2.3,58.0,1.7,0.0
+"Huevo de pata, yema de",Huevos y Derivados,426.0,15.1,38.8,41.7,2.8,145.0,4.7,0.0
+Huevo de tortuga taricaya,Huevos y Derivados,178.0,15.1,11.3,66.0,2.9,322.0,1.4,0.0
+"Huevo de gallina, clara sancochada en agua",Huevos y Derivados,59.0,11.9,0.3,86.0,1.0,0.0,0.0,0.0
+"Huevo de gallina, yema sancochada en agua",Huevos y Derivados,364.0,16.3,32.1,48.7,1.0,120.0,8.25,0.0
+"Huevo de codorniz, entero crudo",Huevos y Derivados,162.0,12.6,9.4,70.8,6.0,64.0,3.65,0.0
+"Huevo de codorniz, entero sancochado en agua",Huevos y Derivados,182.0,12.7,12.4,69.9,3.9,0.0,0.0,0.0
+"Huevo de codorniz, clara sancochada en agua",Huevos y Derivados,55.0,10.6,0.1,86.4,2.2,0.0,0.0,0.0
+"Huevo de codorniz, yema sancochada en agua",Huevos y Derivados,326.0,13.5,26.2,50.2,8.4,0.0,0.0,0.0
+"Huevo de gallina, entero, frito en aceite vegetal, sin sal",Huevos y Derivados,176.0,13.8,12.5,70.5,2.3,45.0,0.53,147.0
+Azúcar granulada o refinada,Productos Azucarados,384.0,0.0,0.0,0.6,99.2,1.0,0.1,0.0
+Azúcar rubia,Productos Azucarados,380.0,0.0,0.0,2.0,97.5,45.0,1.7,0.0
+Chancaca,Productos Azucarados,324.0,0.0,0.0,15.8,83.9,46.0,3.2,0.0
+Miel de abeja,Productos Azucarados,330.0,0.0,0.0,14.1,85.6,26.0,0.4,0.0
+Miel de caña,Productos Azucarados,282.0,0.3,0.2,26.3,72.0,69.0,1.0,0.0
+Mermelada de durazno,Productos Azucarados,196.0,0.6,0.1,48.2,50.7,8.0,1.4,0.0
+Mermelada frutilla,Productos Azucarados,229.0,0.4,0.2,39.7,59.4,40.0,1.2,0.0
+Mermelada de sauco,Productos Azucarados,268.0,0.4,0.1,32.2,67.2,12.0,0.25,11.0
+Achiote seco,Misceláneos,388.0,11.3,5.3,3.1,74.9,11.0,5.6,0.0
+Algas,Misceláneos,249.0,67.8,6.5,3.4,15.3,630.0,32.0,0.0
+"Azafrán de raíz, cúrcuma o palillo fresco, sin cáscara",Misceláneos,71.0,1.3,0.4,80.3,16.7,32.0,0.9,0.0
+Café grano sin tostar,Misceláneos,203.0,11.7,10.8,6.3,68.2,120.0,2.9,0.0
+Cochayuyo fresco,Misceláneos,20.0,1.7,0.4,90.1,4.7,90.0,0.69,167.0
+Cocoa,Misceláneos,404.0,19.0,17.1,8.7,47.8,220.0,10.5,0.0
+Cominos,Misceláneos,375.0,17.8,22.3,8.1,44.2,931.0,1.2,168.0
+Extracto de algarrobo en polvo,Misceláneos,340.0,12.0,3.2,12.5,65.8,450.0,6.6,0.0
+Champiñones u hongos (Callampa),Misceláneos,22.0,3.0,0.4,90.3,5.6,1.0,0.32,5.0
+Laurel,Misceláneos,188.0,4.2,1.2,45.2,47.1,187.0,5.4,0.0
+Pimienta negra,Misceláneos,255.0,11.0,3.3,10.5,71.0,437.0,12.6,0.0
+Té hojas secas,Misceláneos,308.0,8.0,4.0,11.4,71.4,400.0,11.9,0.0
+Yuyo fresco,Misceláneos,41.0,2.1,0.1,86.1,8.0,225.0,10.6,0.0
+"Ají dulce seco, molido (paprika)",Misceláneos,362.0,14.5,17.9,9.1,49.5,0.0,0.0,0.0
+"Algarrobina, líquida",Misceláneos,368.0,5.2,0.2,5.2,85.5,0.0,0.0,0.0
+"Anís, semilla*",Misceláneos,337.0,17.6,15.9,9.5,50.0,646.0,36.96,16.0
+Caldo de res*,Misceláneos,40.0,1.2,2.4,92.4,3.3,14.0,0.9,0.0
+"Caldo de pollo, o gallina*",Misceláneos,89.0,0.2,9.8,88.1,0.0,5.0,0.4,0.0
+"Clavo de olor, molido*",Misceláneos,323.0,6.0,20.1,6.9,61.2,646.0,8.68,243.0
+"Canela, molida*",Misceláneos,261.0,3.9,3.2,9.5,79.9,1228.0,38.07,26.0
+Condimentos o especies molidas no especificadas*,Misceláneos,263.0,6.1,8.7,8.5,72.1,661.0,7.06,77.0
+Cushuro o nostoc deshidratada (alga),Misceláneos,242.0,29.0,0.5,15.1,46.9,147.0,83.6,0.0
+Levadura fresca para pan**,Misceláneos,113.0,13.4,0.3,70.6,14.2,20.0,2.3,0.0
+Levadura seca**,Misceláneos,359.0,41.6,1.2,7.2,45.5,47.0,9.8,0.0
+"Nuez moscada, molida*",Misceláneos,440.0,5.8,36.3,6.2,49.3,184.0,3.04,16.0
+Pimienta blanca*,Misceláneos,296.0,10.4,2.1,11.4,68.6,265.0,14.31,0.0
+"Salsa envasada, inglesa*",Misceláneos,67.0,0.0,0.0,78.5,19.5,107.0,5.3,980.0
+Setas,Misceláneos,19.0,2.3,0.1,90.5,6.5,4.0,0.29,3.0
+"Vainilla, extracto*",Misceláneos,288.0,0.1,0.1,52.6,12.7,11.0,0.12,9.0
+"Alimento granulado con malta, leche, cacao y azúcar, en polvo, para bebida",Misceláneos,366.0,9.8,7.3,3.2,75.0,761.0,23.9,245.0
+"Azafrán de raíz, cúrcuma o palillo en polvo",Misceláneos,324.0,7.3,5.1,10.5,68.0,69.0,4.85,2070.0
+"Cachanga, frita en aceite",Misceláneos,422.0,8.4,19.8,16.9,52.4,187.0,9.36,663.0
+"Caldo de ave, tabletas",Misceláneos,314.0,13.2,25.2,5.5,6.3,100.0,8.3,0.0
+"Caldo de carne, tabletas",Misceláneos,300.0,5.8,24.7,4.8,13.7,89.0,5.5,0.0
+"Camote, hojuela frita en aceite vegetal, endulzado, envasado",Misceláneos,483.0,4.6,26.0,1.6,64.6,14.0,3.11,206.0
+"""Chicharrón"" (piel de  cerdo, frito en aceite vegetal con sal), envasado",Misceláneos,554.0,62.8,33.7,1.4,1.3,22.0,0.69,1816.0
+"Chocolate con leche y maní, barra, envasado",Misceláneos,534.0,9.5,33.5,1.1,54.1,145.0,1.33,89.0
+Chocolate simple con azúcar (para taza),Misceláneos,248.0,3.8,16.8,3.1,75.1,46.0,2.8,0.0
+"Churro relleno con crema pastelera, frito en aceite",Misceláneos,330.0,4.8,14.3,34.7,45.3,25.0,2.47,240.0
+"Churro relleno con majarblanco, frito en aceite",Misceláneos,378.0,7.9,13.4,20.6,56.5,211.0,3.29,333.0
+"Haba, frita en aceite vegetal con sal, envasada",Misceláneos,413.0,25.1,18.1,1.2,52.3,90.0,4.69,308.0
+"Mayonesa con sal, envasada*",Misceláneos,390.0,0.9,33.4,39.9,23.9,14.0,0.2,711.0
+"Papa, al hilo frita en aceite vegetal con sal, envasada",Misceláneos,512.0,4.9,32.0,1.8,57.7,36.0,1.21,342.0
+"Papa, hojuela frita en aceite vegetal con sal, envasada",Misceláneos,524.0,6.1,35.1,1.7,53.8,21.0,1.65,316.0
+"Pizza americana, (listo para consumo)",Misceláneos,260.0,9.7,10.4,42.9,35.1,153.0,3.2,454.0
+"Plátano, hojuela frita en aceite vegetal con sal (chifles), envasado",Misceláneos,500.0,2.1,30.1,2.0,63.5,9.0,0.6,400.0
+"Ravioles relleno con carne, crudo, envasado",Misceláneos,186.0,9.6,1.8,41.5,45.7,37.0,3.53,471.0
+Salsa de soya*,Misceláneos,60.0,10.5,0.1,66.0,5.6,20.0,2.38,5586.0
+"Sopa con fideo precocido y sazonador en polvo sabor a pollo, envasado",Misceláneos,420.0,11.1,16.0,4.5,61.6,21.0,2.82,2128.0
+Vinagre,Misceláneos,21.0,0.0,0.0,93.8,6.0,7.0,0.5,0.0
+"""Yuquita"" de harina, frita en aceite con sal",Misceláneos,343.0,8.3,7.3,22.9,60.9,29.0,4.83,109.0
+Al 110 maternizada,Alimentos Infantiles,502.0,14.0,25.0,3.0,55.3,450.0,6.0,0.0
+Cerelac manzana,Alimentos Infantiles,414.0,11.0,7.4,3.0,75.6,275.0,6.3,0.0
+Cerelac trigo,Alimentos Infantiles,425.0,11.5,7.8,1.5,77.2,275.0,6.3,0.0
+Eledón maternizada,Alimentos Infantiles,417.0,27.9,12.0,3.0,49.8,1070.0,0.4,0.0
+Nan maternizada,Alimentos Infantiles,509.0,11.4,26.0,3.0,57.7,320.0,6.0,0.0
+Nestúm cereal mixto,Alimentos Infantiles,380.0,9.4,1.2,3.0,82.9,690.0,15.6,0.0
+Nestúm tres cereales,Alimentos Infantiles,376.0,10.7,2.4,4.0,77.8,690.0,14.7,0.0
+Pelargón maternizada,Alimentos Infantiles,458.0,16.5,17.1,3.0,59.6,590.0,6.0,0.0
+"Alimento instantáneo en polvo, a base de harina de arroz, para niños a partir de 6 meses de edad",Alimentos Infantiles,370.0,7.4,0.6,3.7,86.0,462.0,52.15,32.0
+"Alimento complementario en polvo, a base de leche descremada, maltodextrina, vitaminas y minerales, para mayores de 2 años de edad",Alimentos Infantiles,398.0,14.5,21.2,2.1,58.0,663.0,6.17,303.0
+"Alimento lácteo en polvo con leche descremada, prebióticos, probióticos, vitaminas y minerales, para mayores de 2 años de edad",Alimentos Infantiles,392.0,17.4,22.8,2.0,53.1,771.0,8.57,244.0
+"Fórmula infantil, en polvo con DHA, prebióticos, vitaminas y minerales, sin sacarosa y fructosa, niños en crecimiento",Alimentos Infantiles,389.0,11.4,14.8,2.5,67.9,164.0,7.01,168.0
+"Fórmula láctea infantil, líquida con hierro y prebióticos; a partir de los 6 meses de edad",Alimentos Infantiles,112.0,4.0,5.3,72.6,17.2,161.0,1.95,62.0
+"Fórmula láctea infantil, en polvo con hierro y probióticos, lactantes a partir de los 6 meses de edad",Alimentos Infantiles,399.0,14.3,21.0,2.0,59.6,534.0,6.89,208.0
+"Fórmula láctea para lactantes, a base de leche; en polvo, de 0 a 6 meses de edad",Alimentos Infantiles,418.0,10.1,28.3,2.0,56.9,391.0,7.11,155.0
+"Fórmula láctea para lactantes, a base de leche; en polvo, lactantes a partir de 6 meses de edad",Alimentos Infantiles,399.0,14.8,23.5,2.1,55.6,601.0,7.9,261.0
+"Fórmula láctea para lactantes, en polvo con DHA, ARA, hierro,vitaminas y minerales; de 0 a 12 meses de edad",Alimentos Infantiles,408.0,11.3,26.9,2.0,56.6,483.0,5.18,182.0
+"Mezcla de cereales  instantánea en polvo (harinas de trigo, arroz, maíz, cebada y avena) con leche descremada en polvo, a partir de 6 meses de edad",Alimentos Infantiles,374.0,15.9,8.0,3.3,69.6,590.0,24.2,119.0
+"Arveja partida, harina de",Leguminosas y Derivados,346.0,21.6,1.1,10.1,64.4,102.0,5.5,0.0
+"Arveja, fresca sin vaina",Leguminosas y Derivados,85.0,7.1,0.6,72.6,18.8,27.0,1.7,3.0
+"Arveja, seca sin cáscara",Leguminosas y Derivados,247.0,21.7,3.2,11.5,61.1,65.0,2.6,0.0
+Arvejón,Leguminosas y Derivados,238.0,21.4,1.9,12.1,61.9,60.0,7.5,0.0
+Frejol aguisho,Leguminosas y Derivados,231.0,22.7,1.6,12.6,59.1,138.0,8.5,0.0
+Frejol amarillo común,Leguminosas y Derivados,232.0,21.1,1.5,12.6,61.0,94.0,9.7,0.0
+Frejol bayo,Leguminosas y Derivados,244.0,20.3,2.2,14.2,59.5,99.0,5.81,25.0
+Frejol bayo americano,Leguminosas y Derivados,232.0,20.3,1.5,13.4,61.5,153.0,6.6,25.0
+"Frejol zarandaja, chileno, cancate, bocón",Leguminosas y Derivados,236.0,21.7,1.8,12.8,60.3,67.0,5.41,0.0
+Frejol bountiful bean,Leguminosas y Derivados,334.0,17.3,0.9,12.9,65.2,104.0,8.4,0.0
+Frejol bush bean,Leguminosas y Derivados,227.0,24.2,1.6,13.3,56.8,80.0,7.3,0.0
+Frejol caballero,Leguminosas y Derivados,267.0,22.9,1.5,12.5,58.3,137.0,5.1,0.0
+Frejol caballero o blanco cocido,Leguminosas y Derivados,67.0,5.1,0.4,75.8,17.5,46.0,1.4,0.0
+Frejol california,Leguminosas y Derivados,232.0,20.7,2.1,13.2,59.9,170.0,7.0,0.0
+Frejol canario,Leguminosas y Derivados,236.0,21.9,2.1,11.7,60.1,138.0,6.6,43.0
+Frejol canario cocido,Leguminosas y Derivados,43.0,5.2,0.5,77.8,15.5,45.0,1.6,0.0
+"Frejol canario, fresco (frejol verde)",Leguminosas y Derivados,102.0,9.7,0.6,58.4,29.6,60.0,2.18,3.0
+Frejol canario serranito,Leguminosas y Derivados,238.0,19.2,1.8,12.2,63.3,149.0,4.0,43.0
+Frejol caraotas,Leguminosas y Derivados,228.0,21.2,1.4,13.5,60.0,129.0,9.9,0.0
+Frejol castilla,Leguminosas y Derivados,227.0,23.3,2.7,13.3,56.9,97.0,6.65,0.0
+Frejol chavín,Leguminosas y Derivados,234.0,19.2,1.4,12.6,63.1,95.0,4.2,0.0
+Frejol chiclayo,Leguminosas y Derivados,223.0,21.4,1.6,15.1,58.2,72.0,9.8,0.0
+Frejol chiclayo dosmesino fresco,Leguminosas y Derivados,100.0,8.4,0.4,73.2,16.6,26.0,2.7,0.0
+Frejol cocacho,Leguminosas y Derivados,230.0,21.3,1.2,13.1,60.8,104.0,7.8,0.0
+Frejol dulce (Ancash),Leguminosas y Derivados,236.0,19.4,1.8,12.4,62.7,140.0,5.2,0.0
+Frejol negro,Leguminosas y Derivados,270.0,18.2,1.3,13.6,63.4,133.0,9.3,30.0
+Frejol nucya blanco,Leguminosas y Derivados,237.0,20.0,1.9,12.5,62.1,173.0,3.3,0.0
+Frejol nucya plomo,Leguminosas y Derivados,233.0,19.8,1.6,12.9,62.0,104.0,3.0,0.0
+Frejol palo,Leguminosas y Derivados,345.0,18.4,1.4,10.3,66.1,114.0,2.9,0.0
+"Frejol palo, fresco (Lenteja verde)",Leguminosas y Derivados,82.0,7.0,0.8,67.6,23.2,114.0,1.09,1.0
+Frejol panamito,Leguminosas y Derivados,235.0,21.5,1.7,12.2,60.7,174.0,6.3,13.0
+Frejol plomo,Leguminosas y Derivados,236.0,20.1,1.8,12.7,62.0,90.0,6.6,0.0
+Frejol pole bean,Leguminosas y Derivados,229.0,22.4,1.2,13.2,59.7,125.0,8.3,0.0
+Frejol red kidney,Leguminosas y Derivados,270.0,19.2,1.2,13.6,62.6,107.0,4.6,0.0
+Frejol shimpe fresco,Leguminosas y Derivados,51.0,3.7,0.1,86.0,9.1,46.0,1.4,0.0
+Frejol soya,Leguminosas y Derivados,369.0,33.7,18.7,9.5,32.7,314.0,7.42,63.0
+Frejol tarhui o chocho cocido con cáscara,Leguminosas y Derivados,140.0,11.6,8.6,69.7,9.5,30.0,1.4,0.0
+"Frejol tarhui o chocho, harina de",Leguminosas y Derivados,458.0,49.6,27.9,7.0,12.9,93.0,1.38,0.0
+"Frejol tarhui o chocho, seco",Leguminosas y Derivados,277.0,17.3,17.5,46.3,17.3,54.0,2.3,0.0
+Frejol terciopelo,Leguminosas y Derivados,358.0,21.0,5.6,11.5,58.5,104.0,8.0,0.0
+Frejol vacapaleta,Leguminosas y Derivados,226.0,18.3,2.4,15.6,60.1,127.0,4.53,0.0
+Frejol white kidney,Leguminosas y Derivados,268.0,22.1,1.1,13.1,59.9,139.0,6.1,0.0
+"Garbanzo, cocido",Leguminosas y Derivados,127.0,6.9,2.5,61.9,27.8,54.0,1.9,0.0
+Garbanzo,Leguminosas y Derivados,293.0,17.6,5.4,10.8,63.3,120.0,5.95,29.0
+Guaba fresco,Leguminosas y Derivados,141.0,10.7,0.7,63.3,24.0,115.0,3.1,0.0
+Guaba seco,Leguminosas y Derivados,346.0,20.3,2.1,10.7,63.3,192.0,4.9,0.0
+"Habas frescas, sin cáscara y sin vaina",Leguminosas y Derivados,134.0,11.3,0.8,60.6,25.9,31.0,2.0,6.0
+Habas secas con cáscara cruda,Leguminosas y Derivados,340.0,23.8,1.5,11.5,60.1,197.0,13.0,63.0
+Habas secas sin cáscara,Leguminosas y Derivados,233.0,25.9,2.4,13.6,55.3,48.0,8.0,63.0
+Habas secas sin cáscara cocida,Leguminosas y Derivados,83.0,7.3,0.5,72.8,18.5,64.0,0.9,0.0
+"Habas, harina de",Leguminosas y Derivados,310.0,22.4,2.3,8.1,64.6,67.0,4.63,0.0
+Lentejas chicas,Leguminosas y Derivados,211.0,22.6,1.0,13.0,61.0,73.0,7.6,0.0
+Lentejas chicas cocidas,Leguminosas y Derivados,65.0,6.4,0.1,74.6,18.3,43.0,1.7,0.0
+Lentejas grandes,Leguminosas y Derivados,214.0,23.2,1.1,12.4,61.0,71.0,4.8,0.0
+Pallar morado,Leguminosas y Derivados,259.0,20.0,1.3,12.1,62.8,51.0,3.8,0.0
+Pallar seco,Leguminosas y Derivados,253.0,20.4,1.2,11.6,61.4,70.0,6.7,55.0
+Pallar sin cáscara,Leguminosas y Derivados,260.0,21.6,1.4,12.2,61.6,38.0,5.2,55.0
+"Pallar cocido, con cáscara",Leguminosas y Derivados,94.0,7.7,0.8,68.1,21.9,28.0,1.28,0.0
+"Arveja colantao, fresca",Leguminosas y Derivados,35.0,3.1,0.1,88.5,7.8,0.0,1.06,11.0
+"Arveja, harina de",Leguminosas y Derivados,306.0,19.9,2.4,8.2,67.0,81.0,4.36,0.0
+"Arveja verde partida, sancochada sin sal",Leguminosas y Derivados,120.0,10.1,1.8,65.6,21.8,47.0,1.61,8.0
+Caza o parka,Leguminosas y Derivados,342.0,25.1,2.0,11.0,58.6,176.0,3.4,0.0
+Frejol bayo sancochado sin sal,Leguminosas y Derivados,111.0,9.8,0.9,63.8,24.3,59.0,3.19,18.0
+Frejol castilla sancochado sin sal,Leguminosas y Derivados,119.0,10.1,1.8,64.4,22.7,39.0,3.18,3.0
+Frejol chiclayo marrón,Leguminosas y Derivados,334.0,22.6,2.1,13.5,58.4,143.0,4.49,0.0
+Frejol chiclayo pindayllo,Leguminosas y Derivados,343.0,25.1,2.9,11.6,57.0,143.0,6.65,0.0
+Frejol chiclayo rojo,Leguminosas y Derivados,335.0,21.8,2.5,13.5,58.8,143.0,4.56,0.0
+Frejol de Iberia,Leguminosas y Derivados,343.0,22.7,1.3,10.0,62.3,131.0,5.4,0.0
+Frejol negro sancochado sin sal,Leguminosas y Derivados,104.0,9.8,1.7,64.4,22.8,64.0,2.3,19.0
+Frejol ñuña,Leguminosas y Derivados,271.0,19.1,1.2,11.3,64.6,143.0,4.13,0.0
+Frejol panamito sancochado sin sal,Leguminosas y Derivados,106.0,9.5,1.4,62.5,25.4,78.0,1.95,5.0
+"Frejol soya, bebida de, (""leche"" de soya UHT)",Leguminosas y Derivados,49.0,3.0,1.8,88.8,6.0,54.0,0.71,49.0
+"Frejol soya, cocido",Leguminosas y Derivados,176.0,15.3,9.2,62.8,11.1,0.0,1.87,0.0
+"Frejol soya, harina integral",Leguminosas y Derivados,359.0,37.4,23.0,8.0,26.4,0.0,6.3,0.0
+"Frejol soya, harina integral tostada",Leguminosas y Derivados,433.0,40.5,23.4,6.5,23.9,0.0,6.65,0.0
+Frejol ucayalino,Leguminosas y Derivados,334.0,21.7,2.3,13.5,58.8,83.0,5.44,0.0
+"Frejol zarandaja, chileno, cancate o bocón, sancochado sin sal",Leguminosas y Derivados,114.0,9.9,1.0,62.6,25.5,38.0,2.09,3.0
+"Gigante rojo, cáscara del grano",Leguminosas y Derivados,348.0,4.4,0.7,10.3,80.3,637.0,2.1,0.0
+"Gigante rojo, cáscara fresca del grano",Leguminosas y Derivados,125.0,2.7,0.2,67.4,28.0,150.0,0.5,0.0
+"Gigante rojo, pulpa fresca",Leguminosas y Derivados,166.0,16.3,0.6,56.0,25.7,76.0,0.9,0.0
+"Gigante rojo, pulpa seca",Leguminosas y Derivados,333.0,31.6,1.3,12.0,52.3,109.0,3.6,0.0
+Hemico leguminoso,Leguminosas y Derivados,331.0,25.6,1.7,12.6,56.1,170.0,7.2,0.0
+Pallar del río Manú,Leguminosas y Derivados,329.0,22.0,0.9,13.4,60.2,186.0,4.0,0.0
+Poroto de cumbasa,Leguminosas y Derivados,357.0,22.5,5.5,11.0,57.3,140.0,4.0,0.0
+"Proteínas, (proteína de soya)*",Leguminosas y Derivados,350.0,49.3,0.5,5.8,36.0,350.0,15.0,0.0
+"Arverja verde, partida, seca",Leguminosas y Derivados,290.0,21.2,1.6,10.7,64.0,28.0,3.85,2.0
+Frejol chuyo,Leguminosas y Derivados,264.9887808,18.026281999999995,1.42,13.5,63.60371799999999,140.0,8.82,24.0
+"Tofu  o ""queso"" de soya, crudo",Leguminosas y Derivados,128.0,11.0,9.7,75.7,2.5,225.0,1.4,108.0
+Arracacha o racacha,"Tubérculos, Raíces y Derivados",94.0,1.1,0.3,72.4,25.2,28.0,0.41,8.0
+Ashipa,"Tubérculos, Raíces y Derivados",170.0,1.4,0.3,55.3,42.7,29.0,4.8,0.0
+Camote amarillo sin cáscara,"Tubérculos, Raíces y Derivados",95.0,2.0,0.0,73.5,23.4,41.0,0.43,0.0
+Camote blanco,"Tubérculos, Raíces y Derivados",114.0,1.7,0.1,68.8,28.3,26.0,2.5,0.0
+Camote morado sin cáscara,"Tubérculos, Raíces y Derivados",105.0,1.4,0.3,71.6,25.7,36.0,1.4,0.0
+"Camote, harina de","Tubérculos, Raíces y Derivados",341.0,2.1,0.9,9.9,84.3,153.0,5.7,0.0
+Curao,"Tubérculos, Raíces y Derivados",62.0,1.6,0.1,82.5,14.7,22.0,1.8,0.0
+Koshñipa,"Tubérculos, Raíces y Derivados",135.0,1.6,0.2,63.2,33.6,108.0,0.3,0.0
+Kuros,"Tubérculos, Raíces y Derivados",93.0,1.8,0.2,74.5,22.6,11.0,0.5,0.0
+Llacón,"Tubérculos, Raíces y Derivados",51.0,0.3,0.3,86.6,12.5,23.0,0.3,0.0
+Maca (tubérculo seco),"Tubérculos, Raíces y Derivados",301.0,11.8,1.6,15.3,66.3,247.0,14.7,0.0
+Maca silvestre,"Tubérculos, Raíces y Derivados",69.0,3.5,1.0,79.8,13.2,37.0,49.9,0.0
+"Maca, afrechillo","Tubérculos, Raíces y Derivados",316.0,10.5,0.6,12.0,73.4,475.0,29.3,0.0
+"Maca, almidón","Tubérculos, Raíces y Derivados",350.0,6.1,1.2,11.0,80.1,175.0,31.7,0.0
+"Maca, pasta integral","Tubérculos, Raíces y Derivados",310.0,14.0,1.0,11.1,68.4,245.0,25.0,0.0
+Mashua o isaño,"Tubérculos, Raíces y Derivados",32.0,0.7,0.1,88.0,10.6,0.0,0.37,0.0
+Olluco sin cáscara,"Tubérculos, Raíces y Derivados",59.0,1.1,0.1,83.7,14.3,3.0,1.1,0.0
+Papa amarilla sin cáscara,"Tubérculos, Raíces y Derivados",101.0,2.0,0.4,73.2,23.3,6.0,0.4,0.0
+Papa blanca,"Tubérculos, Raíces y Derivados",87.0,2.1,0.1,74.5,22.3,9.0,0.5,0.0
+Papa chuño negro,"Tubérculos, Raíces y Derivados",333.0,4.0,0.2,14.1,79.4,44.0,0.9,0.0
+Papa color morado deshidratada,"Tubérculos, Raíces y Derivados",324.0,8.7,0.2,13.3,74.1,23.0,2.6,0.0
+Papa helada amarga,"Tubérculos, Raíces y Derivados",180.0,1.8,0.6,54.5,42.1,58.0,2.8,0.0
+Papa huayro con cáscara,"Tubérculos, Raíces y Derivados",71.0,1.9,0.1,81.0,15.9,10.0,0.73,0.0
+Papa moraya chuño pelado,"Tubérculos, Raíces y Derivados",323.0,1.9,0.5,18.1,77.7,92.0,3.3,0.0
+Papa seca,"Tubérculos, Raíces y Derivados",322.0,8.2,0.7,14.8,72.8,47.0,4.5,0.0
+"Papa, harina de","Tubérculos, Raíces y Derivados",308.0,6.4,0.4,10.9,77.1,82.0,1.0,0.0
+Papas deshidratadas con lejía,"Tubérculos, Raíces y Derivados",319.0,8.0,0.3,14.0,73.1,48.0,1.7,0.0
+Pituca o taro,"Tubérculos, Raíces y Derivados",82.0,1.6,0.5,73.7,23.2,50.0,1.2,0.0
+"Pituca, harina de","Tubérculos, Raíces y Derivados",342.0,8.1,0.3,9.7,78.6,97.0,7.0,0.0
+Radiche,"Tubérculos, Raíces y Derivados",77.0,1.8,0.1,78.0,18.6,104.0,1.4,0.0
+Betarraga,"Tubérculos, Raíces y Derivados",18.0,2.0,0.3,91.3,5.4,24.0,0.31,0.0
+Sachapapa,"Tubérculos, Raíces y Derivados",96.0,1.8,1.5,72.2,23.5,3.0,0.7,0.0
+"Sachapapa blanca, bulbo","Tubérculos, Raíces y Derivados",126.0,2.5,0.1,67.2,29.4,4.0,0.6,0.0
+Yuca amarilla fresca sin cáscara,"Tubérculos, Raíces y Derivados",147.0,0.6,0.2,59.0,39.1,35.0,0.4,0.0
+Yuca asada,"Tubérculos, Raíces y Derivados",168.0,0.6,0.3,53.7,44.4,29.0,0.2,0.0
+Yuca blanca fresca sin cáscara,"Tubérculos, Raíces y Derivados",115.0,0.7,0.5,65.8,31.8,25.0,0.19,0.0
+Yuca blanca sancochada,"Tubérculos, Raíces y Derivados",136.0,0.5,0.2,62.0,36.4,26.0,0.2,0.0
+"Yuca, harina de","Tubérculos, Raíces y Derivados",333.0,0.3,0.1,17.1,82.2,155.0,1.31,0.0
+"Achira blanca (rizoma, raíz)","Tubérculos, Raíces y Derivados",96.0,1.4,0.1,73.2,23.8,13.0,0.7,0.0
+"Achira morada (rizoma, raíz)","Tubérculos, Raíces y Derivados",94.0,1.4,0.1,74.0,23.2,17.0,1.4,0.0
+Camote de Huarayoc,"Tubérculos, Raíces y Derivados",106.0,1.6,0.2,71.0,26.1,6.0,0.5,0.0
+Camote deshidratado,"Tubérculos, Raíces y Derivados",333.0,3.7,0.7,11.0,82.4,120.0,2.9,0.0
+Camote deshidratado tratado con lejía,"Tubérculos, Raíces y Derivados",327.0,5.3,0.8,11.5,79.6,73.0,1.9,0.0
+Cushusho (tubérculo),"Tubérculos, Raíces y Derivados",287.0,16.3,0.5,15.7,61.9,209.0,42.5,0.0
+Dale - Dale (tubérculo),"Tubérculos, Raíces y Derivados",115.0,4.3,0.2,67.0,26.5,147.0,0.8,0.0
+Iguana papa (tubérculo),"Tubérculos, Raíces y Derivados",77.0,5.0,0.2,78.0,15.3,322.0,0.7,0.0
+"Maca, harina de","Tubérculos, Raíces y Derivados",328.0,8.7,4.1,6.6,78.9,61.0,7.97,3.0
+Nopu - zumaca (tubérculo),"Tubérculos, Raíces y Derivados",143.0,7.1,0.4,59.8,31.1,48.0,1.1,0.0
+Oca deshidratada (ccaya),"Tubérculos, Raíces y Derivados",311.0,4.3,1.1,15.3,75.4,52.0,9.9,0.0
+Oca sin cáscara,"Tubérculos, Raíces y Derivados",53.0,0.7,0.0,83.0,15.6,0.0,0.47,0.0
+Oca variedad nativa ccaya oga con cáscara,"Tubérculos, Raíces y Derivados",29.0,0.8,0.4,82.6,15.4,0.0,3.84,0.0
+Oca variedad nativa garwuaricra con cáscara,"Tubérculos, Raíces y Derivados",28.0,0.9,0.4,84.5,13.5,0.0,0.79,0.0
+Papa canchan,"Tubérculos, Raíces y Derivados",66.0,2.4,0.1,77.4,19.1,26.0,0.45,8.0
+"Papa, chuño negro, harina de","Tubérculos, Raíces y Derivados",322.0,5.8,0.1,15.3,75.6,0.0,23.01,0.0
+"Papa moraya, harina de","Tubérculos, Raíces y Derivados",332.0,2.3,0.1,16.5,80.6,65.0,15.63,0.0
+Papa negra andina,"Tubérculos, Raíces y Derivados",63.0,1.8,0.4,81.0,16.2,19.0,0.52,6.0
+"Papa sin cáscara, variedad amarilis","Tubérculos, Raíces y Derivados",64.0,2.1,0.1,81.7,15.4,30.0,0.79,0.0
+"Papa sin cáscara, variedad huevo de indio","Tubérculos, Raíces y Derivados",84.0,2.1,0.2,75.8,21.1,30.0,0.51,0.0
+"Papa sin cáscara, variedad tumbay","Tubérculos, Raíces y Derivados",86.0,2.0,0.1,75.5,21.5,30.0,0.36,0.0
+"Papa sin cáscara, variedad única","Tubérculos, Raíces y Derivados",77.0,2.3,0.2,77.8,19.0,30.0,0.46,0.0
+"Papa sin cáscara, variedad Yungay","Tubérculos, Raíces y Derivados",86.0,2.1,0.1,77.1,19.9,30.0,0.45,0.0
+Papa variedad nativa capulí con cáscara,"Tubérculos, Raíces y Derivados",115.0,1.2,0.3,65.7,31.5,5.0,1.72,0.0
+Papa variedad nativa caramarquina con cáscara,"Tubérculos, Raíces y Derivados",98.0,1.7,0.3,69.3,27.5,6.0,1.1,0.0
+Papa variedad nativa chimbina amarilla con cáscara,"Tubérculos, Raíces y Derivados",68.0,2.3,0.2,75.3,21.0,0.0,0.69,0.0
+Papa variedad nativa huagalina con cáscara,"Tubérculos, Raíces y Derivados",54.0,2.4,0.2,77.9,18.3,0.0,0.56,0.0
+Papa variedad nativa hualash con cáscara,"Tubérculos, Raíces y Derivados",54.0,2.0,0.4,78.6,17.6,6.0,0.56,0.0
+Papa variedad nativa huayro con cáscara,"Tubérculos, Raíces y Derivados",76.0,1.7,0.2,75.1,21.8,0.0,0.53,0.0
+Papa variedad nativa huevo de toro con cáscara,"Tubérculos, Raíces y Derivados",72.0,2.4,0.3,73.8,22.4,0.0,0.66,0.0
+Papa variedad nativa limeña con cáscara,"Tubérculos, Raíces y Derivados",68.0,2.5,0.3,75.2,20.9,0.0,0.53,0.0
+Papa variedad nativa maga blanca con cáscara,"Tubérculos, Raíces y Derivados",65.0,3.0,0.3,76.8,18.9,0.0,0.42,0.0
+Papa variedad nativa peruanita con cáscara,"Tubérculos, Raíces y Derivados",78.0,2.0,0.3,74.1,22.4,0.0,0.38,0.0
+Papa variedad nativa puca pampamachay con cáscara,"Tubérculos, Raíces y Derivados",81.0,2.0,0.2,71.9,24.8,6.0,1.28,0.0
+Papa variedad nativa puca pishgosh con cáscara,"Tubérculos, Raíces y Derivados",99.0,1.9,0.5,68.8,27.5,11.0,1.01,0.0
+Papa variedad nativa quinuapa tulum con cáscara,"Tubérculos, Raíces y Derivados",70.0,1.9,0.5,74.3,21.8,7.0,0.95,0.0
+Papa variedad nativa sapa negra con cáscara,"Tubérculos, Raíces y Derivados",72.0,2.2,0.3,73.7,22.6,0.0,0.74,0.0
+Papa variedad nativa yana shaque con cáscara,"Tubérculos, Raíces y Derivados",108.0,1.8,0.4,67.6,29.1,6.0,0.86,0.0
+Quillu uncucha (tubérculo),"Tubérculos, Raíces y Derivados",146.0,4.5,0.2,59.0,34.3,54.0,2.0,0.0
+"Sachapapa, bulbo aéreo","Tubérculos, Raíces y Derivados",138.0,2.3,0.3,64.6,32.0,11.0,0.7,0.0
+Tallapaqui culli (tubérculo),"Tubérculos, Raíces y Derivados",72.0,2.0,0.2,79.5,16.9,31.0,1.8,0.0
+Tallapaqui yurak (tubérculo),"Tubérculos, Raíces y Derivados",88.0,2.0,0.1,75.6,21.2,23.0,1.2,0.0
+Yuca de moja,"Tubérculos, Raíces y Derivados",160.0,1.5,0.2,57.0,40.2,26.0,0.8,0.0
+"Papa ""cóctel"", con cáscara, cruda","Tubérculos, Raíces y Derivados",49.0,2.2,0.0,82.8,14.0,8.0,1.09,1.0
+"Papa, prefrita en aceite vegetal, congelada, envasada","Tubérculos, Raíces y Derivados",92.0,2.2,0.9,73.8,22.3,8.0,0.66,11.0
+"Papa, chuño de, envasado (almidón de papa o fécula de papa)","Tubérculos, Raíces y Derivados",326.0,0.2,0.0,18.8,80.8,5.0,0.08,0.0
+Papa morada sin cáscara,"Tubérculos, Raíces y Derivados",120.0,2.1,0.0,66.8,30.2,4.0,0.59,2.0
+"Papa, tocosh fresco","Tubérculos, Raíces y Derivados",172.0,0.9,0.0,55.1,43.5,12.0,17.5,3.0
+"Papa, tocosh harina","Tubérculos, Raíces y Derivados",332.0,3.1,0.3,14.8,80.8,43.0,15.9,3.0
+Aguadito de pollo,Alimentos Preparados,38.0,2.0,0.9,18.4,5.8,10.0,0.66,80.0
+Aguadito de pescado,Alimentos Preparados,25.0,0.6,0.6,9.1,4.3,8.0,0.22,234.0
+Alita broaster con ensalada de lechuga,Alimentos Preparados,143.0,8.2,6.7,72.1,12.3,16.0,0.78,97.0
+Ancoquis en salsa roja,Alimentos Preparados,127.0,5.2,4.4,71.3,17.1,85.0,0.9,233.0
+Atún vegano,Alimentos Preparados,152.0,11.9,3.1,61.3,21.2,87.0,1.3,63.0
+Caldo,Alimentos Preparados,38.0,2.2,0.2,32.6,6.9,17.0,0.45,286.0
+Caldo de carne,Alimentos Preparados,43.0,2.6,0.2,19.9,7.6,8.0,0.7,96.0
+Caldo de cordero,Alimentos Preparados,25.0,1.2,0.6,7.4,3.9,3.0,0.15,69.0
+Caldo de gallina,Alimentos Preparados,53.0,3.8,0.6,21.5,8.1,8.0,0.67,154.0
+Caldo de mote,Alimentos Preparados,72.0,2.8,0.5,16.7,13.9,11.0,0.88,306.0
+Caldo de pescado,Alimentos Preparados,32.0,1.0,0.1,11.3,7.3,5.0,0.47,76.0
+Caldo de pollo,Alimentos Preparados,11.0,0.5,0.1,3.2,2.0,2.0,0.2,14.0
+Caldo de res,Alimentos Preparados,50.0,1.9,0.1,16.9,11.1,9.0,0.79,16.0
+Carpaccio de pescado,Alimentos Preparados,88.0,14.0,1.9,76.6,3.3,35.0,1.34,907.0
+Causa,Alimentos Preparados,95.0,4.7,2.5,77.5,14.1,27.0,0.77,261.0
+Causa de palta,Alimentos Preparados,140.0,1.4,11.9,45.7,9.6,18.0,0.36,156.0
+Causa de pescado,Alimentos Preparados,125.0,3.2,4.3,70.2,18.8,11.0,0.46,110.0
+Causa de pollo,Alimentos Preparados,129.0,4.5,5.8,72.1,15.5,19.0,0.73,285.0
+Causa de pulpa de cangrejo,Alimentos Preparados,215.0,6.7,17.6,65.4,9.4,25.0,0.99,104.0
+Causa criolla,Alimentos Preparados,174.0,2.4,10.7,66.5,18.0,16.0,0.51,542.0
+Causa rellena,Alimentos Preparados,121.0,3.7,4.2,72.5,17.5,15.0,0.57,247.0
+Cazuela,Alimentos Preparados,33.0,1.9,0.8,14.4,4.5,5.0,0.61,66.0
+Cazuela de pollo,Alimentos Preparados,39.0,2.2,0.6,24.7,6.5,10.0,0.39,214.0
+Cazuela de res,Alimentos Preparados,27.0,1.3,0.1,13.7,5.2,6.0,0.25,275.0
+Cebiche de pescado,Alimentos Preparados,90.0,7.3,1.4,75.3,13.0,24.0,0.97,385.0
+Cebiche de pescado con chicharrón de pota,Alimentos Preparados,147.0,6.9,2.7,64.3,24.8,21.0,1.37,70.0
+Cebiche de pescado con pota,Alimentos Preparados,69.0,4.4,0.2,80.1,14.1,29.0,0.93,79.0
+Cebiche de pota,Alimentos Preparados,53.0,5.1,0.4,66.2,7.8,19.0,0.59,104.0
+Cebiche mixto,Alimentos Preparados,70.0,8.4,0.5,81.3,8.8,28.0,0.95,84.0
+Cebiche y chilcano de pescado,Alimentos Preparados,77.0,6.3,2.9,42.7,5.8,12.0,0.51,553.0
+Chaque,Alimentos Preparados,66.0,5.5,0.6,42.6,9.5,16.0,2.65,159.0
+Chilcano de pescado,Alimentos Preparados,15.0,2.3,0.2,14.0,0.5,5.0,0.2,318.0
+Chicharrón con sarsa criolla y leche de tigre,Alimentos Preparados,66.0,5.7,0.7,49.3,9.3,13.0,0.79,135.0
+Chicharrón de pollo,Alimentos Preparados,100.0,2.7,1.6,74.0,20.2,31.0,0.55,255.0
+Chicharron de pota,Alimentos Preparados,253.0,5.8,15.0,54.4,23.8,23.0,2.12,93.0
+Choritos a la chalaca,Alimentos Preparados,65.0,6.2,1.2,82.7,8.6,67.0,2.86,29.0
+Choclo a la huancaína,Alimentos Preparados,111.0,5.4,5.4,40.8,12.0,57.0,0.87,349.0
+Choclo con queso,Alimentos Preparados,39.0,2.5,2.8,8.3,0.9,111.0,0.19,0.0
+Chupe de camarón,Alimentos Preparados,57.0,1.8,1.9,16.0,8.2,21.0,0.27,157.0
+Chupe de cangrejo,Alimentos Preparados,27.0,1.9,0.3,14.0,4.4,5.0,0.2,25.0
+Chupe de chochoca,Alimentos Preparados,53.0,1.6,1.6,21.4,8.3,15.0,0.4,260.0
+Chupe de choro,Alimentos Preparados,45.0,2.2,0.7,24.8,6.9,20.0,0.57,136.0
+Chupe de habas,Alimentos Preparados,31.0,1.5,0.4,14.8,5.9,13.0,0.43,28.0
+Chupe de mariscos,Alimentos Preparados,42.0,3.6,1.2,30.8,4.3,18.0,0.33,71.0
+Chupe de pescado,Alimentos Preparados,48.0,2.7,1.3,32.7,6.9,24.0,0.48,237.0
+Chupe de pollo,Alimentos Preparados,36.0,2.8,0.9,20.2,4.3,12.0,0.46,142.0
+Chupe de trigo,Alimentos Preparados,16.0,0.6,0.3,12.0,2.8,8.0,0.33,205.0
+Chupe mixto,Alimentos Preparados,15.0,1.4,0.4,13.0,1.6,12.0,0.27,125.0
+Consomé de pollo,Alimentos Preparados,30.0,2.6,1.1,13.7,2.3,3.0,0.83,208.0
+Crema de arveja,Alimentos Preparados,59.0,3.2,1.0,25.6,11.3,15.0,0.7,105.0
+Crema de ocopa,Alimentos Preparados,109.0,3.1,3.6,71.0,16.9,78.0,0.66,77.0
+Crema de pimiento,Alimentos Preparados,108.0,4.4,4.0,76.3,13.9,137.0,0.8,36.0
+Crema de rocoto,Alimentos Preparados,129.0,3.1,6.3,68.8,15.9,62.0,0.59,120.0
+Crema de verdura,Alimentos Preparados,16.0,0.6,0.9,28.0,2.0,24.0,0.15,236.0
+Crema de zapallo,Alimentos Preparados,24.0,0.7,0.9,30.3,3.8,18.0,0.28,109.0
+Croquetas,Alimentos Preparados,175.0,4.2,11.6,25.2,15.3,41.0,1.72,336.0
+Ensalada,Alimentos Preparados,98.0,1.9,7.9,79.4,7.9,30.0,0.46,221.0
+Ensalada cesar,Alimentos Preparados,76.0,4.7,4.8,84.1,4.6,198.0,0.54,158.0
+Ensalada de atún,Alimentos Preparados,82.0,3.9,1.3,79.3,14.6,25.0,0.62,81.0
+Ensalada de cocona,Alimentos Preparados,45.0,1.2,0.4,84.9,10.4,17.0,1.2,850.0
+Ensalada de fideos,Alimentos Preparados,273.0,5.9,11.4,41.4,39.3,40.0,2.96,396.0
+Ensalada de lechuga,Alimentos Preparados,62.0,0.6,5.7,90.6,2.6,47.0,0.14,62.0
+Ensalada de verduras,Alimentos Preparados,58.0,1.1,4.2,87.8,6.0,30.0,0.27,55.0
+Ensalada rusa,Alimentos Preparados,36.0,0.7,2.7,52.4,4.3,24.0,0.25,107.0
+Flauta rellena,Alimentos Preparados,123.0,13.3,3.2,68.2,12.5,21.0,1.33,756.0
+Huevo a la rusa,Alimentos Preparados,89.0,3.0,3.6,75.4,12.4,30.0,0.73,113.0
+Huevitos en salsa golf,Alimentos Preparados,85.0,0.9,7.5,80.8,4.4,30.0,0.28,300.0
+Hummus,Alimentos Preparados,212.0,7.0,3.9,7.8,38.0,78.0,3.63,85.0
+Menestrón con pollo,Alimentos Preparados,21.0,0.8,0.3,10.7,3.9,10.0,0.32,97.0
+Menestrón con res,Alimentos Preparados,48.0,2.5,0.4,22.1,9.5,20.0,0.87,152.0
+Ocopa a la arequipeña,Alimentos Preparados,139.0,4.8,6.2,68.7,16.9,119.0,0.77,87.0
+Palta rellena,Alimentos Preparados,218.0,3.7,18.7,65.7,10.3,25.0,0.79,266.0
+Pan al ajo,Alimentos Preparados,265.0,7.0,9.1,29.3,40.7,33.0,3.83,294.0
+Papa a la huancaína,Alimentos Preparados,118.0,3.7,4.0,66.3,17.6,79.0,0.62,126.0
+Papas a la rioja,Alimentos Preparados,60.0,2.5,1.7,51.7,8.9,21.0,0.62,37.0
+Papa con huevo,Alimentos Preparados,116.0,6.3,7.1,65.9,7.7,246.0,1.01,114.0
+Papas fritas,Alimentos Preparados,359.0,1.4,33.4,49.6,14.9,6.0,0.33,15.0
+Papa rellena,Alimentos Preparados,93.0,5.1,0.7,75.0,17.4,29.0,1.3,263.0
+Papa rellena con ensalada,Alimentos Preparados,135.0,3.3,6.0,71.9,17.6,30.0,0.79,87.0
+Papa rellena con sarsa criolla,Alimentos Preparados,160.0,3.9,9.6,68.7,16.0,23.0,1.16,168.0
+Parihuela,Alimentos Preparados,52.0,5.6,0.5,36.0,5.5,21.0,0.74,123.0
+Pastel de papa,Alimentos Preparados,138.0,6.2,6.1,70.4,14.7,110.0,0.9,300.0
+Patasca,Alimentos Preparados,69.0,3.3,1.4,12.7,10.5,13.0,0.57,91.0
+Pejerrey arrebosado,Alimentos Preparados,172.0,6.9,9.3,66.5,15.7,39.0,0.99,248.0
+Rocoto relleno,Alimentos Preparados,136.0,6.6,7.5,73.2,11.2,102.0,1.1,74.0
+Salpicón de atún,Alimentos Preparados,253.0,7.9,11.0,43.3,32.4,34.0,2.47,1686.0
+Salpicón de pollo,Alimentos Preparados,120.0,4.6,5.5,73.2,13.9,23.0,0.82,207.0
+Salpicón de verduras,Alimentos Preparados,169.0,3.3,10.9,67.4,18.0,51.0,0.54,414.0
+Sancochado con pollo,Alimentos Preparados,58.0,5.0,0.7,39.4,7.8,15.0,0.52,30.0
+Sancochado con res,Alimentos Preparados,35.0,1.7,0.2,22.4,6.8,10.0,0.33,133.0
+Shambar,Alimentos Preparados,62.0,4.3,1.0,21.9,9.1,21.0,0.97,218.0
+Solterito,Alimentos Preparados,85.0,5.0,2.6,77.7,13.0,120.0,1.04,184.0
+Sopa a la minuta,Alimentos Preparados,40.0,3.6,0.4,23.1,5.6,10.0,0.73,103.0
+Sopa a la minuta de pollo,Alimentos Preparados,60.0,2.9,1.3,19.9,9.0,13.0,0.98,431.0
+Sopa campesina,Alimentos Preparados,45.0,2.2,0.4,10.1,8.5,13.0,0.74,72.0
+Sopa chilena,Alimentos Preparados,21.0,2.1,0.3,9.0,3.3,7.0,0.46,305.0
+Sopa criolla con pollo,Alimentos Preparados,19.0,1.0,0.5,9.2,2.9,10.0,0.38,96.0
+Sopa criolla con res,Alimentos Preparados,41.0,3.1,0.6,19.9,6.0,6.0,0.75,302.0
+Sopa de arroz,Alimentos Preparados,26.0,1.4,0.5,11.4,3.9,3.0,0.37,173.0
+Sopa de arroz con res,Alimentos Preparados,16.0,0.4,0.0,8.1,3.6,3.0,0.08,71.0
+Sopa de arverja,Alimentos Preparados,94.0,2.9,0.4,8.9,20.2,7.0,0.5,20.0
+Sopa de cangrejo,Alimentos Preparados,35.0,1.4,0.1,16.6,7.5,7.0,0.49,273.0
+Sopa de casa,Alimentos Preparados,52.0,2.1,0.3,18.9,10.4,9.0,0.68,214.0
+Sopa de casa con res,Alimentos Preparados,40.0,2.2,0.2,25.4,7.9,10.0,0.58,293.0
+Sopa de choro,Alimentos Preparados,32.0,1.2,0.3,20.5,6.6,15.0,0.52,234.0
+Sopa de fideos,Alimentos Preparados,31.0,1.5,0.5,11.5,5.5,4.0,0.61,174.0
+Sopa de fideos con res,Alimentos Preparados,50.0,2.9,0.5,25.9,9.4,15.0,1.02,238.0
+Sopa de frejoles,Alimentos Preparados,58.0,3.4,0.5,18.2,10.3,16.0,0.97,119.0
+Sopa de gallina,Alimentos Preparados,38.0,2.6,0.3,24.2,6.6,9.0,0.48,349.0
+Sopa de habas,Alimentos Preparados,54.0,2.2,0.7,24.4,10.1,40.0,0.97,40.0
+Sopa de hueso de res,Alimentos Preparados,20.0,0.4,0.2,9.7,4.0,4.0,0.11,160.0
+Sopa de leche,Alimentos Preparados,41.0,1.5,0.8,19.3,6.9,18.0,0.27,274.0
+Sopa de menudencia,Alimentos Preparados,56.0,2.7,0.2,20.4,11.3,12.0,0.98,165.0
+Sopa de morón con pollo,Alimentos Preparados,61.0,3.1,1.4,42.9,11.0,19.0,1.93,348.0
+Sopa de morón con res,Alimentos Preparados,17.0,0.8,0.1,16.0,3.8,7.0,0.4,126.0
+Sopa de mote,Alimentos Preparados,70.0,2.2,0.6,12.7,14.1,10.0,0.76,394.0
+Sopa de mote con res,Alimentos Preparados,38.0,1.5,0.4,6.9,7.1,4.0,0.41,255.0
+Sopa de papa,Alimentos Preparados,95.0,1.7,6.0,82.5,8.7,21.0,0.8,101.0
+Sopa de pescado,Alimentos Preparados,51.0,1.9,0.4,24.9,10.1,10.0,0.3,184.0
+Sopa de pollo,Alimentos Preparados,38.0,2.3,0.6,20.0,6.3,9.0,0.68,190.0
+Sopa de res,Alimentos Preparados,36.0,2.0,0.3,20.8,6.8,10.0,0.58,159.0
+Sopa de sémola,Alimentos Preparados,50.0,3.5,1.6,24.8,5.9,11.0,1.09,46.0
+Sopa de sémola con pollo,Alimentos Preparados,35.0,2.1,0.8,17.8,5.2,8.0,0.57,222.0
+Sopa de sémola con res,Alimentos Preparados,54.0,2.6,0.3,29.7,11.4,19.0,0.47,212.0
+Sopa de trigo,Alimentos Preparados,25.0,1.3,0.5,25.7,4.4,9.0,0.42,349.0
+Sopa de trigo con pollo,Alimentos Preparados,43.0,2.1,0.7,14.1,7.0,10.0,0.69,329.0
+Sopa de trigo con res,Alimentos Preparados,24.0,1.7,0.2,24.5,4.1,11.0,0.39,74.0
+Sopa de verduras,Alimentos Preparados,34.0,2.5,0.2,25.5,5.9,10.0,0.65,234.0
+Sopa de verduras con pollo,Alimentos Preparados,37.0,2.5,0.3,22.0,6.5,6.0,0.53,259.0
+Sopa de verduras con res,Alimentos Preparados,28.0,1.5,0.1,16.5,5.6,7.0,0.49,27.0
+Sopa wantán,Alimentos Preparados,62.0,3.5,0.5,11.6,10.8,7.0,0.91,235.0
+Sustancia,Alimentos Preparados,60.0,3.3,1.1,25.3,9.5,8.0,1.29,574.0
+Sustancia de pollo,Alimentos Preparados,49.0,3.6,0.4,18.3,7.8,7.0,0.66,121.0
+Sustancia de res,Alimentos Preparados,41.0,1.9,0.6,12.2,7.4,8.0,0.72,156.0
+Tamal de pollo,Alimentos Preparados,185.0,6.8,14.6,68.4,7.7,25.0,1.25,589.0
+Tamal verde,Alimentos Preparados,156.0,3.7,6.9,61.4,22.6,29.0,1.24,901.0
+Tequeños,Alimentos Preparados,556.0,8.4,45.2,15.7,29.4,130.0,0.75,2.0
+Tequeños con crema a la huancaína,Alimentos Preparados,400.0,10.8,20.5,18.2,41.6,180.0,0.96,142.0
+Tequeños con guacamole,Alimentos Preparados,350.0,7.7,21.5,36.2,32.6,91.0,0.93,317.0
+Tequeños de queso,Alimentos Preparados,351.0,6.7,22.0,34.3,35.1,56.0,0.75,251.0
+Tiradito de pejerrey,Alimentos Preparados,95.0,6.9,1.0,75.0,14.8,44.0,0.59,359.0
+Wantán frito,Alimentos Preparados,243.0,6.6,5.2,14.6,42.3,23.0,1.04,87.0
+Yucas rellenas,Alimentos Preparados,147.0,4.0,8.2,69.6,16.9,24.0,0.87,45.0
+Ensalada de palta*,Alimentos Preparados,36.0,1.0,3.0,92.2,2.7,0.0,0.54,0.0
+Adobo de cerdo con arroz,Alimentos Preparados,174.0,6.3,1.9,21.3,31.8,8.0,0.66,437.0
+Adobo de cerdo con menestra y arroz,Alimentos Preparados,165.0,9.7,3.4,18.3,23.8,34.0,1.68,778.0
+Adobo de cerdo con puré y arroz,Alimentos Preparados,146.0,4.8,5.0,41.1,20.3,25.0,0.55,368.0
+Adobo de pollo con arroz,Alimentos Preparados,144.0,6.6,2.1,43.5,25.1,12.0,0.67,99.0
+Adobo de pollo con ensalada y arroz,Alimentos Preparados,145.0,4.9,2.2,34.0,26.0,13.0,0.7,316.0
+Adobo de res con arroz y puré,Alimentos Preparados,126.0,5.6,1.8,50.9,22.1,37.0,1.16,78.0
+Adobo de res con menestra y arroz,Alimentos Preparados,155.0,7.7,1.7,19.3,27.8,36.0,1.96,195.0
+Aeropuerto de pollo,Alimentos Preparados,212.0,6.5,2.5,28.7,39.8,18.0,1.56,137.0
+Aeropuerto tacon pa,Alimentos Preparados,177.0,7.6,3.4,19.3,28.7,9.0,1.13,109.0
+Ají de pollo con arroz,Alimentos Preparados,137.0,5.4,2.8,39.3,22.3,23.0,0.81,131.0
+Albóndigas en salsa con arroz,Alimentos Preparados,133.0,6.3,3.6,37.4,18.3,8.0,1.16,36.0
+Alita broaster con papas fritas y arroz,Alimentos Preparados,272.0,5.7,18.7,35.7,20.3,9.0,0.74,588.0
+Anticucho con papa y arroz,Alimentos Preparados,114.0,9.3,3.2,73.3,12.1,36.0,1.95,120.0
+Arroz a la jardinera con pollo,Alimentos Preparados,127.0,5.7,2.3,36.8,20.5,16.0,0.83,203.0
+Arroz a la jardinera con pollo frito,Alimentos Preparados,167.0,4.1,5.3,33.8,25.8,16.0,0.63,116.0
+Arroz arabe con pollo,Alimentos Preparados,110.0,8.0,1.5,62.4,16.0,22.0,1.02,586.0
+"Arroz blanco con filete de pollo, papas sancochadas y ensalada",Alimentos Preparados,146.0,6.5,2.5,41.5,23.8,15.0,0.69,76.0
+Arroz chaufa con pollo chijaukay,Alimentos Preparados,214.0,7.5,9.4,26.2,23.7,16.0,2.1,641.0
+Arroz chaufa con pollo al tamarindo,Alimentos Preparados,129.0,6.3,1.4,41.8,22.2,9.0,0.71,143.0
+Arroz chaufa con pollo taypa especial,Alimentos Preparados,124.0,8.9,4.4,48.2,11.7,10.0,0.9,248.0
+Arroz chaufa de cerdo,Alimentos Preparados,194.0,6.8,4.9,20.2,29.6,10.0,0.55,23.0
+Arroz chaufa de mariscos,Alimentos Preparados,123.0,6.2,1.7,26.3,19.5,8.0,0.46,218.0
+Arroz chaufa de pollo,Alimentos Preparados,173.0,6.7,3.0,23.7,28.4,11.0,0.72,209.0
+Arroz chaufa de res,Alimentos Preparados,254.0,6.3,14.9,22.6,23.1,9.0,1.0,1119.0
+Arroz chaufa especial,Alimentos Preparados,205.0,10.5,7.5,28.3,23.0,19.0,0.83,114.0
+Arroz con carne,Alimentos Preparados,119.0,4.9,0.5,11.1,23.6,13.0,0.98,18.0
+Arroz con cerdo y sarsa criolla,Alimentos Preparados,140.0,4.1,2.9,37.4,24.2,17.0,0.89,765.0
+Arroz con frejol y seco de res,Alimentos Preparados,120.0,6.3,1.7,20.7,20.2,24.0,1.43,247.0
+Arroz con frejoles y seco de pollo,Alimentos Preparados,130.0,6.8,2.4,29.5,20.1,23.0,1.23,129.0
+Arroz con lentejas y churrasco,Alimentos Preparados,157.0,9.4,2.9,24.0,23.1,12.0,0.81,509.0
+Arroz con mariscos,Alimentos Preparados,127.0,5.6,1.5,30.6,21.8,14.0,0.67,124.0
+Arroz con pato,Alimentos Preparados,174.0,5.6,7.1,35.0,21.3,15.0,1.01,471.0
+Arroz con pollo,Alimentos Preparados,144.0,6.9,2.2,38.3,23.6,20.0,0.9,241.0
+Arroz tapado,Alimentos Preparados,157.0,7.3,4.4,34.1,21.4,10.0,1.28,115.0
+Arvejita verde partida con estofado de pollo y arroz,Alimentos Preparados,142.0,8.8,2.8,45.0,20.2,16.0,0.9,613.0
+Arvejita verde partida con guiso de pollo y arroz,Alimentos Preparados,143.0,7.8,1.2,38.4,24.5,9.0,0.92,130.0
+Arvejita verde partida con hígado frito y arroz,Alimentos Preparados,150.0,4.6,1.1,14.4,29.8,15.0,0.85,198.0
+Arvejita verde partida con pollo al horno y arroz,Alimentos Preparados,124.0,7.3,3.4,35.5,15.6,9.0,0.77,324.0
+Arvejita verde partida con pescado frito y arroz,Alimentos Preparados,255.0,5.2,13.7,8.2,27.8,10.0,0.75,81.0
+Asado de cerdo con arvejita verde y arroz,Alimentos Preparados,129.0,9.4,1.8,52.6,19.5,73.0,2.7,107.0
+Asado de cerdo con menestra y arroz,Alimentos Preparados,153.0,8.0,2.2,18.8,24.9,32.0,1.35,45.0
+Asado de pollo con arroz,Alimentos Preparados,150.0,8.0,3.5,47.7,20.9,10.0,0.82,162.0
+Asado de pollo con menestra y arroz,Alimentos Preparados,124.0,7.4,1.5,25.0,19.8,21.0,1.19,170.0
+Asado de pollo con puré y arroz,Alimentos Preparados,148.0,6.4,2.7,34.6,23.7,10.0,0.62,496.0
+Asado de res con arroz,Alimentos Preparados,147.0,4.3,0.6,41.0,30.4,18.0,0.88,44.0
+Asado de res con menestra y arroz,Alimentos Preparados,104.0,5.7,0.9,13.8,18.3,17.0,1.34,74.0
+Asado de res con puré y arroz,Alimentos Preparados,115.0,6.1,1.5,36.2,19.6,13.0,0.97,103.0
+Bisteck de res a lo pobre con arroz,Alimentos Preparados,167.0,7.6,5.7,53.8,21.5,14.0,1.73,251.0
+Bisteck de res con arroz,Alimentos Preparados,130.0,6.7,2.1,55.3,20.7,19.0,1.1,73.0
+Bisteck de res con papas fritas y arroz,Alimentos Preparados,96.0,3.4,3.1,25.8,13.5,9.0,0.59,183.0
+Cabrito a la norteña con arroz,Alimentos Preparados,134.0,7.3,1.7,45.9,22.5,15.0,0.84,429.0
+Cabrito con frejoles y arroz,Alimentos Preparados,167.0,5.5,7.5,44.7,19.3,24.0,1.06,702.0
+Carapulcra con arroz,Alimentos Preparados,151.0,6.1,4.0,43.4,24.3,27.0,1.58,158.0
+Carapulcra de cerdo con arroz,Alimentos Preparados,180.0,8.8,3.3,26.4,29.5,15.0,1.24,541.0
+Carne de res con ensalada y arroz,Alimentos Preparados,215.0,6.9,10.5,30.5,22.7,11.0,1.27,447.0
+Cau cau con arroz,Alimentos Preparados,114.0,5.3,2.8,46.9,16.9,27.0,0.49,114.0
+Causa con pollo al horno y arroz,Alimentos Preparados,130.0,3.3,2.3,49.6,24.1,15.0,0.63,67.0
+Cebiche con chicharrón,Alimentos Preparados,164.0,9.1,7.9,66.2,15.1,20.0,0.83,246.0
+Cebiche de pescado,Alimentos Preparados,76.0,9.2,1.0,77.9,7.0,22.0,0.84,961.0
+Cebiche de pollo con arroz,Alimentos Preparados,138.0,7.6,2.3,38.7,21.7,10.0,0.75,430.0
+Cerdo al horno con arroz,Alimentos Preparados,161.0,7.7,3.5,35.2,23.3,12.0,0.65,182.0
+Chanfainita con arroz,Alimentos Preparados,151.0,4.3,1.8,24.2,28.6,4.0,0.96,263.0
+Chanfainita con tallarín,Alimentos Preparados,153.0,5.8,0.7,51.0,31.4,18.0,2.43,25.0
+Chicharrón de pescado,Alimentos Preparados,102.0,5.6,4.3,77.7,11.7,21.0,1.8,40.0
+Chicharrón de pescado con arroz,Alimentos Preparados,202.0,6.2,7.5,38.9,27.0,18.0,0.72,301.0
+Chicharrón de pescado con ensalada y arroz,Alimentos Preparados,241.0,6.8,10.5,34.7,29.9,14.0,1.33,190.0
+Chicharrón de pescado con frejoles y arroz,Alimentos Preparados,107.0,4.1,1.2,32.2,20.2,24.0,1.0,150.0
+Chicharron de pescado con yuca frita y arroz,Alimentos Preparados,319.0,7.5,28.2,51.2,11.0,16.0,0.59,287.0
+Chicharrón de pescado con  yucas doradas,Alimentos Preparados,195.0,9.9,6.9,56.4,23.4,54.0,2.37,561.0
+Chicharrón de pollo con ensalada y arroz,Alimentos Preparados,202.0,6.6,9.0,39.5,23.3,7.0,1.12,89.0
+Chicharrón mixto,Alimentos Preparados,222.0,9.3,14.1,54.3,14.3,20.0,1.13,398.0
+Chicharrón mixto con sarsa criolla y arroz,Alimentos Preparados,168.0,6.3,3.8,38.0,26.3,25.0,1.13,266.0
+Chicharrón mixto con yuca frita,Alimentos Preparados,168.0,10.5,8.8,64.5,13.4,42.0,1.55,90.0
+Chicken quesadilla,Alimentos Preparados,193.0,12.2,9.9,61.6,14.3,122.0,0.85,226.0
+Chuleta a la parrilla con arroz,Alimentos Preparados,111.0,6.3,1.8,59.7,17.2,24.0,0.53,131.0
+Chuleta de cerdo con papas fritas y arroz,Alimentos Preparados,178.0,6.7,8.0,48.0,19.5,10.0,0.53,263.0
+Churrasco con arroz,Alimentos Preparados,100.0,3.8,0.7,36.8,19.1,8.0,0.65,161.0
+Churrasco con frejoles y arroz,Alimentos Preparados,171.0,10.9,6.4,20.7,17.8,36.0,2.14,222.0
+"Churrasco con papas fritas, ensalada y arroz",Alimentos Preparados,156.0,4.6,4.3,45.2,24.4,13.0,0.99,172.0
+Combinado de pollo,Alimentos Preparados,181.0,6.5,1.4,26.4,35.6,18.0,2.26,402.0
+Combinado de res,Alimentos Preparados,151.0,4.5,3.8,31.4,24.8,16.0,1.4,37.0
+Combinado de tallarín rojo con frejoles y arroz,Alimentos Preparados,193.0,10.4,3.6,36.2,32.8,26.0,2.17,178.0
+Cordero a la norteña con frejoles y arroz,Alimentos Preparados,172.0,10.4,6.3,13.8,21.3,64.0,1.93,394.0
+Costillas barbiquiu con arroz y camote,Alimentos Preparados,190.0,6.5,8.2,33.0,22.5,18.0,0.58,393.0
+Costillas con papa y arroz,Alimentos Preparados,166.0,8.3,5.7,44.1,20.3,6.0,0.98,104.0
+Costillas a la norteña con frejoles y arroz,Alimentos Preparados,152.0,8.0,3.3,34.4,22.2,21.0,1.49,631.0
+Encebollado de hígado con frejoles y arroz,Alimentos Preparados,161.0,8.8,6.2,47.3,18.1,12.0,2.38,268.0
+Ensalada rusa con pollo broaster y arroz,Alimentos Preparados,157.0,8.8,4.9,49.9,19.2,17.0,0.89,22.0
+Ensalada rusa con pollo a la brasa y arroz,Alimentos Preparados,146.0,8.8,3.4,45.1,19.7,14.0,0.83,192.0
+Ensalada rusa con pollo al horno y arroz,Alimentos Preparados,122.0,7.1,3.3,53.0,16.1,19.0,0.77,213.0
+Ensalada rusa con pollo frito y arroz,Alimentos Preparados,173.0,7.3,2.6,43.3,29.6,16.0,0.76,42.0
+Escabeche de pescado con arroz,Alimentos Preparados,126.0,5.7,1.8,47.2,21.8,11.0,0.61,97.0
+Escabeche de pollo con arroz,Alimentos Preparados,158.0,6.4,2.1,31.4,27.8,10.0,0.83,301.0
+Estofado de pavita con arroz y ensalada,Alimentos Preparados,136.0,5.5,3.1,49.1,21.2,10.0,1.09,54.0
+Estofado de pollo con arroz,Alimentos Preparados,121.0,8.9,1.6,49.2,17.2,11.0,0.89,153.0
+Estofado de pollo con arroz y ensalada,Alimentos Preparados,120.0,5.4,1.6,42.7,20.8,10.0,0.64,384.0
+Estofado de pollo con menestra y arroz,Alimentos Preparados,145.0,7.4,2.0,31.8,24.5,17.0,1.16,331.0
+Estofado de res con arroz,Alimentos Preparados,141.0,8.3,0.9,33.3,24.0,9.0,1.4,96.0
+Estofado de res con menestra y arroz,Alimentos Preparados,131.0,7.4,1.2,34.7,22.5,26.0,1.71,199.0
+Estofado de lengua con arroz,Alimentos Preparados,133.0,4.9,5.1,56.3,17.3,12.0,0.83,815.0
+Espesado de res con arroz,Alimentos Preparados,212.0,6.8,2.0,37.1,41.8,16.0,1.13,260.0
+Fetuccini a lo alfredo,Alimentos Preparados,339.0,9.9,19.9,35.7,31.7,92.0,2.55,745.0
+Filete de pescado con arroz,Alimentos Preparados,207.0,5.8,11.5,47.6,20.6,13.0,1.04,707.0
+Filete de pescado con menestra y arroz,Alimentos Preparados,166.0,8.0,4.0,27.8,24.4,24.0,1.57,356.0
+"Filete de pescado con papas fritas, sarsa criolla y arroz",Alimentos Preparados,138.0,5.5,1.3,38.8,25.6,17.0,0.73,338.0
+Filete de pescado en salsa de mariscos,Alimentos Preparados,136.0,6.4,0.8,38.1,25.5,9.0,0.61,69.0
+Filete de pollo con papas fritas y arroz,Alimentos Preparados,122.0,7.2,2.9,57.5,16.4,12.0,0.71,252.0
+"Filete de pollo con papas fritas, ensalada y arroz",Alimentos Preparados,136.0,6.1,5.9,48.9,14.7,15.0,0.77,543.0
+Filete de pollo a la parrilla con ensalada y arroz,Alimentos Preparados,162.0,8.1,2.4,40.0,26.1,23.0,0.77,107.0
+Frejoles con asado de carne y arroz,Alimentos Preparados,119.0,6.1,2.3,23.8,18.4,17.0,0.86,334.0
+Frejoles con bisteck y arroz,Alimentos Preparados,150.0,9.4,0.9,23.1,25.6,25.0,1.88,85.0
+Frejoles con cabrito a la norteña y arroz,Alimentos Preparados,161.0,9.1,5.6,16.9,18.8,22.0,1.34,156.0
+Frejoles con pescado y arroz,Alimentos Preparados,161.0,7.1,4.5,18.8,22.9,21.0,1.19,68.0
+"Frejoles con pescado, ensalada y arroz",Alimentos Preparados,258.0,4.0,16.3,25.1,23.8,13.0,0.57,649.0
+Frejoles con pollo a la norteña y arroz,Alimentos Preparados,114.0,7.0,1.9,23.1,17.5,29.0,1.14,607.0
+Frejoles con pollo al vino,Alimentos Preparados,158.0,4.1,2.2,25.4,30.9,9.0,0.68,447.0
+Frejoles con seco a la norteña y arroz,Alimentos Preparados,129.0,7.7,1.0,18.8,25.5,21.0,1.62,75.0
+Frejoles con seco y arroz,Alimentos Preparados,151.0,7.9,2.8,19.8,23.6,29.0,1.69,155.0
+"Frejoles con seco, ensalada y arroz",Alimentos Preparados,135.0,7.6,3.9,24.8,17.7,30.0,1.48,276.0
+Garbanzo con arroz y chuleta frita,Alimentos Preparados,193.0,8.3,3.8,16.9,31.3,29.0,1.55,104.0
+Garbanzo con chuleta y arroz,Alimentos Preparados,174.0,6.9,4.6,24.8,26.3,29.0,2.06,301.0
+"Garbanzo con churrasco, ensalada y arroz",Alimentos Preparados,141.0,6.0,3.3,29.4,22.4,24.0,1.8,382.0
+Garbanzo con pescado y arroz,Alimentos Preparados,144.0,7.2,3.5,30.7,21.1,29.0,1.6,125.0
+Garbanzo con pollo y arroz,Alimentos Preparados,130.0,5.8,3.5,34.0,18.9,24.0,2.04,345.0
+Guiso de caigua con arroz,Alimentos Preparados,136.0,6.7,2.0,27.7,22.3,17.0,0.7,102.0
+Guiso de habas con churrasco y arroz,Alimentos Preparados,173.0,5.2,1.2,24.3,34.4,7.0,0.8,426.0
+Guiso de quinua con pescado y arroz,Alimentos Preparados,179.0,4.8,8.2,14.9,22.6,11.0,0.94,377.0
+Guiso de trigo con lomo de socona y arroz,Alimentos Preparados,78.0,2.5,1.0,24.9,14.8,18.0,0.36,228.0
+Guiso de trigo con pollo y arroz,Alimentos Preparados,109.0,6.4,1.9,32.0,15.8,17.0,0.61,313.0
+Guiso de vainita con pollo y arroz,Alimentos Preparados,95.0,4.3,0.7,54.5,18.8,67.0,1.39,125.0
+Hígado encebollado con arroz,Alimentos Preparados,108.0,3.9,1.7,57.9,20.5,17.0,1.14,99.0
+Hígado frito con arroz,Alimentos Preparados,174.0,5.4,5.1,37.0,26.4,10.0,1.16,149.0
+Jalea con yuca frita,Alimentos Preparados,210.0,10.4,13.3,34.5,12.3,25.0,0.81,989.0
+Jalea mixta,Alimentos Preparados,177.0,9.5,9.3,65.3,14.4,26.0,1.17,134.0
+Jalea mixta con yuca frita,Alimentos Preparados,234.0,8.3,16.3,58.5,15.9,32.0,1.35,34.0
+Jalea de pescado con arroz,Alimentos Preparados,50.0,3.7,0.4,35.0,8.1,9.0,0.13,2.0
+Jalea de pescado con yuca frita,Alimentos Preparados,175.0,6.2,4.5,35.3,28.2,14.0,1.09,194.0
+Kam lu wantán con arroz chaufa,Alimentos Preparados,94.0,5.4,0.9,58.9,15.9,16.0,0.69,57.0
+Lasagna de res,Alimentos Preparados,257.0,10.6,8.2,44.2,35.5,90.0,1.66,21.0
+Lenteja con adobo y arroz,Alimentos Preparados,128.0,7.5,0.3,14.2,23.7,34.0,0.94,725.0
+Lenteja con bisteck y arroz,Alimentos Preparados,183.0,9.9,1.2,16.0,33.1,22.0,1.82,98.0
+Lenteja con chuleta y arroz,Alimentos Preparados,162.0,7.1,3.7,22.5,25.1,17.0,1.14,499.0
+Lenteja con estofado y arroz,Alimentos Preparados,131.0,7.4,1.3,28.3,22.3,14.0,1.09,138.0
+Lenteja con filete de pechuga y arroz,Alimentos Preparados,131.0,8.2,1.1,28.3,21.8,18.0,1.21,186.0
+Lenteja con hígado y arroz,Alimentos Preparados,179.0,8.8,2.4,22.0,30.5,18.0,1.93,159.0
+Lenteja con lomito y arroz,Alimentos Preparados,137.0,7.2,1.5,20.1,23.5,19.0,1.36,101.0
+Lenteja con milanesa y arroz,Alimentos Preparados,155.0,10.7,1.9,25.6,23.0,16.0,1.81,35.0
+Lenteja con pescado y arroz,Alimentos Preparados,158.0,7.2,4.1,27.8,22.7,13.0,1.04,336.0
+Locro con hígado frito y arroz,Alimentos Preparados,134.0,3.1,5.6,54.4,18.2,25.0,0.84,1239.0
+Locro de zapallo con bisteck y arroz,Alimentos Preparados,116.0,3.1,4.1,44.3,17.3,22.0,0.75,219.0
+Locro de zapallo con filete de pollo y arroz,Alimentos Preparados,144.0,6.1,4.2,43.6,20.4,17.0,0.75,367.0
+Lomo al jugo con menestra y arroz,Alimentos Preparados,133.0,6.2,1.3,22.1,23.7,13.0,1.37,142.0
+Lomo a lo strogonof con arroz,Alimentos Preparados,149.0,9.3,1.9,61.3,22.9,13.0,1.72,55.0
+Lomito de atún con arroz,Alimentos Preparados,159.0,4.3,2.2,33.1,29.9,7.0,0.56,95.0
+Lomo saltado con arroz,Alimentos Preparados,161.0,5.3,7.3,45.2,18.6,13.0,0.98,263.0
+Lomo saltado con menestra y arroz,Alimentos Preparados,159.0,6.0,4.6,27.2,23.4,17.0,1.18,465.0
+Macarrones con pollo,Alimentos Preparados,161.0,8.2,4.3,27.7,23.0,49.0,2.18,190.0
+Macarrones con res,Alimentos Preparados,174.0,6.4,2.3,36.2,33.7,123.0,3.29,101.0
+Malaya dorada con arroz,Alimentos Preparados,149.0,6.6,0.9,29.4,28.9,8.0,1.05,391.0
+Milanesa con arroz,Alimentos Preparados,175.0,5.4,7.3,47.4,21.8,14.0,0.64,111.0
+Milanesa con ensalada y arroz,Alimentos Preparados,160.0,5.8,6.2,40.7,19.7,8.0,0.6,101.0
+Milanesa con menestra y arroz,Alimentos Preparados,155.0,9.3,3.6,26.7,20.4,9.0,1.08,41.0
+Milanesa con papas fritas y arroz,Alimentos Preparados,156.0,4.8,6.2,48.3,20.2,12.0,0.54,787.0
+Molleja saltada con arroz,Alimentos Preparados,98.0,7.0,1.2,21.3,14.5,14.0,1.51,89.0
+Mondonguito a la italiana con arroz,Alimentos Preparados,139.0,5.3,1.3,45.7,26.0,19.0,0.68,71.0
+Olluquito con arroz integral,Alimentos Preparados,126.0,5.1,2.4,25.9,21.4,28.0,1.19,139.0
+Olluquito de charqui con arroz,Alimentos Preparados,161.0,6.2,3.1,32.3,26.5,9.0,1.51,383.0
+Olluquito de res con arroz,Alimentos Preparados,129.0,5.0,0.5,42.2,25.4,5.0,1.08,53.0
+Pachamanca a la olla con arroz,Alimentos Preparados,138.0,7.5,1.4,46.7,23.8,16.0,0.86,95.0
+Pallares con chuleta y arroz,Alimentos Preparados,119.0,6.2,1.3,11.7,20.5,14.0,1.19,41.0
+Pallares con guiso de pollo y arroz,Alimentos Preparados,172.0,9.5,2.8,27.0,26.5,15.0,1.56,160.0
+Pallares con pescado y arroz,Alimentos Preparados,166.0,5.9,3.2,13.8,28.2,19.0,1.57,139.0
+Pallares con pollo y arroz,Alimentos Preparados,135.0,5.8,4.2,35.9,18.8,17.0,1.48,71.0
+Pavita al horno con arroz,Alimentos Preparados,127.0,6.9,4.2,58.7,15.9,19.0,1.32,92.0
+Pavita al vino con arroz,Alimentos Preparados,161.0,4.4,1.3,19.7,32.1,6.0,0.73,41.0
+Pavita a la norteña con arroz,Alimentos Preparados,147.0,5.7,2.3,35.7,26.3,20.0,1.36,222.0
+Pavita con ensalada y arroz,Alimentos Preparados,234.0,4.5,15.2,45.9,19.9,9.0,0.82,52.0
+Pavita con menestra y arroz,Alimentos Preparados,137.0,6.0,3.1,28.3,21.5,26.0,2.73,108.0
+Pavita con puré y arroz,Alimentos Preparados,154.0,7.2,4.8,34.2,19.9,15.0,1.25,254.0
+Patita con maní y arroz,Alimentos Preparados,134.0,4.1,1.7,38.3,25.2,12.0,0.79,98.0
+Pasta al pesto,Alimentos Preparados,115.0,5.8,1.8,36.4,19.5,13.0,1.94,362.0
+Pasta otros,Alimentos Preparados,119.0,8.6,3.0,41.6,15.1,34.0,1.7,72.0
+Pechuga a la plancha con ensalada y arroz,Alimentos Preparados,132.0,6.7,3.7,56.2,17.8,14.0,0.67,296.0
+Pechuga a la parrilla + 1 chorizo + 1 anticucho de corazón de pollo + papas fritas,Alimentos Preparados,198.0,9.2,12.8,65.2,11.6,16.0,1.2,13.0
+Pescado a la chorrillana con arroz,Alimentos Preparados,224.0,5.4,12.3,35.1,22.7,10.0,0.54,86.0
+Pescado a lo macho con arroz,Alimentos Preparados,154.0,6.9,4.6,22.7,20.3,8.0,0.53,231.0
+Pescado con arroz,Alimentos Preparados,155.0,7.3,5.1,23.4,20.4,18.0,0.9,236.0
+Pescado con ensalada y arroz,Alimentos Preparados,155.0,7.6,2.6,35.5,24.7,12.0,1.36,52.0
+Pescado con menestra y arroz,Alimentos Preparados,179.0,10.3,4.2,24.1,25.0,40.0,2.18,244.0
+Pescado en salsa de champiñones con arroz,Alimentos Preparados,183.0,6.7,9.0,47.0,19.8,50.0,0.31,222.0
+Pescado en salsa de langostinos con arroz,Alimentos Preparados,178.0,6.1,5.0,33.1,27.2,18.0,0.78,321.0
+Picante de cuy con arroz,Alimentos Preparados,170.0,4.0,11.2,65.2,13.9,26.0,0.59,485.0
+Picante de pollo con arroz,Alimentos Preparados,375.0,13.1,32.1,45.6,9.1,14.0,1.6,27.0
+Picante de res con arroz,Alimentos Preparados,118.0,4.9,1.6,35.8,20.5,7.0,0.82,410.0
+Pizza americana personal,Alimentos Preparados,203.0,7.7,7.3,53.1,27.7,82.0,1.94,1262.0
+Pollo a la brasa con papas fritas,Alimentos Preparados,185.0,9.4,10.8,62.4,12.7,14.0,0.95,400.0
+Pollo  a la brasa + 1 palito de anticucho con papas fritas,Alimentos Preparados,146.0,9.7,7.9,69.9,10.3,31.0,1.56,338.0
+Pollo a la chiclayana con arroz,Alimentos Preparados,137.0,8.7,1.5,46.1,21.1,14.0,0.87,111.0
+Pollo a la chiclayana con menestra y arroz,Alimentos Preparados,121.0,7.5,1.0,49.5,20.0,18.0,0.8,68.0
+Pollo a la leña,Alimentos Preparados,163.0,3.3,9.8,66.4,15.8,20.0,0.53,847.0
+Pollo a la naranja con arroz,Alimentos Preparados,128.0,10.1,2.7,59.5,15.8,16.0,1.1,134.0
+Pollo a la norteña con arroz,Alimentos Preparados,134.0,8.6,1.9,47.3,19.8,15.0,0.93,251.0
+Pollo a la norteña con menestra y arroz,Alimentos Preparados,123.0,9.6,2.4,26.7,15.4,24.0,1.46,31.0
+Pollo a la huachana con menestra y arroz,Alimentos Preparados,134.0,7.4,3.2,33.0,18.7,25.0,1.4,257.0
+Pollo a la olla con arroz,Alimentos Preparados,150.0,7.3,2.4,42.0,23.8,12.0,0.79,351.0
+Pollo a la olla con menestra y arroz,Alimentos Preparados,149.0,5.8,1.9,18.0,27.1,28.0,1.42,285.0
+Pollo a la olla con ensalada y arroz,Alimentos Preparados,118.0,4.8,2.4,35.0,18.9,10.0,0.65,814.0
+Pollo a la olla con puré y arroz,Alimentos Preparados,147.0,3.7,2.0,28.7,27.9,9.0,0.5,252.0
+Pollo a la parrilla con arroz y papas fritas,Alimentos Preparados,273.0,7.4,20.7,43.4,14.6,7.0,0.69,652.0
+Pollo a la parrilla con ensalada y arroz,Alimentos Preparados,161.0,3.3,3.3,26.6,29.0,10.0,0.53,817.0
+Pollo a la parrilla con ensalada rusa y arroz,Alimentos Preparados,164.0,8.1,7.3,55.1,16.0,11.0,0.74,74.0
+Pollo a la parrilla con puré y arroz,Alimentos Preparados,133.0,5.6,3.8,48.9,18.9,24.0,0.75,725.0
+Pollo a la plancha con arroz,Alimentos Preparados,81.0,4.8,0.9,65.6,13.7,11.0,0.76,710.0
+Pollo a la plancha con ensalada y arroz,Alimentos Preparados,151.0,8.6,1.1,32.0,25.5,8.0,0.78,55.0
+Pollo a la plancha con menestra y arroz,Alimentos Preparados,150.0,8.5,1.4,19.8,25.4,31.0,1.47,446.0
+Pollo a la plancha con papas doradas y arroz,Alimentos Preparados,158.0,3.1,4.0,33.1,26.7,19.0,0.44,411.0
+Pollo a la plancha con papas fritas y arroz,Alimentos Preparados,130.0,8.0,2.8,47.5,17.6,10.0,0.74,301.0
+"Pollo a la plancha con papas fritas, ensalada y arroz",Alimentos Preparados,165.0,7.3,7.1,49.7,18.1,13.0,0.73,488.0
+Pollo a la plancha con puré y arroz,Alimentos Preparados,133.0,9.0,3.6,41.8,15.4,11.0,0.76,106.0
+Pollo al ají con menestra y arroz,Alimentos Preparados,137.0,5.2,0.9,18.5,26.7,22.0,0.92,247.0
+Pollo al huacatay con arroz,Alimentos Preparados,145.0,10.4,1.3,27.5,22.4,17.0,1.62,87.0
+Pollo al horno con arroz,Alimentos Preparados,143.0,8.2,1.4,37.2,23.6,11.0,0.85,181.0
+Pollo al horno con ensalada y arroz,Alimentos Preparados,147.0,3.1,2.4,35.7,27.7,10.0,0.46,166.0
+Pollo al horno con ensalada rusa y arroz,Alimentos Preparados,134.0,9.6,3.0,52.9,16.7,17.0,0.92,151.0
+Pollo al horno con menestra y arroz,Alimentos Preparados,131.0,8.4,2.0,22.3,19.4,20.0,1.28,265.0
+"Pollo al horno con menestra, ensalada y arroz",Alimentos Preparados,111.0,5.4,1.8,22.3,18.1,12.0,1.01,261.0
+Pollo al horno con puré y arroz,Alimentos Preparados,150.0,7.6,3.6,36.5,21.2,14.0,0.68,89.0
+"Pollo al horno con puré, ensalada y arroz",Alimentos Preparados,126.0,9.4,2.8,50.6,15.2,12.0,0.79,208.0
+Pollo al jugo con menestra y arroz,Alimentos Preparados,123.0,7.7,1.9,26.4,21.7,22.0,1.36,347.0
+Pollo al maní con arroz,Alimentos Preparados,142.0,6.4,1.7,45.8,25.5,11.0,0.7,83.0
+Pollo al maní con ensalada y arroz,Alimentos Preparados,164.0,3.2,7.7,42.9,20.9,14.0,0.56,246.0
+Pollo al maní con menestra y arroz,Alimentos Preparados,140.0,9.0,2.0,29.5,21.0,11.0,0.97,56.0
+Pollo al sillao con arroz,Alimentos Preparados,144.0,3.2,1.2,32.6,29.4,19.0,0.7,51.0
+Pollo al sillao con ensalada y arroz,Alimentos Preparados,120.0,5.3,1.4,36.3,21.1,10.0,1.27,179.0
+Pollo al vino con arroz,Alimentos Preparados,137.0,3.0,1.1,34.9,34.0,12.0,0.44,1733.0
+Pollo al vino con ensalada y arroz,Alimentos Preparados,131.0,6.2,1.1,37.1,24.7,11.0,0.68,100.0
+Pollo al vino con menestra y arroz,Alimentos Preparados,144.0,9.3,2.7,28.9,23.0,13.0,1.09,422.0
+Pollo broaster,Alimentos Preparados,192.0,5.4,10.2,40.9,20.2,20.0,0.79,279.0
+Pollo broaster con ensalada rusa y arroz,Alimentos Preparados,193.0,6.9,10.0,42.4,19.2,18.0,0.77,325.0
+Pollo broaster con papas fritas y arroz,Alimentos Preparados,143.0,7.9,4.0,53.0,18.6,19.0,0.77,112.0
+"Pollo broaster con papas fritas, ensalada y arroz",Alimentos Preparados,188.0,5.7,10.5,46.9,17.6,15.0,0.87,595.0
+Pollo con arroz,Alimentos Preparados,156.0,4.4,5.3,26.8,22.3,13.0,0.58,223.0
+Pollo con maní y arroz,Alimentos Preparados,136.0,6.6,3.7,36.9,18.4,7.0,0.66,70.0
+Pollo con verduras y arroz,Alimentos Preparados,174.0,7.7,6.9,33.3,19.3,35.0,2.48,314.0
+Pollo con verduras y arroz chaufa,Alimentos Preparados,144.0,4.6,0.7,31.7,29.4,15.0,1.18,76.0
+Pollo dorado con papas fritas y arroz,Alimentos Preparados,180.0,7.9,5.5,41.1,24.3,8.0,0.9,307.0
+Pollo enrollado con arroz,Alimentos Preparados,156.0,6.8,3.6,40.9,23.9,25.0,1.66,50.0
+Pollo frito con arroz,Alimentos Preparados,150.0,6.6,2.8,41.8,24.0,7.0,0.69,467.0
+Pollo frito con ensalada y arroz,Alimentos Preparados,180.0,6.6,8.4,28.1,20.1,13.0,0.89,89.0
+Pollo frito con ensalada rusa y arroz,Alimentos Preparados,183.0,5.7,5.5,27.7,27.2,12.0,0.65,202.0
+Pollo frito con menestra y arroz,Alimentos Preparados,179.0,4.4,6.9,17.4,24.4,8.0,0.9,536.0
+Pollo frito con papas fritas y arroz,Alimentos Preparados,193.0,3.1,6.7,30.7,29.9,6.0,0.49,392.0
+Pollo frito con puré y arroz,Alimentos Preparados,171.0,7.8,5.4,43.3,22.2,15.0,0.71,136.0
+"Pollo frito con papas fritas, ensalada y arroz",Alimentos Preparados,165.0,5.5,6.6,47.2,20.7,11.0,0.62,230.0
+Pollo saltado con arroz,Alimentos Preparados,183.0,5.5,9.6,47.5,18.4,12.0,0.68,509.0
+Puré con asado con arroz,Alimentos Preparados,139.0,5.9,2.8,44.4,22.3,23.0,0.93,89.0
+Puré con bisteck y arroz,Alimentos Preparados,127.0,4.8,2.3,31.9,21.4,16.0,0.7,61.0
+Puré con churrasco y arroz,Alimentos Preparados,167.0,5.7,6.9,22.1,20.4,26.0,0.73,799.0
+Puré con pavita y arroz,Alimentos Preparados,133.0,4.8,3.7,48.1,19.9,14.0,0.85,491.0
+Puré con pollo al sillao y arroz,Alimentos Preparados,147.0,5.4,1.9,31.5,28.4,12.0,0.65,217.0
+Puré con pollo y arroz,Alimentos Preparados,188.0,6.1,7.8,40.0,23.3,33.0,0.54,222.0
+Puré con asado y arroz integral,Alimentos Preparados,156.0,4.9,3.3,48.1,26.7,39.0,0.71,287.0
+"Puré con pollo, ensalada y arroz",Alimentos Preparados,134.0,8.1,2.6,43.3,19.0,17.0,0.73,305.0
+Quinua guisada con pollo y arroz,Alimentos Preparados,134.0,7.0,2.4,24.6,20.9,10.0,1.18,217.0
+Ravioles con carne,Alimentos Preparados,191.0,9.8,9.4,60.6,16.4,140.0,0.44,764.0
+Rocoto relleno con arroz,Alimentos Preparados,148.0,5.2,2.9,27.9,25.3,42.0,1.0,349.0
+Saltado de brócoli con arroz,Alimentos Preparados,156.0,4.1,6.8,49.6,20.1,22.0,0.81,469.0
+Saltado de pollo con arroz,Alimentos Preparados,135.0,5.6,2.8,46.6,21.4,12.0,0.71,223.0
+Saltado de pollo con papas fritas y arroz,Alimentos Preparados,215.0,3.7,10.3,28.5,26.5,8.0,0.57,299.0
+Seco a la huachana con menestra y arroz,Alimentos Preparados,151.0,7.9,1.6,19.8,26.3,32.0,1.96,366.0
+Seco a la norteña con arroz,Alimentos Preparados,128.0,5.3,1.1,44.4,24.2,15.0,0.86,72.0
+Seco a la norteña con menestra y arroz,Alimentos Preparados,134.0,8.5,0.9,28.9,22.7,29.0,1.96,314.0
+"Seco a la norteña con menestra, sarsa criolla y arroz",Alimentos Preparados,123.0,5.9,1.3,25.1,21.8,23.0,1.46,176.0
+Seco a la norteña con sarsa criolla y arroz,Alimentos Preparados,117.0,4.5,1.5,31.0,20.9,13.0,0.91,493.0
+Seco a la norteña de pollo con menestra y arroz,Alimentos Preparados,125.0,8.8,2.5,33.7,16.6,21.0,1.31,329.0
+Seco a la norteña de res con menestra y arroz,Alimentos Preparados,127.0,5.9,1.4,20.4,22.2,23.0,1.37,176.0
+"Seco a la norteña de res con menestra, sarsa criolla y arroz",Alimentos Preparados,108.0,3.8,0.8,28.1,22.0,21.0,1.0,322.0
+"Seco a la norteña con menestra, ensalada y arroz",Alimentos Preparados,104.0,4.3,1.1,15.2,19.5,25.0,1.25,251.0
+Seco con menestra y arroz,Alimentos Preparados,133.0,6.2,0.7,16.7,25.2,21.0,1.38,87.0
+Seco de cabrito a la norteña con menestra y arroz,Alimentos Preparados,151.0,8.7,1.8,29.4,24.4,22.0,1.83,133.0
+Seco de cabrito con arroz,Alimentos Preparados,124.0,6.4,1.7,33.6,20.4,12.0,1.22,260.0
+Seco de cabrito con menestra y arroz,Alimentos Preparados,109.0,8.1,1.3,27.1,16.0,23.0,1.5,112.0
+"Seco de cabrito con menestra, sarsa criolla y arroz",Alimentos Preparados,147.0,7.5,1.7,28.0,24.9,25.0,1.54,103.0
+Seco de costillar con menestra y arroz,Alimentos Preparados,126.0,7.5,1.4,33.2,20.6,25.0,1.69,264.0
+Seco de cordero con arroz,Alimentos Preparados,172.0,7.2,5.4,17.2,23.2,11.0,0.74,72.0
+Seco de cordero con menestra y arroz,Alimentos Preparados,95.0,3.9,1.5,14.1,16.4,23.0,1.02,304.0
+"Seco de cordero con menestra, sarsa criolla y arroz",Alimentos Preparados,135.0,6.5,4.7,15.5,16.6,19.0,1.12,626.0
+Seco de pato con arroz,Alimentos Preparados,217.0,9.0,11.7,35.9,18.5,25.0,1.53,141.0
+Seco de pollo con arroz,Alimentos Preparados,121.0,6.4,1.8,33.9,19.7,22.0,1.08,121.0
+Seco de pollo con menestra y arroz,Alimentos Preparados,136.0,8.2,2.1,28.4,20.6,24.0,1.36,286.0
+Seco de pollo con sarsa criolla y arroz,Alimentos Preparados,132.0,7.6,1.6,46.3,22.1,14.0,0.86,206.0
+Seco de res a la huachana con menestra y arroz,Alimentos Preparados,124.0,7.3,2.0,23.4,18.9,14.0,1.53,34.0
+Seco de res a la norteña con menestra y arroz,Alimentos Preparados,144.0,7.7,1.1,21.1,25.4,23.0,1.42,48.0
+Seco de res con arroz,Alimentos Preparados,107.0,7.1,1.0,44.1,17.8,20.0,1.3,168.0
+Seco de res con menestra y arroz,Alimentos Preparados,149.0,7.5,2.2,27.4,25.1,33.0,1.76,272.0
+"Seco de res con menestra, ensalada y arroz",Alimentos Preparados,108.0,6.4,1.1,24.7,18.1,21.0,1.45,165.0
+"Seco de res con menestra, sarsa criolla y arroz",Alimentos Preparados,130.0,7.3,0.8,26.6,23.2,26.0,1.69,306.0
+Seco de ternera con menestra y arroz,Alimentos Preparados,125.0,7.7,1.7,25.5,19.6,26.0,1.46,270.0
+Seco huachano con menestra y arroz,Alimentos Preparados,113.0,5.7,1.2,22.3,20.0,26.0,1.24,278.0
+Sopa seca con carapulcra y arroz,Alimentos Preparados,222.0,12.7,11.1,47.5,17.7,40.0,3.47,36.0
+Spaguetti  con crema,Alimentos Preparados,176.0,13.9,4.3,57.5,21.1,114.0,3.71,722.0
+Steak al tequila,Alimentos Preparados,108.0,5.6,0.5,18.4,20.0,17.0,1.46,73.0
+Sudado de pescado con arroz,Alimentos Preparados,153.0,5.2,1.3,19.7,29.0,11.0,0.58,388.0
+Suprema de pescado con arroz y ensalada,Alimentos Preparados,161.0,8.0,1.7,17.6,28.3,20.0,1.48,117.0
+Suprema de pollo con arroz,Alimentos Preparados,177.0,8.1,2.6,24.6,30.8,51.0,2.69,68.0
+Tacacho con cecina,Alimentos Preparados,213.0,5.4,10.2,54.7,27.9,9.0,0.52,415.0
+Tacu tacu con churrasco,Alimentos Preparados,160.0,7.1,3.8,32.4,24.3,36.0,1.74,919.0
+Tacu tacu con filete de pollo,Alimentos Preparados,113.0,5.7,2.3,17.0,16.8,7.0,0.58,313.0
+Tacu tacu con lomito,Alimentos Preparados,130.0,7.7,2.9,20.0,18.5,25.0,1.43,524.0
+Tacu tacu con lomo y arroz,Alimentos Preparados,152.0,6.1,2.5,21.4,25.8,18.0,1.31,274.0
+Tacu tacu con pescado,Alimentos Preparados,162.0,10.1,4.5,38.3,20.3,28.0,1.48,374.0
+Tallarines al pesto con bisteck,Alimentos Preparados,140.0,6.1,4.8,31.9,18.9,52.0,2.24,128.0
+Tallarines al pesto con res,Alimentos Preparados,226.0,16.3,8.3,50.9,21.8,179.0,3.21,225.0
+Tallarines chifa,Alimentos Preparados,189.0,7.5,1.0,19.2,40.2,29.0,1.96,59.0
+Tallarines con pollo,Alimentos Preparados,159.0,10.5,1.9,59.9,26.2,20.0,2.4,358.0
+Tallarines con pollo y crema a la huancaína,Alimentos Preparados,152.0,10.8,3.2,52.6,20.9,38.0,2.0,255.0
+Tallarines rojos con pollo,Alimentos Preparados,147.0,10.2,2.1,59.5,22.7,31.0,2.24,244.0
+Tallarines saltado,Alimentos Preparados,190.0,8.5,1.6,48.8,37.3,27.0,5.71,775.0
+Tallarines saltados con pollo,Alimentos Preparados,183.0,7.8,4.9,52.0,28.1,42.0,2.42,511.0
+Tallarines verdes con chuleta,Alimentos Preparados,245.0,8.6,11.2,49.0,29.2,74.0,3.04,251.0
+Tallarines verdes con churrasco,Alimentos Preparados,198.0,8.9,8.2,57.8,23.8,143.0,3.64,108.0
+Tallarines verdes con churrasco y crema a la huancaína,Alimentos Preparados,185.0,7.4,4.0,56.1,31.2,85.0,2.88,149.0
+Tallarines verdes con hígado,Alimentos Preparados,85.0,4.2,2.1,33.2,13.2,46.0,1.78,807.0
+Tallarines verdes con milanesa,Alimentos Preparados,111.0,6.6,4.2,38.6,12.5,90.0,1.85,424.0
+Tallarines verdes con pollo,Alimentos Preparados,182.0,8.3,10.8,42.0,13.7,61.0,2.17,445.0
+Tallarines verdes con pollo y crema a la huancaína,Alimentos Preparados,206.0,9.0,1.9,48.2,40.0,63.0,3.52,75.0
+Tallarines verdes con res,Alimentos Preparados,224.0,11.7,5.2,45.2,34.1,74.0,3.99,488.0
+Ternera a la chiclayana con arroz,Alimentos Preparados,96.0,3.9,0.7,25.1,18.5,6.0,0.57,53.0
+Trigo con adobo de pollo y arroz,Alimentos Preparados,138.0,5.5,4.5,29.2,18.5,23.0,0.8,233.0
+Trigo con pollo y arroz,Alimentos Preparados,129.0,8.1,2.1,36.5,18.3,23.0,0.73,18.0
+Trigo guisado con pollo y arroz,Alimentos Preparados,118.0,7.9,3.3,43.6,13.5,12.0,0.75,820.0
+Trucha con arroz,Alimentos Preparados,299.0,4.2,18.8,26.8,28.8,7.0,0.9,386.0
+Trucha con menestra y arroz,Alimentos Preparados,142.0,5.2,4.7,24.2,20.2,29.0,1.2,529.0
+Virado paulista,Alimentos Preparados,86.0,3.5,2.6,8.9,11.8,11.0,0.85,91.0
+Ají de gallina con papa blanca más arroz*,Alimentos Preparados,111.0,3.7,1.9,73.6,19.7,0.0,0.0,0.0
+Ají de pollo con zanahoria más arroz blanco*,Alimentos Preparados,124.0,5.2,1.5,69.9,22.4,0.0,0.0,0.0
+Ajiaco de papa con huevo duro y arroz blanco*,Alimentos Preparados,106.0,4.7,1.8,74.6,17.8,0.0,0.0,0.0
+Arroz blanco con guiso de pota*,Alimentos Preparados,103.0,3.3,1.4,74.7,19.3,0.0,0.0,0.0
+Arroz blanco con tortilla de atún*,Alimentos Preparados,210.0,6.7,7.6,55.4,28.8,0.0,0.0,0.0
+Arroz blanco con tortilla de atún con pota*,Alimentos Preparados,210.0,7.2,8.4,56.6,26.3,0.0,0.0,0.0
+Arvejita verde partida con arroz blanco y ceviche de pollo*,Alimentos Preparados,129.0,6.2,1.9,68.6,22.0,0.0,0.0,0.0
+Arvejita verde partida con croquetas de pescado y arroz blanco*,Alimentos Preparados,130.0,5.3,1.4,67.9,24.1,0.0,0.0,0.0
+Arverjita verde partida con guiso de pescado y arroz*,Alimentos Preparados,143.0,6.8,2.9,66.4,22.3,0.0,0.0,0.0
+Arvejita verde partida con hígado entomatado más arroz blanco*,Alimentos Preparados,123.0,6.0,2.3,71.0,19.5,0.0,0.0,0.0
+Arvejita verde partida con papa e hígado frito más arroz blanco*,Alimentos Preparados,133.0,5.5,3.1,69.5,20.8,0.0,0.0,0.0
+Arvejita con papa e hígado entomatado*,Alimentos Preparados,124.0,7.4,2.0,70.0,19.2,0.0,0.0,0.0
+Arvejita con papa e hígado empimentado con arroz*,Alimentos Preparados,114.0,5.5,0.7,71.1,21.5,0.0,0.0,0.0
+Cau cau de pollo e hígado de pollo con arroz*,Alimentos Preparados,122.0,5.8,2.3,71.3,19.4,0.0,0.0,0.0
+Carapulcra de morón con pollo y yuca*,Alimentos Preparados,76.0,2.4,0.9,81.0,14.8,0.0,0.0,0.0
+Carapulcra de trigo con papa y pollo más arroz*,Alimentos Preparados,101.0,4.3,0.5,74.2,19.9,0.0,0.0,0.0
+Frejol panamíto con atún al jugo más arroz blanco*,Alimentos Preparados,127.0,5.6,3.0,70.5,19.5,0.0,0.0,0.0
+Frejol panamito con papa y sangrecita entomatada*,Alimentos Preparados,118.0,5.3,1.9,71.5,20.0,0.0,0.0,0.0
+Guiso de caigua con pollo*,Alimentos Preparados,117.0,5.2,3.4,73.8,16.4,0.0,0.0,0.0
+Guiso de frejol panamito con atún más ensalada de pepinillo*,Alimentos Preparados,163.0,6.8,6.2,65.9,20.0,0.0,0.0,0.0
+Guiso de frejol panamito con pescado frito más ensalada de pepinillo*,Alimentos Preparados,132.0,6.6,1.7,67.9,22.6,0.0,0.0,0.0
+Lentejas con ensalada de atún y arroz blanco*,Alimentos Preparados,132.0,6.1,2.0,68.1,22.5,0.0,0.0,0.0
+Lentejas con huevo sancochado y ensalada de zanahoria más arroz blanco*,Alimentos Preparados,115.0,5.6,2.2,73.0,18.1,0.0,0.0,0.0
+Lentejas con pollo e hígado de pollo al jugo con arroz*,Alimentos Preparados,119.0,6.4,1.7,70.8,19.3,0.0,0.0,0.0
+Lentejas y papa con guiso de sangrecita más arroz blanco*,Alimentos Preparados,120.0,5.0,2.1,71.5,20.1,0.0,0.0,0.0
+Locro de zapallo con huevo sancochado y arroz blanco*,Alimentos Preparados,113.0,4.9,2.6,73.8,17.6,0.0,0.0,0.0
+"Locro de zapallo con leche, habas frescas y guiso de hígado con arroz blanco*",Alimentos Preparados,125.0,4.2,2.2,70.0,22.1,0.0,0.0,0.0
+Lomito saltado con  hígado*,Alimentos Preparados,166.0,6.2,3.3,61.2,27.9,0.0,0.0,0.0
+Lomito saltado con sangrecita e hígado*,Alimentos Preparados,179.0,5.9,5.0,60.2,27.4,0.0,0.0,0.0
+Puré de brócoli con papa y guiso de carne más arroz*,Alimentos Preparados,125.0,4.8,1.5,69.1,23.3,0.0,0.0,0.0
+Puré de espinaca con huevo sancochado y arroz blanco*,Alimentos Preparados,108.0,4.1,2.1,74.3,18.2,0.0,0.0,0.0
+Puré de papa con hígado al jugo y arroz*,Alimentos Preparados,125.0,4.1,2.8,70.8,20.9,0.0,0.0,0.0
+Puré de papa con huevo sancochado y arroz*,Alimentos Preparados,116.0,4.3,3.9,74.8,15.9,0.0,0.0,0.0
+Saltado de fideos con sangrecita de pollo*,Alimentos Preparados,140.0,5.4,3.7,67.8,21.2,0.0,0.0,0.0
+Saltado de vainita con guiso de corazón más arroz*,Alimentos Preparados,143.0,4.3,4.6,68.6,21.1,0.0,0.0,0.0
+Saltado de vainita y papa con guiso de corazón más arroz blanco*,Alimentos Preparados,133.0,3.9,3.5,69.6,21.5,0.0,0.0,0.0
+"Tallarines con salsa de tomate, carne, hígado de pollo*",Alimentos Preparados,131.0,9.4,2.8,69.2,17.2,0.0,0.0,0.0
+Tallarines rojos con atún*,Alimentos Preparados,107.0,4.3,1.0,73.6,20.1,0.0,0.0,0.0
+Tallarines rojos con carne y rodajas de camote*,Alimentos Preparados,106.0,9.6,2.6,75.5,11.0,0.0,0.0,0.0
+Tallarines rojos con conserva de anchoveta*,Alimentos Preparados,93.0,3.9,1.9,78.3,15.0,0.0,0.0,0.0
+Tallarines rojos con hígado de pollo*,Alimentos Preparados,118.0,6.9,1.7,70.7,18.6,0.0,0.0,0.0
+Tallarín saltado más papa frita y sangrecita*,Alimentos Preparados,135.0,4.1,2.7,68.4,23.5,0.0,0.0,0.0
+Tallarines verdes con hígado al jugo más camote*,Alimentos Preparados,119.0,5.2,2.4,71.9,19.2,0.0,0.0,0.0
+Chicha blanca,Alimentos Preparados,41.0,0.3,0.2,89.5,9.9,3.0,0.18,0.0
+Emoliente,Alimentos Preparados,27.0,0.1,0.0,93.0,6.8,4.0,0.19,0.0
+Infusión de hierbas,Alimentos Preparados,24.0,0.0,0.0,93.9,6.1,3.0,0.11,0.0
+Limonada,Alimentos Preparados,21.0,0.0,0.0,94.6,5.4,2.0,0.09,0.0
+Refresco de carambola,Alimentos Preparados,27.0,0.1,0.1,92.7,7.0,3.0,0.25,1.0
+Refresco de cebada,Alimentos Preparados,43.0,0.5,0.1,89.0,10.3,6.0,0.51,0.0
+Refresco de cebada con linaza,Alimentos Preparados,31.0,0.3,0.3,92.3,7.0,4.0,0.21,0.0
+Refresco de durazno,Alimentos Preparados,22.0,0.0,0.0,94.6,5.4,2.0,0.09,3.0
+Refresco de linaza,Alimentos Preparados,29.0,0.5,0.7,93.2,5.5,3.0,0.2,0.0
+Refresco de mango,Alimentos Preparados,47.0,0.1,0.0,87.8,12.0,7.0,0.23,0.0
+Refresco de manzana,Alimentos Preparados,25.0,0.0,0.0,93.1,6.8,3.0,0.15,0.0
+Refresco de maracuyá,Alimentos Preparados,26.0,0.1,0.0,93.1,6.7,3.0,0.23,0.0
+Refresco de membrillo,Alimentos Preparados,28.0,0.0,0.0,92.7,7.2,4.0,0.17,0.0
+Refresco de naranja,Alimentos Preparados,20.0,0.0,0.0,94.9,5.0,3.0,0.12,3.0
+Refresco de papaya,Alimentos Preparados,27.0,0.0,0.0,93.0,6.9,5.0,0.13,0.0
+Refresco de piña,Alimentos Preparados,19.0,0.0,0.0,95.0,5.0,2.0,0.1,0.0
+Refresco de soya,Alimentos Preparados,53.0,2.4,1.3,86.6,9.3,26.0,0.65,0.0
+Chicha de jora,Alimentos Preparados,39.0,0.3,0.2,90.3,9.0,16.0,1.21,0.0
+Chicha morada,Alimentos Preparados,50.0,0.6,0.3,87.0,11.9,4.0,0.13,0.0
+Naranjada,Alimentos Preparados,19.0,0.0,0.0,95.3,4.7,3.0,0.08,0.0
+"Hojuela de cereal, con canela, bebida de*",Alimentos Preparados,26.0,1.2,0.6,94.2,3.9,0.0,0.0,0.0
+"Hojuela de cereal, con cocoa, clavo de olor y canela, bebida de*",Alimentos Preparados,22.0,1.4,0.4,95.0,3.1,0.0,0.0,0.0
+"Hojuela de cereal, con membrillo, bebida de*",Alimentos Preparados,26.0,1.3,0.4,93.8,4.4,0.0,0.0,0.0
+"Hojuela de cereal, con avena precocida, bebida de*",Alimentos Preparados,17.0,1.3,0.4,96.1,2.2,0.0,0.0,0.0
+"Hojuela de cereal, con leche evaporada entera UHT, bebida de*",Alimentos Preparados,35.0,1.3,1.4,92.7,4.2,0.0,0.0,0.0
+"Hojuela de cereal, con leche evaporada entera UHT, avena, clavo de olor, canela y vainilla, bebida de*",Alimentos Preparados,55.0,2.1,2.0,88.3,7.1,0.0,0.0,0.0
+"Hojuela de quinua con cereales, leche evaporada entera, canela y clavo de olor, bebida de*",Alimentos Preparados,43.0,1.6,1.6,90.9,5.6,0.0,0.0,0.0
+"Hojuela de quinua con cereales, leche evaporada entera UHT, azúcar rubia,clavo de olor y canela, bebida de*",Alimentos Preparados,63.0,2.0,2.2,86.4,8.9,0.0,0.0,0.0
+"Hojuela de cereales con soya precocidos con leche evaporada, bebida de*",Alimentos Preparados,38.0,1.5,1.7,92.4,4.0,0.0,0.0,0.0
+Arroz con leche,Alimentos Preparados,149.0,2.0,0.3,0.0,33.9,14.0,0.52,0.0
+Arroz zambito,Alimentos Preparados,124.0,1.8,0.6,0.0,27.8,22.0,0.68,0.0
+Budín de pan,Alimentos Preparados,165.0,3.0,2.4,0.0,30.8,81.0,1.89,0.0
+Compota de frutas,Alimentos Preparados,117.0,0.6,0.1,0.0,30.2,10.0,1.59,0.0
+Crema volteada,Alimentos Preparados,198.0,8.7,8.7,0.0,21.7,150.0,1.24,0.0
+Durazno al almibar,Alimentos Preparados,208.0,0.2,0.1,0.0,53.5,23.0,1.03,0.0
+Dulce de cañihua,Alimentos Preparados,45.0,1.5,1.6,0.0,6.7,46.0,0.2,0.0
+Ensalada de frutas,Alimentos Preparados,66.0,0.7,0.5,0.0,15.9,28.0,1.41,0.0
+Flan,Alimentos Preparados,100.0,2.7,3.1,0.0,15.2,93.0,1.15,0.0
+Gelatina,Alimentos Preparados,56.0,1.5,0.0,0.0,12.5,0.0,0.0,0.0
+Leche asada,Alimentos Preparados,152.0,7.3,7.0,0.0,14.1,78.0,1.37,0.0
+Mazamorra de frutas,Alimentos Preparados,52.0,0.2,0.1,0.0,12.9,5.0,0.29,0.0
+Mazamorra de sémola,Alimentos Preparados,118.0,1.7,0.5,0.0,28.1,22.0,0.38,0.0
+Mazamorra de maizena,Alimentos Preparados,76.0,1.0,1.2,0.0,16.0,40.0,0.26,0.0
+Mazamorra morada,Alimentos Preparados,58.0,0.6,0.3,0.0,13.8,5.0,0.5,0.0
+Panqueque relleno,Alimentos Preparados,180.0,3.9,3.2,0.0,34.9,39.0,1.8,0.0
+Tiramisú,Alimentos Preparados,297.0,8.7,23.6,0.0,12.0,199.0,2.04,0.0

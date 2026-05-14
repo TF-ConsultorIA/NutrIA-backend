@@ -1,0 +1,36 @@
+spring:
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:55432/nutria_db}
+    username: ${DB_USERNAME:postgres}
+    password: ${DB_PASSWORD:admin123}
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+
+  sql:
+    init:
+      mode: never
+
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 15MB
+
+nutria:
+  security:
+    jwt:
+      secret: ${JWT_SECRET:861313TrDaqIu349SDHonzcxc82fTm1U4Smrt5KCrMV}
+      expiration-ms: ${JWT_EXPIRATION_MS:900000}
+      refresh-expiration-ms: ${JWT_REFRESH_EXPIRATION_MS:604800000}
+
+azure:
+  storage:
+    connection-string: ${AZURE_STORAGE_CONNECTION_STRING:DefaultEndpointsProtocol=https;AccountName=devstoreaccount1;AccountKey=;BlobEndpoint=http://127.0.0.1:10000/devstoreaccount1;}
+    container-name: ${AZURE_STORAGE_CONTAINER_NAME:nutria-images}
