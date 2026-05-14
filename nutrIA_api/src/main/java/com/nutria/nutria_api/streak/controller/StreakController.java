@@ -3,11 +3,12 @@ package com.nutria.nutria_api.streak.controller;
 import com.nutria.nutria_api.streak.dto.StreakRequestDTO;
 import com.nutria.nutria_api.streak.dto.StreakResponseDTO;
 import com.nutria.nutria_api.streak.service.StreakService;
+import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
+@Tag(name = "Streak")
 @RestController
 @RequestMapping("/api/v1/streaks")
 @RequiredArgsConstructor
