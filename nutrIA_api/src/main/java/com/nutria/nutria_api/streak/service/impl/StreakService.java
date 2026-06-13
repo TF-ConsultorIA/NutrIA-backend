@@ -7,5 +7,6 @@ public interface StreakService {
     StreakResponseDTO getStreakByUserId(Long userId);
     StreakResponseDTO createStreak(StreakRequestDTO request);
     StreakResponseDTO updateStreak(Long userId, StreakRequestDTO request);
+    StreakResponseDTO checkIn(Long userId);
     void deleteStreak(Long userId);
 }

@@ -21,5 +21,5 @@ public class Preference {
     private Long foodId;
 
     @Column(name = "type", nullable = false)
-    private String type;
+    private String type;  // change to enum {like dislike and allergy}
 }
