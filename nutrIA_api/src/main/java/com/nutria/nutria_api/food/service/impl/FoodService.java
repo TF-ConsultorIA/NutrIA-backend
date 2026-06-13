@@ -2,17 +2,14 @@ package com.nutria.nutria_api.food.service;
 
 import com.nutria.nutria_api.food.dto.FoodRequestDTO;
 import com.nutria.nutria_api.food.dto.FoodResponseDTO;
-
-import java.util.List;
-
-import org.springframework.data.domain.Page;
+import com.nutria.nutria_api.shared.pagination.PageResponse;
 import org.springframework.data.domain.Pageable;
 
 public interface FoodService {
-    Page<FoodResponseDTO> getAllFoods(Pageable pageable);
+    PageResponse<FoodResponseDTO> getAllFoods(Pageable pageable);
     FoodResponseDTO getFoodById(Long id);
-    Page<FoodResponseDTO> searchByName(String name, Pageable pageable);
-    Page<FoodResponseDTO> getByType(String type, Pageable pageable);
+    PageResponse<FoodResponseDTO> searchByName(String name, Pageable pageable);
+    PageResponse<FoodResponseDTO> getByType(String type, Pageable pageable);
     FoodResponseDTO createFood(FoodRequestDTO request);
     FoodResponseDTO updateFood(Long id, FoodRequestDTO request);
     void deleteFood(Long id);
