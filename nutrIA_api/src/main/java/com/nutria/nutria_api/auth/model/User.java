@@ -51,5 +51,5 @@ public class User {
     protected void onCreate() { this.createdAt = LocalDate.now(); }
 
     @PreUpdate
-    protected void onUpdate() { this.createdAt = LocalDate.now(); }
+    protected void onUpdate() { this.updatedAt = LocalDate.now(); }
 }

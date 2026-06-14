@@ -7,7 +7,7 @@ import lombok.*;
 import java.time.LocalDate;
 
 @Entity
-@Table(name = "user_weitghts")
+@Table(name = "user_weights")
 @Getter @Setter @Builder @AllArgsConstructor @NoArgsConstructor
 public class UserWeight {
 
