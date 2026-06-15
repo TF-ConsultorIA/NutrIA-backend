@@ -57,21 +57,28 @@ public class StreakServiceImpl implements StreakService {
     @Override
     @Transactional
     public StreakResponseDTO checkIn(Long userId) {
+        LocalDate today = LocalDate.now();
+
+        // Si no existe, lo crea con streakNumber = 1 y lastLogin = hoy
         Streak streak = streakRepository.findByUserId(userId)
-                .orElseThrow(() -> new StreakNotFoundException(userId));
+                .orElseGet(() -> streakRepository.save(
+                        Streak.builder()
+                                .userId(userId)
+                                .streakNumber(1)
+                                .lastLogin(today)
+                                .build()
+                ));
 
-        LocalDate today    = LocalDate.now();
-        LocalDate lastLogin = streak.getLastLogin();
-        long daysDiff      = ChronoUnit.DAYS.between(lastLogin, today);
-
-        if (daysDiff == 0) {
-            // Ya hizo check-in hoy, retorna sin cambios
+        // Si acababa de crearse (lastLogin == today), retorna directo
+        if (streak.getLastLogin().isEqual(today)) {
             return streakMapper.toDTO(streak);
-        } else if (daysDiff == 1) {
-            // Entró ayer → suma racha
+        }
+
+        long daysDiff = ChronoUnit.DAYS.between(streak.getLastLogin(), today);
+
+        if (daysDiff == 1) {
             streak.setStreakNumber(streak.getStreakNumber() + 1);
         } else {
-            // Perdió 2+ días → reinicia, hoy es día 1
             streak.setStreakNumber(1);
         }
 
