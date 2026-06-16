@@ -30,16 +30,26 @@ public class UserWeightService implements IUserWeightService {
     }
 
     @Override
-    public UserWeightResponseDto createWeight(Long userId, UserWeightCreateRequestDto request) {
+    public UserWeightResponseDto upsertWeight(Long userId, UserWeightCreateRequestDto request) {
         User user = userRepository.findById(userId)
                 .orElseThrow(() -> new ResourceNotFoundException("Usuario no encontrado"));
 
-        UserWeight weight = UserWeight.builder()
-                .user(user)
-                .registerDate(request.registerDate())
-                .weightKg(request.weightKg())
-                .build();
+        UserWeight weightEntity = userWeightRepository
+                .findByUserIdAndRegisterDate(userId, request.registerDate())
+                .map(existingWeight -> {
+                    existingWeight.setWeightKg(request.weightKg());
+                    return existingWeight;
+                })
+                .orElseGet(() -> {
+                    UserWeight newWeight = new UserWeight();
+                    newWeight.setUser(user);
+                    newWeight.setRegisterDate(request.registerDate());
+                    newWeight.setWeightKg(request.weightKg());
+                    return newWeight;
+                });
 
-        return ProfileMapper.toUserWeightResponseDto(userWeightRepository.save(weight));
+        UserWeight savedEntity = userWeightRepository.save(weightEntity);
+
+        return ProfileMapper.toUserWeightResponseDto(savedEntity);
     }
 }
