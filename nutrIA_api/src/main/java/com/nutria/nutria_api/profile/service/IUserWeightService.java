@@ -7,5 +7,5 @@ import java.util.List;
 
 public interface IUserWeightService {
     List<UserWeightResponseDto> getWeights(Long userId);
-    UserWeightResponseDto createWeight(Long userId, UserWeightCreateRequestDto request);
+    UserWeightResponseDto upsertWeight(Long userId, UserWeightCreateRequestDto request);
 }

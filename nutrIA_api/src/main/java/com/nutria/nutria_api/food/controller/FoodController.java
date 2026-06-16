@@ -2,7 +2,8 @@ package com.nutria.nutria_api.food.controller;
 
 import com.nutria.nutria_api.food.dto.FoodRequestDTO;
 import com.nutria.nutria_api.food.dto.FoodResponseDTO;
-import com.nutria.nutria_api.food.service.FoodService;
+import com.nutria.nutria_api.food.model.FoodType;
+import com.nutria.nutria_api.food.service.impl.FoodService;
 import com.nutria.nutria_api.shared.pagination.PageResponse;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
@@ -52,8 +53,9 @@ public class FoodController {
     @GetMapping("/search")
     public ResponseEntity<PageResponse<FoodResponseDTO>> searchByName(
             @RequestParam String name,
+            @RequestParam FoodType type,
             @PageableDefault(size = 10) Pageable pageable) {
-        return ResponseEntity.ok(foodService.searchByName(name, pageable));
+        return ResponseEntity.ok(foodService.searchByName(name, type, pageable));
     }
 
     @Operation(summary = "Filtrar alimentos por tipo")

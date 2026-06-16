@@ -9,6 +9,6 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface FoodRepository extends JpaRepository<Food, Long> {
-    Page<Food> findByFoodNameContainingIgnoreCase(String foodName, Pageable pageable);
+    Page<Food> findByFoodNameLikeIgnoreCaseAndFoodType(String foodName,FoodType foodType,Pageable pageable);
     Page<Food> findByFoodType(FoodType foodType, Pageable pageable);
 }

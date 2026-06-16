@@ -56,11 +56,11 @@ public class UserWeightController {
                             schema = @Schema(implementation = ErrorResponse.class)))
     })
     @PostMapping
-    public ResponseEntity<UserWeightResponseDto> createWeight(
+    public ResponseEntity<UserWeightResponseDto> upsertWeight(
             @PathVariable Long profileId,
             @RequestBody UserWeightCreateRequestDto request) {
 
-        return ResponseEntity.status(HttpStatus.CREATED)
-                .body(userWeightService.createWeight(profileId, request));
+        return ResponseEntity.status(HttpStatus.OK)
+                .body(userWeightService.upsertWeight(profileId, request));
     }
 }

@@ -22,25 +22,37 @@ public class UserMetricService implements IUserMetricService {
     private final UserRepository userRepository;
 
     @Override
-    public List<UserMetricResponseDto> getMetrics(Long userId) {
-        return userMetricRepository.findAllByUserIdOrderByIdDesc(userId)
-                .stream()
-                .map(ProfileMapper::toUserMetricResponseDto)
-                .toList();
+    public UserMetricResponseDto getMetrics(Long userId) {
+        var metrics = userMetricRepository.findByUserId(userId).orElseThrow(
+                () -> new ResourceNotFoundException("Metricas no encontradas")
+        );
+
+        return ProfileMapper.toUserMetricResponseDto(metrics);
     }
 
     @Override
-    public UserMetricResponseDto createMetric(Long userId, UserMetricCreateRequestDto request) {
+    public UserMetricResponseDto upsertMetric(Long userId, UserMetricCreateRequestDto request) {
         User user = userRepository.findById(userId)
                 .orElseThrow(() -> new ResourceNotFoundException("Usuario no encontrado"));
 
-        UserMetric metric = UserMetric.builder()
-                .user(user)
-                .height(request.height())
-                .chest(request.chest())
-                .arm(request.arm())
-                .build();
+        UserMetric metric = userMetricRepository.findByUserId(userId)
+                .map(existingMetric -> {
+                    existingMetric.setHeight(request.height());
+                    existingMetric.setChest(request.chest());
+                    existingMetric.setArm(request.arm());
+                    return existingMetric;
+                })
+                .orElseGet(() -> {
+                    return UserMetric.builder()
+                            .user(user)
+                            .height(request.height())
+                            .chest(request.chest())
+                            .arm(request.arm())
+                            .build();
+                });
 
-        return ProfileMapper.toUserMetricResponseDto(userMetricRepository.save(metric));
+        UserMetric savedMetric = userMetricRepository.save(metric);
+
+        return ProfileMapper.toUserMetricResponseDto(savedMetric);
     }
 }
