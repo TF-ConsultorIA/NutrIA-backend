@@ -37,7 +37,7 @@ public class MetricsController {
                             schema = @Schema(implementation = ErrorResponse.class)))
     })
     @GetMapping
-    public ResponseEntity<List<UserMetricResponseDto>> getMetrics(@PathVariable Long profileId) {
+    public ResponseEntity<UserMetricResponseDto> getMetrics(@PathVariable Long profileId) {
         return ResponseEntity.ok(userMetricService.getMetrics(profileId));
     }
 
@@ -56,11 +56,11 @@ public class MetricsController {
                             schema = @Schema(implementation = ErrorResponse.class)))
     })
     @PostMapping
-    public ResponseEntity<UserMetricResponseDto> createMetric(
+    public ResponseEntity<UserMetricResponseDto> upsertMetric(
             @PathVariable Long profileId,
             @RequestBody UserMetricCreateRequestDto request) {
 
-        return ResponseEntity.status(HttpStatus.CREATED)
-                .body(userMetricService.createMetric(profileId, request));
+        return ResponseEntity.status(HttpStatus.OK)
+                .body(userMetricService.upsertMetric(profileId, request));
     }
 }

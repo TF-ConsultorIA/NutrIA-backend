@@ -7,7 +7,7 @@ import com.nutria.nutria_api.food.mapper.FoodMapper;
 import com.nutria.nutria_api.food.model.Food;
 import com.nutria.nutria_api.food.model.FoodType;
 import com.nutria.nutria_api.food.repository.FoodRepository;
-import com.nutria.nutria_api.food.service.FoodService;
+import com.nutria.nutria_api.food.service.impl.FoodServiceImpl;
 import com.nutria.nutria_api.shared.pagination.PageResponse;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
@@ -42,9 +42,9 @@ public class FoodServiceImpl implements FoodService {
     // US-11 : Búsqueda de alimentos por nombre
     @Override
     @Transactional(Transactional.TxType.SUPPORTS)
-    public PageResponse<FoodResponseDTO> searchByName(String name, Pageable pageable) {
+    public PageResponse<FoodResponseDTO> searchByName(String name, FoodType foodType, Pageable pageable) {
         return PageResponse.from(
-                foodRepository.findByFoodNameContainingIgnoreCase(name, pageable)
+                foodRepository.findByFoodNameLikeIgnoreCaseAndFoodType("%" + name + "%", foodType, pageable)
                         .map(foodMapper::toDTO)
         );
     }

@@ -6,6 +6,6 @@ import com.nutria.nutria_api.profile.dto.UserMetricResponseDto;
 import java.util.List;
 
 public interface IUserMetricService {
-    List<UserMetricResponseDto> getMetrics(Long userId);
-    UserMetricResponseDto createMetric(Long userId, UserMetricCreateRequestDto request);
+    UserMetricResponseDto getMetrics(Long userId);
+    UserMetricResponseDto upsertMetric(Long userId, UserMetricCreateRequestDto request);
 }
