@@ -6,6 +6,7 @@ public record FoodResponseDTO(
         Long id,
         String foodName,
         FoodType foodType,
+        String foodGroup,
         Double energy,
         Double proteins,
         Double totalFat,
