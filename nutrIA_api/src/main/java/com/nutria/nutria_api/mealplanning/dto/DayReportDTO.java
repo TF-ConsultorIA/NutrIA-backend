@@ -5,7 +5,7 @@ import java.util.List;
 
 public record DayReportDTO(
         LocalDate date,
-        List<FoodWeekPlanResponseDTO> desayuno,
-        List<FoodWeekPlanResponseDTO> almuerzo,
-        List<FoodWeekPlanResponseDTO> cena
+        List<FoodWeekPlanDetailResponseDTO> desayuno,
+        List<FoodWeekPlanDetailResponseDTO> almuerzo,
+        List<FoodWeekPlanDetailResponseDTO> cena
 ) {}

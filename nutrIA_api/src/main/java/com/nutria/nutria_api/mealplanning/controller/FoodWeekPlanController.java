@@ -1,8 +1,6 @@
 package com.nutria.nutria_api.mealplanning.controller;
 
-import com.nutria.nutria_api.mealplanning.dto.FoodWeekPlanBulkRequestDTO;
-import com.nutria.nutria_api.mealplanning.dto.FoodWeekPlanRequestDTO;
-import com.nutria.nutria_api.mealplanning.dto.FoodWeekPlanResponseDTO;
+import com.nutria.nutria_api.mealplanning.dto.*;
 import com.nutria.nutria_api.mealplanning.service.FoodWeekPlanService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
@@ -23,27 +21,19 @@ public class FoodWeekPlanController {
 
     private final FoodWeekPlanService foodWeekPlanService;
 
-    @Operation(summary = "Obtener todos los planes de un usuario")
-    @ApiResponses({@ApiResponse(responseCode = "200", description = "Planes obtenidos correctamente")})
     @GetMapping("/user/{userId}")
     public ResponseEntity<List<FoodWeekPlanResponseDTO>> getByUser(@PathVariable Long userId) {
         return ResponseEntity.ok(foodWeekPlanService.getPlansByUser(userId));
     }
 
-    @Operation(summary = "Obtener planes de un usuario en una semana específica")
-    @ApiResponses({@ApiResponse(responseCode = "200", description = "Planes obtenidos correctamente")})
+    @Operation(summary = "Planes de un usuario en una semana, con info nutricional completa")
     @GetMapping("/user/{userId}/week/{weekId}")
-    public ResponseEntity<List<FoodWeekPlanResponseDTO>> getByUserAndWeek(
+    public ResponseEntity<List<FoodWeekPlanDetailResponseDTO>> getByUserAndWeek(
             @PathVariable Long userId,
             @PathVariable Long weekId) {
         return ResponseEntity.ok(foodWeekPlanService.getPlansByUserAndWeek(userId, weekId));
     }
 
-    @Operation(summary = "Añadir una comida al plan (manual por timeDay)")
-    @ApiResponses({
-            @ApiResponse(responseCode = "201", description = "Comida añadida correctamente"),
-            @ApiResponse(responseCode = "400", description = "Datos inválidos")
-    })
     @PostMapping
     public ResponseEntity<FoodWeekPlanResponseDTO> addMeal(
             @Valid @RequestBody FoodWeekPlanRequestDTO request) {
@@ -51,11 +41,6 @@ public class FoodWeekPlanController {
                 .body(foodWeekPlanService.addMeal(request));
     }
 
-    @Operation(summary = "Añadir un plan semanal completo (desde chatbot de IA)")
-    @ApiResponses({
-            @ApiResponse(responseCode = "201", description = "Plan semanal añadido correctamente"),
-            @ApiResponse(responseCode = "400", description = "Datos inválidos")
-    })
     @PostMapping("/bulk")
     public ResponseEntity<List<FoodWeekPlanResponseDTO>> addBulkMeals(
             @Valid @RequestBody FoodWeekPlanBulkRequestDTO request) {
@@ -63,11 +48,18 @@ public class FoodWeekPlanController {
                 .body(foodWeekPlanService.addBulkMeals(request));
     }
 
-    @Operation(summary = "Eliminar una comida del plan")
+    @Operation(summary = "Editar la porción de una comida ya planificada")
     @ApiResponses({
-            @ApiResponse(responseCode = "204", description = "Comida eliminada correctamente"),
+            @ApiResponse(responseCode = "200", description = "Porción actualizada correctamente"),
             @ApiResponse(responseCode = "404", description = "Plan no encontrado")
     })
+    @PutMapping("/{id}")
+    public ResponseEntity<FoodWeekPlanResponseDTO> updatePortion(
+            @PathVariable Long id,
+            @Valid @RequestBody UpdatePortionRequestDTO request) {
+        return ResponseEntity.ok(foodWeekPlanService.updatePortion(id, request));
+    }
+
     @DeleteMapping("/{id}")
     public ResponseEntity<Void> deleteMeal(@PathVariable Long id) {
         foodWeekPlanService.deleteMeal(id);

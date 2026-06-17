@@ -1,7 +1,7 @@
 package com.nutria.nutria_api.mealplanning.service.impl;
 
 import com.nutria.nutria_api.mealplanning.dto.DayReportDTO;
-import com.nutria.nutria_api.mealplanning.dto.FoodWeekPlanResponseDTO;
+import com.nutria.nutria_api.mealplanning.dto.FoodWeekPlanDetailResponseDTO;
 import com.nutria.nutria_api.mealplanning.dto.WeekReportResponseDTO;
 import com.nutria.nutria_api.mealplanning.dto.WeekResponseDTO;
 import com.nutria.nutria_api.mealplanning.model.TimeDay;
@@ -27,14 +27,11 @@ public class FoodWeekPlanReportServiceImpl implements FoodWeekPlanReportService 
     @Override
     @Transactional(Transactional.TxType.SUPPORTS)
     public WeekReportResponseDTO getCurrentWeekReport(Long userId) {
-        // 1. Obtener la semana actual
         WeekResponseDTO currentWeek = weekService.getCurrentWeek();
 
-        // 2. Obtener todos los planes del usuario para esa semana
-        List<FoodWeekPlanResponseDTO> plans = foodWeekPlanService
+        List<FoodWeekPlanDetailResponseDTO> plans = foodWeekPlanService
                 .getPlansByUserAndWeek(userId, currentWeek.id());
 
-        // 3. Generar un DayReportDTO por cada día de la semana (startDate → endDate)
         List<DayReportDTO> days = currentWeek.startDate()
                 .datesUntil(currentWeek.endDate().plusDays(1))
                 .map(date -> buildDayReport(date, plans))
@@ -50,16 +47,15 @@ public class FoodWeekPlanReportServiceImpl implements FoodWeekPlanReportService 
         );
     }
 
-    // Construye el reporte de un día filtrando por timeDay
-    private DayReportDTO buildDayReport(LocalDate date, List<FoodWeekPlanResponseDTO> plans) {
-        List<FoodWeekPlanResponseDTO> desayuno = filterByDateAndTime(plans, date, TimeDay.Desayuno);
-        List<FoodWeekPlanResponseDTO> almuerzo  = filterByDateAndTime(plans, date, TimeDay.Almuerzo);
-        List<FoodWeekPlanResponseDTO> cena      = filterByDateAndTime(plans, date, TimeDay.Cena);
+    private DayReportDTO buildDayReport(LocalDate date, List<FoodWeekPlanDetailResponseDTO> plans) {
+        List<FoodWeekPlanDetailResponseDTO> desayuno = filterByDateAndTime(plans, date, TimeDay.Desayuno);
+        List<FoodWeekPlanDetailResponseDTO> almuerzo = filterByDateAndTime(plans, date, TimeDay.Almuerzo);
+        List<FoodWeekPlanDetailResponseDTO> cena     = filterByDateAndTime(plans, date, TimeDay.Cena);
         return new DayReportDTO(date, desayuno, almuerzo, cena);
     }
 
-    private List<FoodWeekPlanResponseDTO> filterByDateAndTime(
-            List<FoodWeekPlanResponseDTO> plans, LocalDate date, TimeDay timeDay) {
+    private List<FoodWeekPlanDetailResponseDTO> filterByDateAndTime(
+            List<FoodWeekPlanDetailResponseDTO> plans, LocalDate date, TimeDay timeDay) {
         return plans.stream()
                 .filter(p -> p.date().equals(date) && p.timeDay().equals(timeDay))
                 .toList();
