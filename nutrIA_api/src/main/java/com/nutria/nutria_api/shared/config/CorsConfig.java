@@ -12,7 +12,7 @@ import java.util.List;
 @Configuration
 public class CorsConfig {
 
-    @Value("${CORS_ALLOWED_ORIGINS:http://localhost:4200,http://localhost:53555}")
+    @Value("${nutria.security.cors.allowed-origins:http://localhost:4200,http://localhost:53555}")
     private List<String> allowedOrigins;
 
     @Bean
