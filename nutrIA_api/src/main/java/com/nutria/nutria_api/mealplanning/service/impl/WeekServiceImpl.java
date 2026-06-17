@@ -46,7 +46,7 @@ public class WeekServiceImpl implements WeekService {
         LocalDate today = LocalDate.now();
         Week week = weekRepository
                 .findByStartDateLessThanEqualAndEndDateGreaterThanEqual(today, today)
-                .orElseThrow(() -> new WeekNotFoundException(0L));
+                .orElseThrow(WeekNotFoundException::new);
         return weekMapper.toDTO(week);
     }
 
