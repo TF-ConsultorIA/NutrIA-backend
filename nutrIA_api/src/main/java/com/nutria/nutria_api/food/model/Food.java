@@ -19,8 +19,12 @@ public class Food {
     @Column(name = "food_name", nullable = false)
     private String foodName;
 
+    @Column(name="food_group")
+    private String foodGroup;
+
+    @Enumerated(EnumType.STRING)
     @Column(name = "food_type", nullable = false)
-    private String foodType;
+    private FoodType foodType;
 
     @Column()
     private Double energy;

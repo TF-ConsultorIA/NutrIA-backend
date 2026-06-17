@@ -1,7 +1,9 @@
 package com.nutria.nutria_api.food.exception;
 
-public class FoodNotFoundException extends RuntimeException {
+import com.nutria.nutria_api.shared.exception.ResourceNotFoundException;
+
+public class FoodNotFoundException extends ResourceNotFoundException {
     public FoodNotFoundException(Long id) {
-        super("Food not found with id: " + id);
+        super("El alimento con id " + id + " no fue encontrado");
     }
 }

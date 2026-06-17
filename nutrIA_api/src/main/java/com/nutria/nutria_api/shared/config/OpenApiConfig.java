@@ -14,7 +14,7 @@ public class OpenApiConfig {
     private static final String SCHEME = "bearerAuth";
 
     @Bean
-    public OpenAPI pagoyaOpenAPI() {
+    public OpenAPI nutriaOpenAPI() {
         return new OpenAPI()
                 .info(new Info()
                         .title("NutrIA API")

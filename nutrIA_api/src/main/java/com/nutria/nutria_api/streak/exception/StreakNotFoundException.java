@@ -1,7 +1,9 @@
 package com.nutria.nutria_api.streak.exception;
 
-public class StreakNotFoundException extends RuntimeException {
+import com.nutria.nutria_api.shared.exception.ResourceNotFoundException;
+
+public class StreakNotFoundException extends ResourceNotFoundException {
     public StreakNotFoundException(Long userId) {
-        super("Streak not found for user with id: " + userId);
+        super("La racha del usuario con id " + userId + " no fue encontrada");
     }
 }
