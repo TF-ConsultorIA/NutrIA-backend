@@ -1,7 +1,31 @@
 spring:
   profiles:
     active: ${SPRING_PROFILES_ACTIVE:local}
+
   application:
     name: nutria
+
+  ai:
+    google:
+      genai:
+        api-key: ${GOOGLE_GENAI_API_KEY}
+        project-id: ${GOOGLE_GENAI_PROJECT_ID}
+        location: ${GOOGLE_GENAI_LOCATION}
+        chat:
+          model: gemini-3.1-flash-lite
+        embedding:
+          api-key: ${GOOGLE_GENAI_API_KEY}
+          text:
+            model: gemini-embedding-001
+            dimensions: 1536
+    vectorstore:
+      pgvector:
+        dimensions: 1536
+        initialize-schema: true
+logging:
+  level:
+    org.springframework.ai: DEBUG
+    com.google.genai: DEBUG
+    root: INFO
 server:
   port: ${PORT:8080}
