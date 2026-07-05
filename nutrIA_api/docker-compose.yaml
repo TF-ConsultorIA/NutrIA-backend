@@ -1,7 +1,8 @@
 services:
   postgres:
-    image: postgres:16
+    image: pgvector/pgvector:pg16
     container_name: nutria_db
+    restart: unless-stopped
     environment:
       POSTGRES_DB: nutria_db
       POSTGRES_USER: postgres
@@ -21,6 +22,7 @@ services:
       - '8082:80'
     depends_on:
       - postgres
+
   azurite:
     image: mcr.microsoft.com/azure-storage/azurite
     container_name: nutria_azurite

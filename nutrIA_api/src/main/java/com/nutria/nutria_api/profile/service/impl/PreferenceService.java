@@ -11,6 +11,7 @@ import com.nutria.nutria_api.profile.service.IPreferenceService;
 import com.nutria.nutria_api.shared.exception.BusinessRuleException;
 import com.nutria.nutria_api.shared.exception.ResourceNotFoundException;
 import lombok.RequiredArgsConstructor;
+import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Service;
 
 import java.util.*;
@@ -105,6 +106,20 @@ public class PreferenceService implements IPreferenceService {
 
         Preference pref = buildPreference(user, request.foodId(), request.type());
         return ProfileMapper.toPreferenceItemDto(preferenceRepository.save(pref));
+    }
+
+    @Override
+    public List<PreferenceItemDto> getMyTypePreference(String type) {
+        String email = SecurityContextHolder.getContext().getAuthentication().getName();
+
+        User user = userRepository.findByEmail(email)
+                .orElseThrow(() -> new ResourceNotFoundException("Usuario no encontrado"));
+
+        return preferenceRepository.findAllByUserId(user.getId())
+                .stream()
+                .filter(p -> p.getType().toLowerCase().equals(type))
+                .map(ProfileMapper::toPreferenceItemDto)
+                .toList();
     }
 
     @Override
