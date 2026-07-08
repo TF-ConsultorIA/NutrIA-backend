@@ -1,5 +1,7 @@
 package com.nutria.nutria_api.mealplanning.service.impl;
 
+import com.nutria.nutria_api.auth.model.User;
+import com.nutria.nutria_api.auth.repository.UserRepository;
 import com.nutria.nutria_api.food.mapper.FoodMapper;
 import com.nutria.nutria_api.food.model.Food;
 import com.nutria.nutria_api.food.repository.FoodRepository;
@@ -7,12 +9,18 @@ import com.nutria.nutria_api.mealplanning.dto.*;
 import com.nutria.nutria_api.mealplanning.exception.FoodWeekPlanNotFoundException;
 import com.nutria.nutria_api.mealplanning.mapper.FoodWeekPlanMapper;
 import com.nutria.nutria_api.mealplanning.model.FoodWeekPlan;
+import com.nutria.nutria_api.mealplanning.model.Week;
 import com.nutria.nutria_api.mealplanning.repository.FoodWeekPlanRepository;
 import com.nutria.nutria_api.mealplanning.service.FoodWeekPlanService;
+import com.nutria.nutria_api.mealplanning.service.WeekService;
+import com.nutria.nutria_api.shared.exception.ResourceNotFoundException;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
+import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Service;
 
+import java.time.LocalDate;
+import java.time.temporal.WeekFields;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -25,6 +33,8 @@ public class FoodWeekPlanServiceImpl implements FoodWeekPlanService {
     private final FoodWeekPlanMapper foodWeekPlanMapper;
     private final FoodRepository foodRepository;
     private final FoodMapper foodMapper;
+    private final UserRepository userRepository;
+    private final WeekService weekService;
 
     @Override
     @Transactional(Transactional.TxType.SUPPORTS)
@@ -57,6 +67,20 @@ public class FoodWeekPlanServiceImpl implements FoodWeekPlanService {
                         foodMapper.toDTO(foodsById.get(plan.getFoodId()))
                 ))
                 .toList();
+    }
+
+    @Override
+    @Transactional
+    public List<FoodWeekPlanDetailResponseDTO> getMyCurrentWeekPlan() {
+        String email = SecurityContextHolder.getContext().getAuthentication().getName();
+
+        User user = userRepository.findByEmail(email).orElseThrow(
+                () -> new ResourceNotFoundException("Usuario no encontrado")
+        );
+
+        WeekResponseDTO currWeek = weekService.getCurrentWeek();
+
+        return getPlansByUserAndWeek(user.getId(), currWeek.id());
     }
 
     @Override
